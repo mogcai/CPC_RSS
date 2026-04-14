@@ -1,0 +1,92 @@
+# %%
+import requests
+from bs4 import BeautifulSoup
+import re
+from datetime import datetime, timedelta
+import pytz
+
+
+
+# %%
+today = (datetime.today()-timedelta(days=1)).strftime('%Y/%m/%d')
+today = (datetime.today()).strftime('%Y/%m/%d')
+
+posts=[]
+def get_jtm_post_list(page=1):
+    url=f'https://jtm.com.mo/{today}/page/{page}/'
+    headers={'USER-AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0'}
+    r=requests.get(url, headers=headers)
+    soup=BeautifulSoup(r.content)
+    posts=soup.find_all('h2')
+    return posts
+
+for page in range(1,10):
+    posts+=get_jtm_post_list(page)
+
+# %%
+def get_article(url):
+    headers={'USER-AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0'}
+    r=requests.get(url, headers=headers)
+    soup=BeautifulSoup(r.content)
+    if soup.find('span', {'class': 'meta-date'}):
+        date=soup.find('span', {'class': 'meta-date'}).text
+        date=datetime.strptime(date, '%d %b, %Y').strftime('%Y-%m-%d %H:%M:%S')
+    else:
+        date=None
+    
+    if soup.find('span', {'class': 'meta-author'}):
+        author=soup.find('span', {'class': 'meta-author'}).text
+        author=author if author!='' else 'None'
+    else:
+        author="None"
+    
+    if soup.find('h2', {'class': 'single-title'}):
+        title=soup.find('h2', {'class': 'single-title'}).text
+    else:
+        title=None
+    
+    if soup.find('div', {'class': 'post-content entry clearfix'}):
+        content=soup.find('div', {'class': 'post-content entry clearfix'}).text.strip()
+    else:
+        content=None
+    return date, title, author, content
+
+# %%
+restructured_posts=[]
+for idx, post in enumerate(posts):
+    link=post.a.get('href')
+    date, title, author, content=get_article(link)
+    dict_post={
+        'title': title,
+        'author': author,
+        'link': link,
+        'date': date,
+        'content': content
+    }
+    restructured_posts.append(dict_post)
+
+# %%
+
+import xml.etree.ElementTree as ET
+
+# Create the root of the RSS feed
+rss = ET.Element('rss', version='2.0')
+channel = ET.SubElement(rss, 'channel')
+
+# Add channel elements
+ET.SubElement(channel, 'title').text = 'Jornal TRIBUNA DE MACAU'
+ET.SubElement(channel, 'link').text = 'https://jtm.com.mo/'
+ET.SubElement(channel, 'description').text = 'Jornal TRIBUNA DE MACAU RSS'
+
+# Add items
+for item in restructured_posts:
+    item_elem = ET.SubElement(channel, 'item')
+    ET.SubElement(item_elem, 'title').text = item['title']
+    ET.SubElement(item_elem, 'link').text = item['link']
+    ET.SubElement(item_elem, 'description').text = item['content']
+    ET.SubElement(item_elem, 'pubDate').text = item['date']
+
+# Convert to string and save to an XML file
+rss_feed = ET.tostring(rss, encoding='utf-8', method='xml').decode()
+with open('Jornal_TRIBUNA_DE_MACAU.xml', 'w', encoding='utf-8') as xml_file:
+    xml_file.write(rss_feed)
