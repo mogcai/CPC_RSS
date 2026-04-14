@@ -3,6 +3,8 @@ import requests
 from bs4 import BeautifulSoup
 import re
 from datetime import datetime, timedelta
+from email.utils import formatdate # 用嚟整標準 RSS 時間格式
+import time
 
 
 
@@ -29,8 +31,11 @@ def get_article(url):
     r=requests.get(url, headers=headers)
     soup=BeautifulSoup(r.content, "html.parser")
     if soup.find('span', {'class': 'meta-date'}):
-        date=soup.find('span', {'class': 'meta-date'}).text
-        date=datetime.strptime(date, '%d %b, %Y').strftime('%Y-%m-%d %H:%M:%S')
+        # date=soup.find('span', {'class': 'meta-date'}).text
+        # date=datetime.strptime(date, '%d %b, %Y').strftime('%Y-%m-%d %H:%M:%S')
+        date_str=soup.find('span', {'class': 'meta-date'}).text
+        dt = datetime.strptime(date, '%d %b, %Y')
+        date = formatdate(time.mktime(dt.timetuple()))
     else:
         date=None
     
@@ -66,6 +71,7 @@ if posts:
             'content': content
         }
         restructured_posts.append(dict_post)
+        time.sleep(1.5) # 每次入內文前停一停，對人哋 Server 禮貌啲
 
     # %%
 
