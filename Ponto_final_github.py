@@ -16,7 +16,7 @@ time.sleep(10)
 r
 
 # %%
-soup=BeautifulSoup(r.content)
+soup=BeautifulSoup(r.content, "html.parser")
 content=soup.find_all('div', class_='td-main-content-wrap td-container-wrap')[0]
 posts=content.find_all('h3', class_='entry-title td-module-title')
 valid_post=list(set([post.find_all('a')[0].get('href') for post in posts]))
@@ -33,7 +33,7 @@ def get_article(url):
     headers={'USER-AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0'}
     r=requests.get(url, headers=headers)
     time.sleep(10)
-    soup=BeautifulSoup(r.content)
+    soup=BeautifulSoup(r.content, "html.parser")
     # data=soup.find_all('div', {'class': 'td-pb-span8'})[-1]
     if soup.find('time', {'class': 'entry-date updated td-module-date'}):
         date=soup.find_all('time', {'class': 'entry-date updated td-module-date'})[0].get('datetime')
