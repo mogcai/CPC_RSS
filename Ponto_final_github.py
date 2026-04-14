@@ -17,16 +17,11 @@ r
 
 # %%
 soup=BeautifulSoup(r.content, "html.parser")
+
 content=soup.find_all('div', class_='td-main-content-wrap td-container-wrap')[0]
 posts=content.find_all('h3', class_='entry-title td-module-title')
 valid_post=list(set([post.find_all('a')[0].get('href') for post in posts]))
 
-# %%
-url=valid_post[0]
-headers={'USER-AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0'}
-r=requests.get(url, headers=headers)
-time.sleep(10)
-soup=BeautifulSoup(r.content)
 
 # %%
 def get_article(url):
@@ -34,6 +29,7 @@ def get_article(url):
     r=requests.get(url, headers=headers)
     time.sleep(10)
     soup=BeautifulSoup(r.content, "html.parser")
+
     # data=soup.find_all('div', {'class': 'td-pb-span8'})[-1]
     if soup.find('time', {'class': 'entry-date updated td-module-date'}):
         date=soup.find_all('time', {'class': 'entry-date updated td-module-date'})[0].get('datetime')
@@ -64,44 +60,45 @@ def get_article(url):
     return date, title, cat, author, content
 
 # %%
-restructured_posts=[]
-for idx, url in enumerate(valid_post):
-    date, title, cat, author, content=get_article(url)
-    dict_post={
-        'title': title,
-        'category': cat,
-        'author': author,
-        'link': url,
-        'date': date,
-        'content': content
-    }
-    restructured_posts.append(dict_post)
+if valid_post:
+    restructured_posts=[]
+    for idx, url in enumerate(valid_post):
+        date, title, cat, author, content=get_article(url)
+        dict_post={
+            'title': title,
+            'category': cat,
+            'author': author,
+            'link': url,
+            'date': date,
+            'content': content
+        }
+        restructured_posts.append(dict_post)
 
-# %%
-restructured_posts
+    # %%
+    restructured_posts
 
-# %%
+    # %%
 
-import xml.etree.ElementTree as ET
+    import xml.etree.ElementTree as ET
 
-# Create the root of the RSS feed
-rss = ET.Element('rss', version='2.0')
-channel = ET.SubElement(rss, 'channel')
+    # Create the root of the RSS feed
+    rss = ET.Element('rss', version='2.0')
+    channel = ET.SubElement(rss, 'channel')
 
-# Add channel elements
-ET.SubElement(channel, 'title').text = 'Ponto_final'
-ET.SubElement(channel, 'link').text = 'https://pontofinal-macau.com'
-ET.SubElement(channel, 'description').text = 'Ponto_final RSS'
+    # Add channel elements
+    ET.SubElement(channel, 'title').text = 'Ponto_final'
+    ET.SubElement(channel, 'link').text = 'https://pontofinal-macau.com'
+    ET.SubElement(channel, 'description').text = 'Ponto_final RSS'
 
-# Add items
-for item in restructured_posts:
-    item_elem = ET.SubElement(channel, 'item')
-    ET.SubElement(item_elem, 'title').text = item['title']
-    ET.SubElement(item_elem, 'link').text = item['link']
-    ET.SubElement(item_elem, 'description').text = item['content']
-    ET.SubElement(item_elem, 'pubDate').text = item['date']
+    # Add items
+    for item in restructured_posts:
+        item_elem = ET.SubElement(channel, 'item')
+        ET.SubElement(item_elem, 'title').text = item['title']
+        ET.SubElement(item_elem, 'link').text = item['link']
+        ET.SubElement(item_elem, 'description').text = item['content']
+        ET.SubElement(item_elem, 'pubDate').text = item['date']
 
-# Convert to string and save to an XML file
-rss_feed = ET.tostring(rss, encoding='utf-8', method='xml').decode()
-with open('Ponto_final_pt.xml', 'w', encoding='utf-8') as xml_file:
-    xml_file.write(rss_feed)
+    # Convert to string and save to an XML file
+    rss_feed = ET.tostring(rss, encoding='utf-8', method='xml').decode()
+    with open('Ponto_final_pt.xml', 'w', encoding='utf-8') as xml_file:
+        xml_file.write(rss_feed)
