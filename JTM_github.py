@@ -16,7 +16,7 @@ def get_jtm_post_list(page=1):
     url=f'https://jtm.com.mo/{today}/page/{page}/'
     headers={'USER-AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0'}
     r=requests.get(url, headers=headers)
-    soup=BeautifulSoup(r.content)
+    soup=BeautifulSoup(r.content, "html.parser")
     posts=soup.find_all('h2')
     return posts
 
