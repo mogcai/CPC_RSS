@@ -34,7 +34,7 @@ def get_article(url):
         # date=soup.find('span', {'class': 'meta-date'}).text
         # date=datetime.strptime(date, '%d %b, %Y').strftime('%Y-%m-%d %H:%M:%S')
         date_str=soup.find('span', {'class': 'meta-date'}).text
-        dt = datetime.strptime(date, '%d %b, %Y')
+        dt = datetime.strptime(date_str, '%d %b, %Y')
         date = formatdate(time.mktime(dt.timetuple()))
     else:
         date = formatdate() # 萬一冇日期就用而家
