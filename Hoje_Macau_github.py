@@ -3,6 +3,8 @@ import requests
 from bs4 import BeautifulSoup
 import re
 from datetime import datetime, timedelta
+from email.utils import formatdate # 用嚟整標準 RSS 時間格式
+import time
 
 # %%
 today = (datetime.today()-timedelta(days=1)).strftime('%Y/%m/%d')
@@ -10,7 +12,6 @@ today = (datetime.today()).strftime('%Y/%m/%d')
 url=f'https://hojemacau.com.mo/{today}/'
 headers={'USER-AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0'}
 r=requests.get(url, headers=headers)
-r
 
 # %%
 soup=BeautifulSoup(r.content, "html.parser")
@@ -26,13 +27,19 @@ def get_article(url):
     soup=BeautifulSoup(r.content, "html.parser")
 
     if soup.find('time', {'class': re.compile('entry-date')}):
-        date=soup.find('time', {'class': re.compile('entry-date')}).get('datetime')
-        date=datetime.fromisoformat(date).strftime('%Y-%m-%d %H:%M:%S')
+        # date=soup.find('time', {'class': re.compile('entry-date')}).get('datetime')
+        # date=datetime.fromisoformat(date).strftime('%Y-%m-%d %H:%M:%S')
+        date_str=soup.find('time', {'class': re.compile('entry-date')}).get('datetime')
+        dt = datetime.fromisoformat(date_str)
+        # 轉成 RSS 標準格式: Wed, 14 Apr 2024 00:00:00 +0000
+        date = formatdate(time.mktime(dt.timetuple()))
     else:
-        date=None
+        # date=None
+        date = formatdate() # 萬一冇日期就用而家
         
     if soup.find('div', {'class': 'entry-content'}):
-        content=soup.find('div', {'class': 'entry-content'}).text
+        # content=soup.find('div', {'class': 'entry-content'}).text
+        content=soup.find('div', {'class': 'entry-content'}).decode_contents()
     else:
         content=None
 
@@ -46,7 +53,7 @@ def get_article(url):
     else:
         author=None
     
-    return date, content,cat, author
+    return date, content, cat, author
 
 
 if lst_post:
@@ -55,7 +62,7 @@ if lst_post:
         
         title=post.a.text
         link=post.a.get('href')
-        date, content,cat, author=get_article(link)
+        date, content, cat, author=get_article(link)
 
         dict_post={
             'title': title,
@@ -66,6 +73,7 @@ if lst_post:
             'content': content
         }
         restructured_posts.append(dict_post)
+        time.sleep(1.5) # 每次入內文前停一停，對人哋 Server 禮貌啲
 
     # %%
     import xml.etree.ElementTree as ET
