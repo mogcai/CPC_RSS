@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 import re
 from datetime import datetime, timedelta
 import time
+from email.utils import formatdate # 用嚟整標準 RSS 時間格式
 
 # %%
 # today = datetime.today().strftime('%Y/%m/%d')
@@ -13,7 +14,6 @@ url=f'https://pontofinal-macau.com/{today}/'
 headers={'USER-AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0'}
 r=requests.get(url, headers=headers)
 time.sleep(10)
-r
 
 # %%
 soup=BeautifulSoup(r.content, "html.parser")
@@ -32,10 +32,11 @@ def get_article(url):
 
     # data=soup.find_all('div', {'class': 'td-pb-span8'})[-1]
     if soup.find('time', {'class': 'entry-date updated td-module-date'}):
-        date=soup.find_all('time', {'class': 'entry-date updated td-module-date'})[0].get('datetime')
-        date=datetime.strptime(date, '%Y-%m-%dT%H:%M:%S%z').strftime('%Y-%m-%d %H:%M:%S')
+        date_str=soup.find_all('time', {'class': 'entry-date updated td-module-date'})[0].get('datetime')
+        dt=datetime.strptime(date, '%Y-%m-%dT%H:%M:%S%z')
+        date = formatdate(time.mktime(dt.timetuple()))
     else:
-        date=None
+        date = formatdate() # 萬一冇日期就用而家
     
     if soup.find('h1', class_='tdb-title-text'):
         title=soup.find_all('h1', class_='tdb-title-text')[0].get_text().strip()
@@ -48,7 +49,8 @@ def get_article(url):
         author=None
 
     if soup.find('div', class_='td-post-content'):
-        content=soup.find_all('div', class_='td-post-content')[0].get_text().strip()
+        # content=soup.find_all('div', class_='td-post-content')[0].get_text().strip()
+        content=soup.find_all('div', class_='td-post-content')[0].decode_contents()
     else:
         content=None
 
@@ -73,9 +75,7 @@ if valid_post:
             'content': content
         }
         restructured_posts.append(dict_post)
-
-    # %%
-    restructured_posts
+        time.sleep(1.5) # 每次入內文前停一停，對人哋 Server 禮貌
 
     # %%
 
