@@ -37,7 +37,7 @@ def get_article(url):
         dt = datetime.strptime(date, '%d %b, %Y')
         date = formatdate(time.mktime(dt.timetuple()))
     else:
-        date=None
+        date = formatdate() # 萬一冇日期就用而家
     
     if soup.find('span', {'class': 'meta-author'}):
         author=soup.find('span', {'class': 'meta-author'}).text
@@ -51,7 +51,8 @@ def get_article(url):
         title=None
     
     if soup.find('div', {'class': 'post-content entry clearfix'}):
-        content=soup.find('div', {'class': 'post-content entry clearfix'}).text.strip()
+        # content=soup.find('div', {'class': 'post-content entry clearfix'}).text.strip()
+        content=soup.find('div', {'class': 'post-content entry clearfix'}).decode_contents()
     else:
         content=None
     return date, title, author, content
