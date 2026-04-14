@@ -33,7 +33,7 @@ def get_article(url):
     # data=soup.find_all('div', {'class': 'td-pb-span8'})[-1]
     if soup.find('time', {'class': 'entry-date updated td-module-date'}):
         date_str=soup.find_all('time', {'class': 'entry-date updated td-module-date'})[0].get('datetime')
-        dt=datetime.strptime(date, '%Y-%m-%dT%H:%M:%S%z')
+        dt=datetime.strptime(date_str, '%Y-%m-%dT%H:%M:%S%z')
         date = formatdate(time.mktime(dt.timetuple()))
     else:
         date = formatdate() # 萬一冇日期就用而家
