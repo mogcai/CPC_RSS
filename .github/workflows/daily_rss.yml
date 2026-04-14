@@ -27,9 +27,9 @@ jobs:
     - name: Run crawler
       run: |
         python Hoje_Macau_github.py  # 換成你嘅檔名
-        JTM_github.py  # 換成你嘅檔名
-        Ponto_final_github.py  # 換成你嘅檔名
-        CPC_github.py  # 換成你嘅檔名
+        python JTM_github.py  # 換成你嘅檔名
+        python Ponto_final_github.py  # 換成你嘅檔名
+        python CPC_github.py  # 換成你嘅檔名
 
     - name: Commit and Push if XML changed
       run: |
