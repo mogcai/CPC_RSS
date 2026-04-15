@@ -36,10 +36,18 @@ def get_article(url):
     else:
         # date=None
         date = formatdate() # 萬一冇日期就用而家
+
+    img_url = ""
+    img_tag = soup.find('div', {'class': re.compile('post-thumbnail')})
+    if img_tag:
+        img_url = img_tag.img.get('src')
         
     if soup.find('div', {'class': 'entry-content'}):
         # content=soup.find('div', {'class': 'entry-content'}).text
         content=soup.find('div', {'class': 'entry-content'}).decode_contents()
+
+        if img_url:
+                content = f'<img src="{img_url}" style="width:100%; margin-bottom:10px;""")/>><br/>' + content
     else:
         content=None
 
