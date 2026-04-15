@@ -38,6 +38,11 @@ def get_article(url):
         date = formatdate(time.mktime(dt.timetuple()))
     else:
         date = formatdate() # 萬一冇日期就用而家
+
+    img_url = ""
+    img_tag = soup.find('div', {'class': 'post-image-item'})
+    if img_tag:
+        img_url = img_tag.img.get('src')
     
     if soup.find('span', {'class': 'meta-author'}):
         author=soup.find('span', {'class': 'meta-author'}).text
@@ -53,6 +58,9 @@ def get_article(url):
     if soup.find('div', {'class': 'post-content entry clearfix'}):
         # content=soup.find('div', {'class': 'post-content entry clearfix'}).text.strip()
         content=soup.find('div', {'class': 'post-content entry clearfix'}).decode_contents()
+
+        if img_url:
+                content = f'<img src="{img_url}" style="width:100%; margin-bottom:10px;""")/>><br/>' + content
     else:
         content=None
     return date, title, author, content
