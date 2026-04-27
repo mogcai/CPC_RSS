@@ -20,6 +20,8 @@ soup=BeautifulSoup(r.content, "html.parser")
 lst_post=soup.find_all('h2', {'class': re.compile('entry-title')})
 
 
+print(f'Hoje Macau {today} 有{len(lst_post)}條新聞')
+
 # %%
 def get_article(url):
     headers={'USER-AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0'}
