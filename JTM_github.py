@@ -22,8 +22,18 @@ def get_jtm_post_list(page=1):
     posts=soup.find_all('h2')
     return posts
 
+# for page in range(1,10):
+#     posts+=get_jtm_post_list(page)
+
+posts=[]
 for page in range(1,10):
-    posts+=get_jtm_post_list(page)
+    post=get_jtm_post_list(page)
+    if post:
+        posts+=post
+    else:
+        break
+
+print(f'JTM 當日有{len(posts)}條新聞')
 
 # %%
 def get_article(url):
