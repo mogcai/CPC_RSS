@@ -12,7 +12,7 @@ today = (datetime.today()).strftime('%Y/%m/%d')
 url=f'https://pontofinal-macau.com/{today}/'
 headers={'USER-AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0'}
 r=requests.get(url, headers=headers)
-time.sleep(10)
+time.sleep(2)
 
 # %%
 soup=BeautifulSoup(r.content, "html.parser")
