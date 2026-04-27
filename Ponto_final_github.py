@@ -7,8 +7,7 @@ import time
 from email.utils import formatdate # 用嚟整標準 RSS 時間格式
 
 # %%
-# today = datetime.today().strftime('%Y/%m/%d')
-today = (datetime.today()-timedelta(days=1)).strftime('%Y/%m/%d')
+
 today = (datetime.today()).strftime('%Y/%m/%d')
 url=f'https://pontofinal-macau.com/{today}/'
 headers={'USER-AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0'}
@@ -18,9 +17,13 @@ time.sleep(10)
 # %%
 soup=BeautifulSoup(r.content, "html.parser")
 
-content=soup.find_all('div', class_='td-main-content-wrap td-container-wrap')[0]
-posts=content.find_all('h3', class_='entry-title td-module-title')
-valid_post=list(set([post.find_all('a')[0].get('href') for post in posts]))
+content_tag=soup.find_all('div', class_='td-main-content-wrap td-container-wrap')
+if content_tag:
+    content=content_tag[0]
+    posts=content.find_all('h3', class_='entry-title td-module-title')
+    valid_post=list(set([post.find_all('a')[0].get('href') for post in posts]))
+else:
+    valid_post=[]
 
 
 # %%
