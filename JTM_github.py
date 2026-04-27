@@ -33,7 +33,7 @@ for page in range(1,10):
     else:
         break
 
-print(f'JTM 當日有{len(posts)}條新聞')
+print(f'JTM {today} 有{len(posts)}條新聞')
 
 # %%
 def get_article(url):
