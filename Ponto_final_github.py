@@ -25,6 +25,7 @@ if content_tag:
 else:
     valid_post=[]
 
+print(f'Ponto Final {today} 日有{len(valid_post)}條新聞')
 
 # %%
 def get_article(url):
