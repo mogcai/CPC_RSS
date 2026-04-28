@@ -148,3 +148,53 @@
 2026-04-28 08:18:21 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/04/28。
 2026-04-28 08:18:24 - ERROR - ❌ 2026/04/28 連線失敗: 404
 2026-04-28 08:18:24 - INFO - ⚠️ 當日沒有新聞。
+2026-04-28 13:53:18 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/04/28。
+2026-04-28 13:53:19 - INFO - 成功獲取 2026/04/28 數據，當日有20條新聞。
+2026-04-28 13:53:19 - INFO - 正在爬取1/20則新聞。
+2026-04-28 13:53:20 - INFO - ✅ 成功獲取: UE | China ameaça retaliar contra lei industrial。
+2026-04-28 13:53:21 - INFO - 正在爬取2/20則新聞。
+2026-04-28 13:53:22 - INFO - ✅ 成功獲取: Corrupção | Julgamento de Netanyahu novamente adiado。
+2026-04-28 13:53:24 - INFO - 正在爬取3/20則新聞。
+2026-04-28 13:53:24 - INFO - ✅ 成功獲取: Farmácia | Indiana Sun Pharm compra grupo norte-americano Organon por 10.000 ME。
+2026-04-28 13:53:26 - INFO - 正在爬取4/20則新聞。
+2026-04-28 13:53:26 - INFO - ✅ 成功獲取: Verdades escondidas por trás dos números e reflexões sobre a felicidade。
+2026-04-28 13:53:28 - INFO - 正在爬取5/20則新聞。
+2026-04-28 13:53:29 - INFO - ✅ 成功獲取: Filme “Justa” de Teresa Villaverde premiado em festival de Pequim。
+2026-04-28 13:53:30 - INFO - 正在爬取6/20則新聞。
+2026-04-28 13:53:31 - INFO - ✅ 成功獲取: Concerto | Grupo EXO actua no Galaxy a 22 e 23 de Maio。
+2026-04-28 13:53:32 - INFO - 正在爬取7/20則新聞。
+2026-04-28 13:53:33 - INFO - ✅ 成功獲取: Pequim destaca “resiliência” do sector petrolífero apesar do conflito。
+2026-04-28 13:53:35 - INFO - 正在爬取8/20則新聞。
+2026-04-28 13:53:35 - INFO - ✅ 成功獲取: IA | Bloqueada aquisição da ‘startup’ Manus pela Meta。
+2026-04-28 13:53:37 - INFO - 正在爬取9/20則新聞。
+2026-04-28 13:53:37 - INFO - ✅ 成功獲取: Indústria chinesa | Lucros sobem 15,5% no primeiro trimestre。
+2026-04-28 13:53:39 - INFO - 正在爬取10/20則新聞。
+2026-04-28 13:53:40 - INFO - ✅ 成功獲取: Yuan | Emissão de dívida fora da China atinge máximos com procura de investidores。
+2026-04-28 13:53:41 - INFO - 正在爬取11/20則新聞。
+2026-04-28 13:53:42 - INFO - ✅ 成功獲取: Quem Subia e Descia Montanhas Guiando Carros de Bois。
+2026-04-28 13:53:43 - INFO - 正在爬取12/20則新聞。
+2026-04-28 13:53:44 - INFO - ✅ 成功獲取: Turismo | Macau acolhe nova edição da feira PATA Travel Mart em 2027。
+2026-04-28 13:53:45 - INFO - 正在爬取13/20則新聞。
+2026-04-28 13:53:46 - INFO - ✅ 成功獲取: Restauração | Alerta para perigo de comida contrabandeada。
+2026-04-28 13:53:48 - INFO - 正在爬取14/20則新聞。
+2026-04-28 13:53:48 - INFO - ✅ 成功獲取: Lojas | Deputado quer Governo a gerir sistema de senhas。
+2026-04-28 13:53:50 - INFO - 正在爬取15/20則新聞。
+2026-04-28 13:53:51 - INFO - ✅ 成功獲取: Feriados | Turistas em Maio podem ultrapassar 2019。
+2026-04-28 13:53:52 - INFO - 正在爬取16/20則新聞。
+2026-04-28 13:53:53 - INFO - ✅ 成功獲取: Justiça | Quase 20 juízes portugueses querem vir para Macau。
+2026-04-28 13:53:54 - INFO - 正在爬取17/20則新聞。
+2026-04-28 13:53:55 - INFO - ✅ 成功獲取: Língua portuguesa | Posição oficial contrasta com “erosão silenciosa”。
+2026-04-28 13:53:56 - INFO - 正在爬取18/20則新聞。
+2026-04-28 13:53:57 - INFO - ✅ 成功獲取: Apoios públicos | Fundo de apoio à ciência distribuiu 578 milhões。
+2026-04-28 13:53:59 - INFO - 正在爬取19/20則新聞。
+2026-04-28 13:53:59 - INFO - ✅ 成功獲取: Leong Hong Sai quer celebrar combatentes locais da guerra contra o Vietname。
+2026-04-28 13:54:01 - INFO - 正在爬取20/20則新聞。
+2026-04-28 13:54:02 - INFO - ✅ 成功獲取: Turismo | Governo e operadoras criam percursos de autocarro。
+2026-04-28 13:54:03 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-04-28 13:54:03 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/04/28。
+2026-04-28 13:54:04 - ERROR - ❌ 2026/04/28 連線失敗: 403
+2026-04-28 13:54:04 - INFO - 成功獲取 2026/04/28 數據，當日有0條新聞。
+2026-04-28 13:54:04 - WARNING - ⚠️ 當日沒有新聞。
+2026-04-28 13:54:04 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/04/28。
+2026-04-28 13:54:07 - ERROR - ❌ 2026/04/28 連線失敗: 404
+2026-04-28 13:54:07 - INFO - ⚠️ 當日沒有新聞。
