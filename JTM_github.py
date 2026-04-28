@@ -23,7 +23,6 @@ logging.basicConfig(
 today = (datetime.today()-timedelta(days=1)).strftime('%Y/%m/%d')
 today = (datetime.today()).strftime('%Y/%m/%d')
 
-posts=[]
 def get_jtm_post_list(page=1):
     url=f'https://jtm.com.mo/{today}/page/{page}/'
     headers={'USER-AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0'}
@@ -34,11 +33,10 @@ def get_jtm_post_list(page=1):
         soup=BeautifulSoup(r.content, parser="html.parser")
         posts=soup.find_all('h2')
     else:
+        posts=[]
         logging.error(f"❌ {today} 連線失敗: {r.status_code}")
     return posts
 
-# for page in range(1,10):
-#     posts+=get_jtm_post_list(page)
 
 logging.info(f"🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: {today}。")
 posts=[]
