@@ -41,6 +41,7 @@ if r.status_code==200:
     logging.info(f"成功獲取 {today} 數據，當日有{total_no_post}條新聞。")
     # print(f'Ponto Final {today} 日有{len(valid_post)}條新聞')
 else:
+    valid_post=[]
     logging.error(f"❌ {today} 連線失敗: {r.status_code}")
 
 # %%
