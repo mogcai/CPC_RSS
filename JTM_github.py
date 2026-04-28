@@ -28,9 +28,13 @@ def get_jtm_post_list(page=1):
     url=f'https://jtm.com.mo/{today}/page/{page}/'
     headers={'USER-AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0'}
     r=requests.get(url, headers=headers)
-    print('Status code', r.status_code)
-    soup=BeautifulSoup(r.content)
-    posts=soup.find_all('h2')
+    if r.status_code==200:
+        # print('Status code', r.status_code)
+        logging.info(f"✅ 連線成功。")
+        soup=BeautifulSoup(r.content, parser="html.parser")
+        posts=soup.find_all('h2')
+    else:
+        logging.error(f"❌ {today} 連線失敗: {r.status_code}")
     return posts
 
 # for page in range(1,10):
