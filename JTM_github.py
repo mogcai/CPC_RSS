@@ -5,7 +5,18 @@ import re
 from datetime import datetime, timedelta
 from email.utils import formatdate # 用嚟整標準 RSS 時間格式
 import time
+import logging
 
+# 基本設定
+logging.basicConfig(
+    level=logging.INFO, # 設定顯示邊個等級以上嘅訊息
+    format='%(asctime)s - %(levelname)s - %(message)s', # 設定格式：時間 - 等級 - 內容
+    datefmt='%Y-%m-%d %H:%M:%S',
+    handlers=[
+        logging.FileHandler("news.log", encoding='utf-8'), # 儲存到檔案
+        logging.StreamHandler() # 同時噴喺 Console
+    ]
+)
 
 
 # %%
@@ -25,6 +36,7 @@ def get_jtm_post_list(page=1):
 # for page in range(1,10):
 #     posts+=get_jtm_post_list(page)
 
+logging.info(f"🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: {today}。")
 posts=[]
 for page in range(1,10):
     post=get_jtm_post_list(page)
@@ -33,8 +45,9 @@ for page in range(1,10):
         posts+=post
     else:
         break
-
-
+        
+total_no_post=len(posts)
+logging.info(f"成功獲取 {today} 數據，當日有{total_no_post}條新聞。")
 print(f'JTM {today} 有{len(posts)}條新聞')
 
 # %%
@@ -82,6 +95,7 @@ def get_article(url):
 if posts:
     restructured_posts=[]
     for idx, post in enumerate(posts):
+        logging.info(f"正在爬取{idx+1}/{total_no_post}則新聞。")
         link=post.a.get('href')
         date, title, author, content=get_article(link)
         dict_post={
@@ -92,6 +106,7 @@ if posts:
             'content': content
         }
         restructured_posts.append(dict_post)
+        logging.info(f"✅ 成功獲取: {title}。")
         time.sleep(1.5) # 每次入內文前停一停，對人哋 Server 禮貌啲
 
     # %%
@@ -117,5 +132,10 @@ if posts:
 
     # Convert to string and save to an XML file
     rss_feed = ET.tostring(rss, encoding='utf-8', method='xml').decode()
-    with open('Jornal_TRIBUNA_DE_MACAU.xml', 'w', encoding='utf-8') as xml_file:
+    xml_file_name='Jornal_TRIBUNA_DE_MACAU.xml'
+    with open(xml_file_name, 'w', encoding='utf-8') as xml_file:
         xml_file.write(rss_feed)
+    
+    logging.info(f"✅ 成功保存: {xml_file_name}。")
+else:
+    logging.warning(f"⚠️ 當日沒有新聞。")
