@@ -82,7 +82,7 @@ def get_article(url):
 if lst_post:
     restructured_posts=[]
     for idx, post in enumerate(lst_post):
-        
+        logging.info(f"正在爬取{idx+1}/{total_no_post}則新聞。")
         title=post.a.text
         link=post.a.get('href')
         date, content, cat, author=get_article(link)
