@@ -5,27 +5,43 @@ import re
 from datetime import datetime, timedelta
 import time
 from email.utils import formatdate # 用嚟整標準 RSS 時間格式
+import logging
 
+# 基本設定
+logging.basicConfig(
+    level=logging.INFO, # 設定顯示邊個等級以上嘅訊息
+    format='%(asctime)s - %(levelname)s - %(message)s', # 設定格式：時間 - 等級 - 內容
+    datefmt='%Y-%m-%d %H:%M:%S',
+    handlers=[
+        logging.FileHandler("news.log", encoding='utf-8'), # 儲存到檔案
+        logging.StreamHandler() # 同時噴喺 Console
+    ]
+)
 # %%
 
 today = (datetime.today()).strftime('%Y/%m/%d')
+logging.info(f"🚀 爬取《Ponto Final》程式啟動。目前設定日期: {today}。")
 url=f'https://pontofinal-macau.com/{today}/'
 headers={'USER-AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0'}
 r=requests.get(url, headers=headers)
 time.sleep(2)
 
 # %%
-soup=BeautifulSoup(r.content, "html.parser")
-
-content_tag=soup.find_all('div', class_='td-main-content-wrap td-container-wrap')
-if content_tag:
-    content=content_tag[0]
-    posts=content.find_all('h3', class_='entry-title td-module-title')
-    valid_post=list(set([post.find_all('a')[0].get('href') for post in posts]))
+if r.status_code==200:
+    soup=BeautifulSoup(r.content, "html.parser")
+    
+    content_tag=soup.find_all('div', class_='td-main-content-wrap td-container-wrap')
+    if content_tag:
+        content=content_tag[0]
+        posts=content.find_all('h3', class_='entry-title td-module-title')
+        valid_post=list(set([post.find_all('a')[0].get('href') for post in posts]))
+    else:
+        valid_post=[]
+    total_no_post=len(valid_post)
+    logging.info(f"成功獲取 {today} 數據，當日有{total_no_post}條新聞。")
+    # print(f'Ponto Final {today} 日有{len(valid_post)}條新聞')
 else:
-    valid_post=[]
-
-print(f'Ponto Final {today} 日有{len(valid_post)}條新聞')
+    logging.error(f"❌ {today} 連線失敗: {r.status_code}")
 
 # %%
 def get_article(url):
@@ -77,6 +93,7 @@ def get_article(url):
 if valid_post:
     restructured_posts=[]
     for idx, url in enumerate(valid_post):
+        logging.info(f"正在爬取{idx+1}/{total_no_post}則新聞。")
         date, title, cat, author, content=get_article(url)
         dict_post={
             'title': title,
@@ -87,6 +104,7 @@ if valid_post:
             'content': content
         }
         restructured_posts.append(dict_post)
+        logging.info(f"✅ 成功獲取: {title}。")
         time.sleep(1.5) # 每次入內文前停一停，對人哋 Server 禮貌
 
     # %%
@@ -112,5 +130,9 @@ if valid_post:
 
     # Convert to string and save to an XML file
     rss_feed = ET.tostring(rss, encoding='utf-8', method='xml').decode()
-    with open('Ponto_final_pt.xml', 'w', encoding='utf-8') as xml_file:
+    xml_file_name='Ponto_final_pt.xml'
+    with open(xml_file_name, 'w', encoding='utf-8') as xml_file:
         xml_file.write(rss_feed)
+    logging.info(f"✅ 成功保存: {xml_file_name}。")
+else:
+    logging.info("⚠️ 當日沒有新聞。")
