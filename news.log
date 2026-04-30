@@ -560,3 +560,53 @@
 2026-04-29 19:22:52 - INFO - 正在爬取19/19則新聞。
 2026-04-29 19:23:03 - INFO - ✅ 成功獲取: Concessionárias de jogo registaram lucro total de 32 mil milhões de patacas em 2025。
 2026-04-29 19:23:05 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
+2026-04-30 02:32:58 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/04/30。
+2026-04-30 02:33:03 - INFO - 成功獲取 2026/04/30 數據，當日有20條新聞。
+2026-04-30 02:33:03 - INFO - 正在爬取1/20則新聞。
+2026-04-30 02:33:04 - INFO - ✅ 成功獲取: China | Descobertos jazigos de petróleo com reservas estimadas em 100 milhões de toneladas。
+2026-04-30 02:33:05 - INFO - 正在爬取2/20則新聞。
+2026-04-30 02:33:06 - INFO - ✅ 成功獲取: Wuhan | Suspensas novas licenças para ‘robotáxis’。
+2026-04-30 02:33:07 - INFO - 正在爬取3/20則新聞。
+2026-04-30 02:33:08 - INFO - ✅ 成功獲取: Ormuz | Japão considera passagem de petroleiro “sucesso diplomático”。
+2026-04-30 02:33:09 - INFO - 正在爬取4/20則新聞。
+2026-04-30 02:33:10 - INFO - ✅ 成功獲取: Não é só crude。
+2026-04-30 02:33:11 - INFO - 正在爬取5/20則新聞。
+2026-04-30 02:33:12 - INFO - ✅ 成功獲取: HK | Multa ou prisão para posse ou consumo de cigarros electrónicos。
+2026-04-30 02:33:13 - INFO - 正在爬取6/20則新聞。
+2026-04-30 02:33:14 - INFO - ✅ 成功獲取: Diplomacia | Defendido reforço da ONU para evitar que prevaleça “lei da selva” no mundo。
+2026-04-30 02:33:15 - INFO - 正在爬取7/20則新聞。
+2026-04-30 02:33:16 - INFO - ✅ 成功獲取: 1 de Maio | Voos encarecem com subida das sobretaxas de combustível。
+2026-04-30 02:33:17 - INFO - 正在爬取8/20則新聞。
+2026-04-30 02:33:18 - INFO - ✅ 成功獲取: Cuba | Pequim defende cooperação “legítima e transparente” em resposta a EUA。
+2026-04-30 02:33:20 - INFO - 正在爬取9/20則新聞。
+2026-04-30 02:33:20 - INFO - ✅ 成功獲取: Cotai | Restaurante de José Avillez no “100 Top Tables 2026”。
+2026-04-30 02:33:22 - INFO - 正在爬取10/20則新聞。
+2026-04-30 02:33:22 - INFO - ✅ 成功獲取: Festival K-Spark estreia em Macau com concerto de G-Dragon。
+2026-04-30 02:33:24 - INFO - 正在爬取11/20則新聞。
+2026-04-30 02:33:24 - INFO - ✅ 成功獲取: DSAL | Lançada nova edição de estágios para cinema。
+2026-04-30 02:33:26 - INFO - 正在爬取12/20則新聞。
+2026-04-30 02:33:26 - INFO - ✅ 成功獲取: Criminalidade | Abuso sexual de crianças aumentou 77,3% em 2025。
+2026-04-30 02:33:28 - INFO - 正在爬取13/20則新聞。
+2026-04-30 02:33:28 - INFO - ✅ 成功獲取: GP Consumo | Gerados 290 milhões em duas semanas。
+2026-04-30 02:33:30 - INFO - 正在爬取14/20則新聞。
+2026-04-30 02:33:30 - INFO - ✅ 成功獲取: Macau poderá beneficiar de diversificação da economia antes do previsto。
+2026-04-30 02:33:32 - INFO - 正在爬取15/20則新聞。
+2026-04-30 02:33:32 - INFO - ✅ 成功獲取: Direito | Macau e Coimbra criam centro sobre IA。
+2026-04-30 02:33:34 - INFO - 正在爬取16/20則新聞。
+2026-04-30 02:33:34 - INFO - ✅ 成功獲取: UTM | Chan Chak Mo presidente mais três anos。
+2026-04-30 02:33:36 - INFO - 正在爬取17/20則新聞。
+2026-04-30 02:33:36 - INFO - ✅ 成功獲取: CCAC | Mulher tenta pagar a segurança para entrar em casino。
+2026-04-30 02:33:38 - INFO - 正在爬取18/20則新聞。
+2026-04-30 02:33:38 - INFO - ✅ 成功獲取: Habitação social | Fracções chegam a menos de metade dos candidatos。
+2026-04-30 02:33:40 - INFO - 正在爬取19/20則新聞。
+2026-04-30 02:33:40 - INFO - ✅ 成功獲取: PME | Crédito malparado caiu 6,3 por cento no 2.º semestre de 2025。
+2026-04-30 02:33:42 - INFO - 正在爬取20/20則新聞。
+2026-04-30 02:33:42 - INFO - ✅ 成功獲取: Literatura | Beltrão Coelho lamenta falta de visibilidade de Leal de Carvalho。
+2026-04-30 02:33:44 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-04-30 02:33:44 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/04/30。
+2026-04-30 02:33:44 - ERROR - ❌ 2026/04/30 連線失敗: 403
+2026-04-30 02:33:44 - INFO - 成功獲取 2026/04/30 數據，當日有0條新聞。
+2026-04-30 02:33:44 - WARNING - ⚠️ 當日沒有新聞。
+2026-04-30 02:33:45 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/04/30。
+2026-04-30 02:33:48 - ERROR - ❌ 2026/04/30 連線失敗: 404
+2026-04-30 02:33:48 - INFO - ⚠️ 當日沒有新聞。
