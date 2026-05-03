@@ -820,3 +820,33 @@
 2026-05-03 12:59:23 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/05/03。
 2026-05-03 12:59:26 - ERROR - ❌ 2026/05/03 連線失敗: 404
 2026-05-03 12:59:26 - INFO - ⚠️ 當日沒有新聞。
+2026-05-03 18:53:07 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/05/03。
+2026-05-03 18:53:08 - ERROR - ❌ 2026/05/03 連線失敗: 404
+2026-05-03 18:53:08 - WARNING - ⚠️ 沒有新聞。
+2026-05-03 18:53:09 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/05/03。
+2026-05-03 18:53:09 - ERROR - ❌ 2026/05/03 連線失敗: 403
+2026-05-03 18:53:09 - INFO - 成功獲取 2026/05/03 數據，當日有0條新聞。
+2026-05-03 18:53:09 - WARNING - ⚠️ 當日沒有新聞。
+2026-05-03 18:53:09 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/05/03。
+2026-05-03 18:53:13 - INFO - 成功獲取 2026/05/03 數據，當日有10條新聞。
+2026-05-03 18:53:13 - INFO - 正在爬取1/10則新聞。
+2026-05-03 18:53:24 - INFO - ✅ 成功獲取: Jornal Ou Mun critica Governo pelo fim de conferências de imprensa sobre crime。
+2026-05-03 18:53:26 - INFO - 正在爬取2/10則新聞。
+2026-05-03 18:53:37 - INFO - ✅ 成功獲取: Governo cria mais zonas de não fumadores junto a 12 instituições de ensino。
+2026-05-03 18:53:39 - INFO - 正在爬取3/10則新聞。
+2026-05-03 18:53:51 - INFO - ✅ 成功獲取: Sam Hou Fai defende que Governo “protege efectivamente os direitos laborais dos trabalhadores”。
+2026-05-03 18:53:52 - INFO - 正在爬取4/10則新聞。
+2026-05-03 18:54:04 - INFO - ✅ 成功獲取: Governo timorense já indemnizou mais de 1.900 famílias após demolições de casas。
+2026-05-03 18:54:05 - INFO - 正在爬取5/10則新聞。
+2026-05-03 18:54:17 - INFO - ✅ 成功獲取: Ligação entre as zonas A e B voltará a ser túnel submarino em vez de viaduto。
+2026-05-03 18:54:19 - INFO - 正在爬取6/10則新聞。
+2026-05-03 18:54:30 - INFO - ✅ 成功獲取: China tem consolidado presença em países lusófonos africanos, diz estudo。
+2026-05-03 18:54:32 - INFO - 正在爬取7/10則新聞。
+2026-05-03 18:54:44 - INFO - ✅ 成功獲取: Festival “Letras & Companhia” quer despertar nas crianças o interesse pela cidade onde vivem。
+2026-05-03 18:54:45 - INFO - 正在爬取8/10則新聞。
+2026-05-03 18:54:57 - INFO - ✅ 成功獲取: Importações de vinho na China caíram para metade face a 2018。
+2026-05-03 18:54:58 - INFO - 正在爬取9/10則新聞。
+2026-05-03 18:55:10 - INFO - ✅ 成功獲取: Casinos facturaram 19,9 mil milhões de patacas em Abril, valor mais baixo dos últimos seis meses。
+2026-05-03 18:55:12 - INFO - 正在爬取10/10則新聞。
+2026-05-03 18:55:23 - INFO - ✅ 成功獲取: Companhia Korean Air proíbe galos a bordo dos EUA para as Filipinas。
+2026-05-03 18:55:25 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
