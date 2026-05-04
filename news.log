@@ -950,3 +950,55 @@
 2026-05-04 08:25:05 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/05/04。
 2026-05-04 08:25:08 - ERROR - ❌ 2026/05/04 連線失敗: 404
 2026-05-04 08:25:08 - INFO - ⚠️ 當日沒有新聞。
+2026-05-04 13:48:30 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/05/04。
+2026-05-04 13:48:31 - INFO - 成功獲取 2026/05/04 數據，當日有20條新聞。
+2026-05-04 13:48:31 - INFO - 正在爬取1/20則新聞。
+2026-05-04 13:48:31 - INFO - ✅ 成功獲取: Líbano | Israel ordena novas evacuações para lá da zona que controla。
+2026-05-04 13:48:33 - INFO - 正在爬取2/20則新聞。
+2026-05-04 13:48:33 - INFO - ✅ 成功獲取: Taiwan | William Lai criticado por abandonar a ilha Taiwan após sismo。
+2026-05-04 13:48:35 - INFO - 正在爬取3/20則新聞。
+2026-05-04 13:48:35 - INFO - ✅ 成功獲取: Irão | Pequim trava sanções dos EUA contra empresas chinesas。
+2026-05-04 13:48:37 - INFO - 正在爬取4/20則新聞。
+2026-05-04 13:48:37 - INFO - ✅ 成功獲取: Montenegro, o maior das promessas。
+2026-05-04 13:48:39 - INFO - 正在爬取5/20則新聞。
+2026-05-04 13:48:39 - INFO - ✅ 成功獲取: Korean Air proíbe galos a bordo dos EUA para as Filipinas。
+2026-05-04 13:48:40 - INFO - 正在爬取6/20則新聞。
+2026-05-04 13:48:41 - INFO - ✅ 成功獲取: Importações de vinho na China caíram para metade face a 2018。
+2026-05-04 13:48:42 - INFO - 正在爬取7/20則新聞。
+2026-05-04 13:48:43 - INFO - ✅ 成功獲取: ONU | MNE chinês presidirá debate do Conselho de Segurança。
+2026-05-04 13:48:44 - INFO - 正在爬取8/20則新聞。
+2026-05-04 13:48:45 - INFO - ✅ 成功獲取: Bienal de Veneza | Macau participa com obras sobre Wu Li。
+2026-05-04 13:48:46 - INFO - 正在爬取9/20則新聞。
+2026-05-04 13:48:47 - INFO - ✅ 成功獲取: Mostras sobre José Saramago em Timor-Leste。
+2026-05-04 13:48:48 - INFO - 正在爬取10/20則新聞。
+2026-05-04 13:48:48 - INFO - ✅ 成功獲取: IPOR | Festival traz escritos de Coco Cheong e de autores portugueses。
+2026-05-04 13:48:50 - INFO - 正在爬取11/20則新聞。
+2026-05-04 13:48:50 - INFO - ✅ 成功獲取: Economia | PIB cresceu de 7,1% no primeiro trimestre。
+2026-05-04 13:48:52 - INFO - 正在爬取12/20則新聞。
+2026-05-04 13:48:52 - INFO - ✅ 成功獲取: Melco | Lucros mais do que duplicam até Março。
+2026-05-04 13:48:54 - INFO - 正在爬取13/20則新聞。
+2026-05-04 13:48:54 - INFO - ✅ 成功獲取: Jogo | Lucros da MGM China descem 4% no primeiro trimestre。
+2026-05-04 13:48:56 - INFO - 正在爬取14/20則新聞。
+2026-05-04 13:48:56 - INFO - ✅ 成功獲取: Jogo | Receitas de Abril foram as mais baixas dos últimos sete meses。
+2026-05-04 13:48:58 - INFO - 正在爬取15/20則新聞。
+2026-05-04 13:48:58 - INFO - ✅ 成功獲取: Turismo | Hóspedes internacionais sobem 16% em três meses。
+2026-05-04 13:48:59 - INFO - 正在爬取16/20則新聞。
+2026-05-04 13:49:00 - INFO - ✅ 成功獲取: Espectáculos | Cadeiras dobráveis geram cenas de violência。
+2026-05-04 13:49:01 - INFO - 正在爬取17/20則新聞。
+2026-05-04 13:49:02 - INFO - ✅ 成功獲取: Balança Comercial | Registado défice de 33 mil milhões。
+2026-05-04 13:49:03 - INFO - 正在爬取18/20則新聞。
+2026-05-04 13:49:04 - INFO - ✅ 成功獲取: Dia do Trabalhador | Sétimo ano sem manifestações。
+2026-05-04 13:49:05 - INFO - 正在爬取19/20則新聞。
+2026-05-04 13:49:06 - INFO - ✅ 成功獲取: Criminalidade | Jornal Ou Mun critica fim de conferências de imprensa。
+2026-05-04 13:49:07 - INFO - 正在爬取20/20則新聞。
+2026-05-04 13:49:08 - INFO - ✅ 成功獲取: Jacob Fordham, académico: “Estudo a história dos primeiros macaenses”。
+2026-05-04 13:49:09 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-05-04 13:49:09 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/05/04。
+2026-05-04 13:49:10 - ERROR - ❌ 2026/05/04 連線失敗: 403
+2026-05-04 13:49:10 - INFO - 成功獲取 2026/05/04 數據，當日有0條新聞。
+2026-05-04 13:49:10 - WARNING - ⚠️ 當日沒有新聞。
+2026-05-04 13:49:10 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/05/04。
+2026-05-04 13:49:13 - INFO - 成功獲取 2026/05/04 數據，當日有1條新聞。
+2026-05-04 13:49:13 - INFO - 正在爬取1/1則新聞。
+2026-05-04 13:49:25 - INFO - ✅ 成功獲取: Parágrafo #99 PDF。
+2026-05-04 13:49:26 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
