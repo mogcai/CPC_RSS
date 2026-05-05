@@ -1130,3 +1130,57 @@
 2026-05-05 02:24:58 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/05/05。
 2026-05-05 02:25:01 - ERROR - ❌ 2026/05/05 連線失敗: 404
 2026-05-05 02:25:01 - INFO - ⚠️ 當日沒有新聞。
+2026-05-05 08:02:39 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/05/05。
+2026-05-05 08:02:42 - INFO - 成功獲取 2026/05/05 數據，當日有22條新聞。
+2026-05-05 08:02:42 - INFO - 正在爬取1/22則新聞。
+2026-05-05 08:02:42 - INFO - ✅ 成功獲取: Taishan | Ocorrência em central nuclear sem incidentes。
+2026-05-05 08:02:44 - INFO - 正在爬取2/22則新聞。
+2026-05-05 08:02:44 - INFO - ✅ 成功獲取: Timor-Leste | Bordalo II na terceira edição do TT Tasi Fest。
+2026-05-05 08:02:46 - INFO - 正在爬取3/22則新聞。
+2026-05-05 08:02:46 - INFO - ✅ 成功獲取: Banca | Lucros aumentam 5,4 por cento até Março。
+2026-05-05 08:02:48 - INFO - 正在爬取4/22則新聞。
+2026-05-05 08:02:48 - INFO - ✅ 成功獲取: Responsabilidade limitada vs Responsabilidade ilimitada (I)。
+2026-05-05 08:02:50 - INFO - 正在爬取5/22則新聞。
+2026-05-05 08:02:50 - INFO - ✅ 成功獲取: FRC | A arte da tinta e da forma pela mão de Leong Sin Teng。
+2026-05-05 08:02:52 - INFO - 正在爬取6/22則新聞。
+2026-05-05 08:02:52 - INFO - ✅ 成功獲取: Poemas ilustrados lançam primeiro Festival de Língua Portuguesa em Macau。
+2026-05-05 08:02:54 - INFO - 正在爬取7/22則新聞。
+2026-05-05 08:02:54 - INFO - ✅ 成功獲取: Ka-Hó | ARTM apresenta exposição “Renascidos pela Arte”。
+2026-05-05 08:02:56 - INFO - 正在爬取8/22則新聞。
+2026-05-05 08:02:56 - INFO - ✅ 成功獲取: FIA Esports Global Rally Tour | Macau eleito para eliminatória regional。
+2026-05-05 08:02:58 - INFO - 正在爬取9/22則新聞。
+2026-05-05 08:02:58 - INFO - ✅ 成功獲取: Filipinas | Actividade do vulcão Mayon obriga à retirada de 300 famílias。
+2026-05-05 08:03:00 - INFO - 正在爬取10/22則新聞。
+2026-05-05 08:03:00 - INFO - ✅ 成功獲取: Coreias | Equipa feminina de futebol do Norte esperada em torneio no Sul。
+2026-05-05 08:03:02 - INFO - 正在爬取11/22則新聞。
+2026-05-05 08:03:02 - INFO - ✅ 成功獲取: Hong Kong | Regulador financeiro defende paridade da moeda face ao dólar。
+2026-05-05 08:03:04 - INFO - 正在爬取12/22則新聞。
+2026-05-05 08:03:04 - INFO - ✅ 成功獲取: O Mestre Daoísta Que Conversou Com Gengis Khan。
+2026-05-05 08:03:05 - INFO - 正在爬取13/22則新聞。
+2026-05-05 08:03:06 - INFO - ✅ 成功獲取: Crime | Agiotas detidos após sequestro。
+2026-05-05 08:03:07 - INFO - 正在爬取14/22則新聞。
+2026-05-05 08:03:08 - INFO - ✅ 成功獲取: UM | Empresa em Hengqin com perdas de 286 renminbis。
+2026-05-05 08:03:09 - INFO - 正在爬取15/22則新聞。
+2026-05-05 08:03:10 - INFO - ✅ 成功獲取: Análise | Receitas deverão crescer pelo menos 6,6% em Maio。
+2026-05-05 08:03:11 - INFO - 正在爬取16/22則新聞。
+2026-05-05 08:03:12 - INFO - ✅ 成功獲取: IPOR | Agenda para este ano com mais de 100 cursos。
+2026-05-05 08:03:13 - INFO - 正在爬取17/22則新聞。
+2026-05-05 08:03:14 - INFO - ✅ 成功獲取: Empresas tecnológicas | Abertas candidaturas a certificação。
+2026-05-05 08:03:15 - INFO - 正在爬取18/22則新聞。
+2026-05-05 08:03:16 - INFO - ✅ 成功獲取: Cotai | FAOM pede mudanças devido a confusão no Local ao Ar Livre。
+2026-05-05 08:03:17 - INFO - 正在爬取19/22則新聞。
+2026-05-05 08:03:18 - INFO - ✅ 成功獲取: Personalidades políticas pedem que jovens desenvolvam o país。
+2026-05-05 08:03:19 - INFO - 正在爬取20/22則新聞。
+2026-05-05 08:03:20 - INFO - ✅ 成功獲取: Orçamento | 7.000 patacas para titulares da previdência。
+2026-05-05 08:03:21 - INFO - 正在爬取21/22則新聞。
+2026-05-05 08:03:22 - INFO - ✅ 成功獲取: Fundação Macau | Apoios no primeiro trimestre totalizam quase 200 milhões。
+2026-05-05 08:03:23 - INFO - 正在爬取22/22則新聞。
+2026-05-05 08:03:24 - INFO - ✅ 成功獲取: José Ferreira Pinto, docente | Na época da “tirania dos números”。
+2026-05-05 08:03:25 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-05-05 08:03:26 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/05/05。
+2026-05-05 08:03:26 - ERROR - ❌ 2026/05/05 連線失敗: 403
+2026-05-05 08:03:26 - INFO - 成功獲取 2026/05/05 數據，當日有0條新聞。
+2026-05-05 08:03:26 - WARNING - ⚠️ 當日沒有新聞。
+2026-05-05 08:03:26 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/05/05。
+2026-05-05 08:03:29 - ERROR - ❌ 2026/05/05 連線失敗: 404
+2026-05-05 08:03:29 - INFO - ⚠️ 當日沒有新聞。
