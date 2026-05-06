@@ -1312,3 +1312,49 @@
 2026-05-05 19:15:23 - INFO - 正在爬取10/10則新聞。
 2026-05-05 19:15:34 - INFO - ✅ 成功獲取: Chan Hao Weng propõe que residentes possam candidatar-se a licenças de táxi em nome individual。
 2026-05-05 19:15:36 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
+2026-05-06 02:27:17 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/05/06。
+2026-05-06 02:27:19 - INFO - 成功獲取 2026/05/06 數據，當日有18條新聞。
+2026-05-06 02:27:19 - INFO - 正在爬取1/18則新聞。
+2026-05-06 02:27:19 - INFO - ✅ 成功獲取: Tufões | PME poderão receber indemnização mesmo sem danos。
+2026-05-06 02:27:21 - INFO - 正在爬取2/18則新聞。
+2026-05-06 02:27:21 - INFO - ✅ 成功獲取: Turistas internacionais com maior interesse em Macau。
+2026-05-06 02:27:23 - INFO - 正在爬取3/18則新聞。
+2026-05-06 02:27:23 - INFO - ✅ 成功獲取: HSBC | Lucro cai 2,4% no 1.º trimestre。
+2026-05-06 02:27:25 - INFO - 正在爬取4/18則新聞。
+2026-05-06 02:27:25 - INFO - ✅ 成功獲取: Sé Catedral | Concerto de violino com orquestra este sábado。
+2026-05-06 02:27:27 - INFO - 正在爬取5/18則新聞。
+2026-05-06 02:27:27 - INFO - ✅ 成功獲取: Bilhetes para peça em patuá no FAM já estão à venda。
+2026-05-06 02:27:29 - INFO - 正在爬取6/18則新聞。
+2026-05-06 02:27:29 - INFO - ✅ 成功獲取: Música | Instrumentos musicais chineses são destaque em conferência。
+2026-05-06 02:27:31 - INFO - 正在爬取7/18則新聞。
+2026-05-06 02:27:32 - INFO - ✅ 成功獲取: 24 Horas de Genk | Equipa de Macau cumpre objectivo na Bélgica。
+2026-05-06 02:27:33 - INFO - 正在爬取8/18則新聞。
+2026-05-06 02:27:34 - INFO - ✅ 成功獲取: Câmara luso-chinesa | Subida dos custos pode afectar exportações。
+2026-05-06 02:27:35 - INFO - 正在爬取9/18則新聞。
+2026-05-06 02:27:36 - INFO - ✅ 成功獲取: Hunan | Explosão em fábrica de fogo de artifício deixa pelo menos 21 mortos。
+2026-05-06 02:27:37 - INFO - 正在爬取10/18則新聞。
+2026-05-06 02:27:38 - INFO - ✅ 成功獲取: Meng | (Pentâmetros ao Estilo Antigo)。
+2026-05-06 02:27:39 - INFO - 正在爬取11/18則新聞。
+2026-05-06 02:27:40 - INFO - ✅ 成功獲取: Hengqin | Patrulhamento reforçado após homicídio de estudante。
+2026-05-06 02:27:41 - INFO - 正在爬取12/18則新聞。
+2026-05-06 02:27:42 - INFO - ✅ 成功獲取: APOMAC / 25 anos | Francisco Manhão pede apoio à demência。
+2026-05-06 02:27:43 - INFO - 正在爬取13/18則新聞。
+2026-05-06 02:27:44 - INFO - ✅ 成功獲取: FM | Entidades de matriz portuguesa recebem mais de 20 milhões。
+2026-05-06 02:27:45 - INFO - 正在爬取14/18則新聞。
+2026-05-06 02:27:46 - INFO - ✅ 成功獲取: Taipa velha | Elogiada criação de zona pedonal。
+2026-05-06 02:27:48 - INFO - 正在爬取15/18則新聞。
+2026-05-06 02:27:48 - INFO - ✅ 成功獲取: Tecnologia | Wong Sio Chak visitou Hangzhou。
+2026-05-06 02:27:50 - INFO - 正在爬取16/18則新聞。
+2026-05-06 02:27:50 - INFO - ✅ 成功獲取: Aeroporto | Abandonado projecto de expansão。
+2026-05-06 02:27:52 - INFO - 正在爬取17/18則新聞。
+2026-05-06 02:27:52 - INFO - ✅ 成功獲取: IAS | Creche Smart pede ao Governo que controle acções de Hon Wai。
+2026-05-06 02:27:54 - INFO - 正在爬取18/18則新聞。
+2026-05-06 02:27:54 - INFO - ✅ 成功獲取: História | Catálogo revela documentos e objectos das relações luso-chinesas。
+2026-05-06 02:27:56 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-05-06 02:27:56 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/05/06。
+2026-05-06 02:27:57 - ERROR - ❌ 2026/05/06 連線失敗: 403
+2026-05-06 02:27:57 - INFO - 成功獲取 2026/05/06 數據，當日有0條新聞。
+2026-05-06 02:27:57 - WARNING - ⚠️ 當日沒有新聞。
+2026-05-06 02:27:57 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/05/06。
+2026-05-06 02:28:00 - ERROR - ❌ 2026/05/06 連線失敗: 404
+2026-05-06 02:28:00 - INFO - ⚠️ 當日沒有新聞。
