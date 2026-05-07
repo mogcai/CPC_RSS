@@ -1496,3 +1496,61 @@
 2026-05-06 19:41:22 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/05/06。
 2026-05-06 19:41:24 - ERROR - ❌ 2026/05/06 連線失敗: 500
 2026-05-06 19:41:24 - INFO - ⚠️ 當日沒有新聞。
+2026-05-07 02:29:31 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/05/07。
+2026-05-07 02:29:33 - INFO - 成功獲取 2026/05/07 數據，當日有24條新聞。
+2026-05-07 02:29:33 - INFO - 正在爬取1/24則新聞。
+2026-05-07 02:29:34 - INFO - ✅ 成功獲取: CPLP defende mais investimento para garantir o futuro do português。
+2026-05-07 02:29:35 - INFO - 正在爬取2/24則新聞。
+2026-05-07 02:29:36 - INFO - ✅ 成功獲取: Taipa | Plano para zona norte prevê habitação para 20 mil pessoas。
+2026-05-07 02:29:37 - INFO - 正在爬取3/24則新聞。
+2026-05-07 02:29:38 - INFO - ✅ 成功獲取: Europa | Nissan planeia cortar 10% dos postos de trabalho。
+2026-05-07 02:29:39 - INFO - 正在爬取4/24則新聞。
+2026-05-07 02:29:40 - INFO - ✅ 成功獲取: Irão | Porta-aviões francês passa Suez a caminho do Golfo Pérsico。
+2026-05-07 02:29:41 - INFO - 正在爬取5/24則新聞。
+2026-05-07 02:29:42 - INFO - ✅ 成功獲取: Alfândega intercepta bens contrabandeados no valor de 25 milhões。
+2026-05-07 02:29:43 - INFO - 正在爬取6/24則新聞。
+2026-05-07 02:29:44 - INFO - ✅ 成功獲取: O Ocidente desfeito (I)。
+2026-05-07 02:29:46 - INFO - 正在爬取7/24則新聞。
+2026-05-07 02:29:46 - INFO - ✅ 成功獲取: Seul | Juiz que agravou pena da ex-primeira-dama encontrado morto。
+2026-05-07 02:29:48 - INFO - 正在爬取8/24則新聞。
+2026-05-07 02:29:48 - INFO - ✅ 成功獲取: Camboja | Primo do PM detinha 30% das acções de grupo ligado a burlas。
+2026-05-07 02:29:50 - INFO - 正在爬取9/24則新聞。
+2026-05-07 02:29:50 - INFO - ✅ 成功獲取: Irão | Analistas apontam para maior espaço estratégico de Pequim。
+2026-05-07 02:29:52 - INFO - 正在爬取10/24則新聞。
+2026-05-07 02:29:52 - INFO - ✅ 成功獲取: Hong Kong | Sete detidos por corrupção em manutenção de edifícios。
+2026-05-07 02:29:54 - INFO - 正在爬取11/24則新聞。
+2026-05-07 02:29:54 - INFO - ✅ 成功獲取: MNE chinês afirma ao homólogo iraniano que guerra é “ilegítima”。
+2026-05-07 02:29:56 - INFO - 正在爬取12/24則新聞。
+2026-05-07 02:29:56 - INFO - ✅ 成功獲取: Hong Kong | Mês passado foi o segundo Abril mais quente de sempre。
+2026-05-07 02:29:58 - INFO - 正在爬取13/24則新聞。
+2026-05-07 02:29:58 - INFO - ✅ 成功獲取: Museu Marítimo | Workshops exploram tradições marítimas。
+2026-05-07 02:30:00 - INFO - 正在爬取14/24則新聞。
+2026-05-07 02:30:00 - INFO - ✅ 成功獲取: FRC recebe hoje palestra sobre responsabilidade civil。
+2026-05-07 02:30:02 - INFO - 正在爬取15/24則新聞。
+2026-05-07 02:30:02 - INFO - ✅ 成功獲取: Teatro | Grupo Agucheiras apresenta em Lisboa “Performances com Sabor — Macau”。
+2026-05-07 02:30:04 - INFO - 正在爬取16/24則新聞。
+2026-05-07 02:30:04 - INFO - ✅ 成功獲取: Ponte HKZM | Incêndio levou a encerramento de túnel。
+2026-05-07 02:30:06 - INFO - 正在爬取17/24則新聞。
+2026-05-07 02:30:07 - INFO - ✅ 成功獲取: Comércio | Empresários espanhóis mais atentos a Macau。
+2026-05-07 02:30:08 - INFO - 正在爬取18/24則新聞。
+2026-05-07 02:30:09 - INFO - ✅ 成功獲取: Autocarros de lazer | Mais de três mil pessoas utilizaram serviço。
+2026-05-07 02:30:10 - INFO - 正在爬取19/24則新聞。
+2026-05-07 02:30:11 - INFO - ✅ 成功獲取: Protecção animal | Cães abandonados nas ilhas originam queixas。
+2026-05-07 02:30:12 - INFO - 正在爬取20/24則新聞。
+2026-05-07 02:30:13 - INFO - ✅ 成功獲取: Turismo | Número de visitantes nos feriados ficou abaixo do esperado。
+2026-05-07 02:30:14 - INFO - 正在爬取21/24則新聞。
+2026-05-07 02:30:15 - INFO - ✅ 成功獲取: Conselho do Desporto | Sam Hou Fai alarga composição。
+2026-05-07 02:30:16 - INFO - 正在爬取22/24則新聞。
+2026-05-07 02:30:17 - INFO - ✅ 成功獲取: Esplanadas | IAM admite rever o processo de licenciamento。
+2026-05-07 02:30:18 - INFO - 正在爬取23/24則新聞。
+2026-05-07 02:30:19 - INFO - ✅ 成功獲取: Rua da Emenda | Loi I Weng critica instalações velhas e pede renovação。
+2026-05-07 02:30:20 - INFO - 正在爬取24/24則新聞。
+2026-05-07 02:30:21 - INFO - ✅ 成功獲取: Idosos | Coutinho defende isenção de todas as taxas。
+2026-05-07 02:30:22 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-05-07 02:30:22 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/05/07。
+2026-05-07 02:30:23 - ERROR - ❌ 2026/05/07 連線失敗: 403
+2026-05-07 02:30:23 - INFO - 成功獲取 2026/05/07 數據，當日有0條新聞。
+2026-05-07 02:30:23 - WARNING - ⚠️ 當日沒有新聞。
+2026-05-07 02:30:23 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/05/07。
+2026-05-07 02:30:26 - ERROR - ❌ 2026/05/07 連線失敗: 404
+2026-05-07 02:30:26 - INFO - ⚠️ 當日沒有新聞。
