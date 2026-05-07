@@ -1670,3 +1670,83 @@
 2026-05-07 13:56:08 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/05/07。
 2026-05-07 13:56:12 - ERROR - ❌ 2026/05/07 連線失敗: 404
 2026-05-07 13:56:12 - INFO - ⚠️ 當日沒有新聞。
+2026-05-07 19:38:52 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/05/07。
+2026-05-07 19:38:54 - INFO - 成功獲取 2026/05/07 數據，當日有24條新聞。
+2026-05-07 19:38:54 - INFO - 正在爬取1/24則新聞。
+2026-05-07 19:38:54 - INFO - ✅ 成功獲取: CPLP defende mais investimento para garantir o futuro do português。
+2026-05-07 19:38:56 - INFO - 正在爬取2/24則新聞。
+2026-05-07 19:38:57 - INFO - ✅ 成功獲取: Taipa | Plano para zona norte prevê habitação para 20 mil pessoas。
+2026-05-07 19:38:58 - INFO - 正在爬取3/24則新聞。
+2026-05-07 19:38:59 - INFO - ✅ 成功獲取: Europa | Nissan planeia cortar 10% dos postos de trabalho。
+2026-05-07 19:39:00 - INFO - 正在爬取4/24則新聞。
+2026-05-07 19:39:01 - INFO - ✅ 成功獲取: Irão | Porta-aviões francês passa Suez a caminho do Golfo Pérsico。
+2026-05-07 19:39:02 - INFO - 正在爬取5/24則新聞。
+2026-05-07 19:39:03 - INFO - ✅ 成功獲取: Alfândega intercepta bens contrabandeados no valor de 25 milhões。
+2026-05-07 19:39:04 - INFO - 正在爬取6/24則新聞。
+2026-05-07 19:39:05 - INFO - ✅ 成功獲取: O Ocidente desfeito (I)。
+2026-05-07 19:39:06 - INFO - 正在爬取7/24則新聞。
+2026-05-07 19:39:07 - INFO - ✅ 成功獲取: Seul | Juiz que agravou pena da ex-primeira-dama encontrado morto。
+2026-05-07 19:39:09 - INFO - 正在爬取8/24則新聞。
+2026-05-07 19:39:09 - INFO - ✅ 成功獲取: Camboja | Primo do PM detinha 30% das acções de grupo ligado a burlas。
+2026-05-07 19:39:11 - INFO - 正在爬取9/24則新聞。
+2026-05-07 19:39:11 - INFO - ✅ 成功獲取: Irão | Analistas apontam para maior espaço estratégico de Pequim。
+2026-05-07 19:39:13 - INFO - 正在爬取10/24則新聞。
+2026-05-07 19:39:13 - INFO - ✅ 成功獲取: Hong Kong | Sete detidos por corrupção em manutenção de edifícios。
+2026-05-07 19:39:15 - INFO - 正在爬取11/24則新聞。
+2026-05-07 19:39:15 - INFO - ✅ 成功獲取: MNE chinês afirma ao homólogo iraniano que guerra é “ilegítima”。
+2026-05-07 19:39:17 - INFO - 正在爬取12/24則新聞。
+2026-05-07 19:39:17 - INFO - ✅ 成功獲取: Hong Kong | Mês passado foi o segundo Abril mais quente de sempre。
+2026-05-07 19:39:19 - INFO - 正在爬取13/24則新聞。
+2026-05-07 19:39:19 - INFO - ✅ 成功獲取: Museu Marítimo | Workshops exploram tradições marítimas。
+2026-05-07 19:39:21 - INFO - 正在爬取14/24則新聞。
+2026-05-07 19:39:22 - INFO - ✅ 成功獲取: FRC recebe hoje palestra sobre responsabilidade civil。
+2026-05-07 19:39:23 - INFO - 正在爬取15/24則新聞。
+2026-05-07 19:39:24 - INFO - ✅ 成功獲取: Teatro | Grupo Agucheiras apresenta em Lisboa “Performances com Sabor — Macau”。
+2026-05-07 19:39:25 - INFO - 正在爬取16/24則新聞。
+2026-05-07 19:39:26 - INFO - ✅ 成功獲取: Ponte HKZM | Incêndio levou a encerramento de túnel。
+2026-05-07 19:39:27 - INFO - 正在爬取17/24則新聞。
+2026-05-07 19:39:28 - INFO - ✅ 成功獲取: Comércio | Empresários espanhóis mais atentos a Macau。
+2026-05-07 19:39:30 - INFO - 正在爬取18/24則新聞。
+2026-05-07 19:39:30 - INFO - ✅ 成功獲取: Autocarros de lazer | Mais de três mil pessoas utilizaram serviço。
+2026-05-07 19:39:32 - INFO - 正在爬取19/24則新聞。
+2026-05-07 19:39:32 - INFO - ✅ 成功獲取: Protecção animal | Cães abandonados nas ilhas originam queixas。
+2026-05-07 19:39:34 - INFO - 正在爬取20/24則新聞。
+2026-05-07 19:39:34 - INFO - ✅ 成功獲取: Turismo | Número de visitantes nos feriados ficou abaixo do esperado。
+2026-05-07 19:39:36 - INFO - 正在爬取21/24則新聞。
+2026-05-07 19:39:36 - INFO - ✅ 成功獲取: Conselho do Desporto | Sam Hou Fai alarga composição。
+2026-05-07 19:39:38 - INFO - 正在爬取22/24則新聞。
+2026-05-07 19:39:38 - INFO - ✅ 成功獲取: Esplanadas | IAM admite rever o processo de licenciamento。
+2026-05-07 19:39:40 - INFO - 正在爬取23/24則新聞。
+2026-05-07 19:39:41 - INFO - ✅ 成功獲取: Rua da Emenda | Loi I Weng critica instalações velhas e pede renovação。
+2026-05-07 19:39:42 - INFO - 正在爬取24/24則新聞。
+2026-05-07 19:39:43 - INFO - ✅ 成功獲取: Idosos | Coutinho defende isenção de todas as taxas。
+2026-05-07 19:39:44 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-05-07 19:39:44 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/05/07。
+2026-05-07 19:39:45 - ERROR - ❌ 2026/05/07 連線失敗: 403
+2026-05-07 19:39:45 - INFO - 成功獲取 2026/05/07 數據，當日有0條新聞。
+2026-05-07 19:39:45 - WARNING - ⚠️ 當日沒有新聞。
+2026-05-07 19:39:45 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/05/07。
+2026-05-07 19:39:49 - INFO - 成功獲取 2026/05/07 數據，當日有11條新聞。
+2026-05-07 19:39:49 - INFO - 正在爬取1/11則新聞。
+2026-05-07 19:40:00 - INFO - ✅ 成功獲取: DeepSeek poderá valer 45 mil milhões de dólares com apoio de fundo estatal chinês。
+2026-05-07 19:40:02 - INFO - 正在爬取2/11則新聞。
+2026-05-07 19:40:13 - INFO - ✅ 成功獲取: Mais de 400 sessões de bolsas de contacto no Pavilhão de Macau na Feira de Cantão。
+2026-05-07 19:40:15 - INFO - 正在爬取3/11則新聞。
+2026-05-07 19:40:26 - INFO - ✅ 成功獲取: Pena de prisão do ex-primeiro-ministro da Coreia do Sul reduzida para 15 anos。
+2026-05-07 19:40:28 - INFO - 正在爬取4/11則新聞。
+2026-05-07 19:40:39 - INFO - ✅ 成功獲取: Dia da Vitória 2026: a guerra Rússia-Ucrânia nos dias de hoje。
+2026-05-07 19:40:41 - INFO - 正在爬取5/11則新聞。
+2026-05-07 19:40:52 - INFO - ✅ 成功獲取: Água reciclada será fornecida no Cotai até 2030。
+2026-05-07 19:40:54 - INFO - 正在爬取6/11則新聞。
+2026-05-07 19:41:05 - INFO - ✅ 成功獲取: Governo disponibiliza 80 milhões de patacas para aliviar aumento dos combustíveis。
+2026-05-07 19:41:07 - INFO - 正在爬取7/11則新聞。
+2026-05-07 19:41:17 - INFO - ✅ 成功獲取: Autoridades prometem alargar inventário do Património Cultural Intangível de Macau。
+2026-05-07 19:41:19 - INFO - 正在爬取8/11則新聞。
+2026-05-07 19:41:30 - INFO - ✅ 成功獲取: Mês de Abril foi o segundo mais quente de sempre em Macau。
+2026-05-07 19:41:32 - INFO - 正在爬取9/11則新聞。
+2026-05-07 19:41:43 - INFO - ✅ 成功獲取: Um discurso diplomático que recorda aos EUA a tradição política anglo-americana。
+2026-05-07 19:41:45 - INFO - 正在爬取10/11則新聞。
+2026-05-07 19:41:56 - INFO - ✅ 成功獲取: Macau inaugura primeira fábrica de baralhos de cartas de jogo。
+2026-05-07 19:41:58 - INFO - 正在爬取11/11則新聞。
+2026-05-07 19:42:08 - INFO - ✅ 成功獲取: “Gostava de fazer uma antologia do cancioneiro crioulo”。
+2026-05-07 19:42:10 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
