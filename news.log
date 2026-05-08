@@ -1750,3 +1750,53 @@
 2026-05-07 19:41:58 - INFO - 正在爬取11/11則新聞。
 2026-05-07 19:42:08 - INFO - ✅ 成功獲取: “Gostava de fazer uma antologia do cancioneiro crioulo”。
 2026-05-07 19:42:10 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
+2026-05-08 02:36:36 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/05/08。
+2026-05-08 02:36:37 - INFO - 成功獲取 2026/05/08 數據，當日有20條新聞。
+2026-05-08 02:36:37 - INFO - 正在爬取1/20則新聞。
+2026-05-08 02:36:38 - INFO - ✅ 成功獲取: Angela’s Café apresenta espectáculo dia 16。
+2026-05-08 02:36:39 - INFO - 正在爬取2/20則新聞。
+2026-05-08 02:36:40 - INFO - ✅ 成功獲取: EUA | Pequim considera Taiwan crucial para boa relação。
+2026-05-08 02:36:41 - INFO - 正在爬取3/20則新聞。
+2026-05-08 02:36:42 - INFO - ✅ 成功獲取: SJM | Operadora com prejuízos no primeiro trimestre。
+2026-05-08 02:36:44 - INFO - 正在爬取4/20則新聞。
+2026-05-08 02:36:44 - INFO - ✅ 成功獲取: A propósito do Dia Internacional do Trabalhador。
+2026-05-08 02:36:46 - INFO - 正在爬取5/20則新聞。
+2026-05-08 02:36:46 - INFO - ✅ 成功獲取: A incerteza das previsões meteorológicas。
+2026-05-08 02:36:48 - INFO - 正在爬取6/20則新聞。
+2026-05-08 02:36:49 - INFO - ✅ 成功獲取: Irão e Myanmar marcam reunião de líderes do Sudeste Asático。
+2026-05-08 02:36:50 - INFO - 正在爬取7/20則新聞。
+2026-05-08 02:36:51 - INFO - ✅ 成功獲取: Hong Kong | Subida de 8% nos turistas durante feriados do 1 de Maio。
+2026-05-08 02:36:52 - INFO - 正在爬取8/20則新聞。
+2026-05-08 02:36:53 - INFO - ✅ 成功獲取: DeepSeek poderá valer 38 mil milhões de euros com apoio de fundo estatal chinês, segundo Financial Times。
+2026-05-08 02:36:54 - INFO - 正在爬取9/20則新聞。
+2026-05-08 02:36:55 - INFO - ✅ 成功獲取: Divisas estrangeiras | Reservas chinesas aumentam 2,05% em Abril。
+2026-05-08 02:36:57 - INFO - 正在爬取10/20則新聞。
+2026-05-08 02:36:57 - INFO - ✅ 成功獲取: Letras&Companhia | Afonso Cruz apresenta hoje “Assim, mas sem ser Assim”。
+2026-05-08 02:36:59 - INFO - 正在爬取11/20則新聞。
+2026-05-08 02:36:59 - INFO - ✅ 成功獲取: Hospital São Januário | Morte de feto leva a acusação de negligência。
+2026-05-08 02:37:01 - INFO - 正在爬取12/20則新聞。
+2026-05-08 02:37:02 - INFO - ✅ 成功獲取: Jogo | Inaugurada primeira fábrica de baralhos。
+2026-05-08 02:37:03 - INFO - 正在爬取13/20則新聞。
+2026-05-08 02:37:04 - INFO - ✅ 成功獲取: Metro / Elevadores | Manutenção custa até 17,4 milhões。
+2026-05-08 02:37:05 - INFO - 正在爬取14/20則新聞。
+2026-05-08 02:37:06 - INFO - ✅ 成功獲取: Don Donki | Obras resultam em condenações em Hong Kong。
+2026-05-08 02:37:07 - INFO - 正在爬取15/20則新聞。
+2026-05-08 02:37:08 - INFO - ✅ 成功獲取: Governo quer estender inventário do Património Cultural Intangível。
+2026-05-08 02:37:10 - INFO - 正在爬取16/20則新聞。
+2026-05-08 02:37:10 - INFO - ✅ 成功獲取: Combustíveis | Subsídio de 3,3 patacas por litro de gasóleo。
+2026-05-08 02:37:12 - INFO - 正在爬取17/20則新聞。
+2026-05-08 02:37:12 - INFO - ✅ 成功獲取: Creche Smart | IAS insiste na falta de fiscalização financeira。
+2026-05-08 02:37:14 - INFO - 正在爬取18/20則新聞。
+2026-05-08 02:37:15 - INFO - ✅ 成功獲取: Veículos eléctricos | Quase 100 multas em 2025。
+2026-05-08 02:37:16 - INFO - 正在爬取19/20則新聞。
+2026-05-08 02:37:17 - INFO - ✅ 成功獲取: Água reciclada | Meta utilização fixada em 5% até 2030。
+2026-05-08 02:37:18 - INFO - 正在爬取20/20則新聞。
+2026-05-08 02:37:19 - INFO - ✅ 成功獲取: Patuá | “Extinção parece ser irreversível”, conclui estudo da UPM。
+2026-05-08 02:37:21 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-05-08 02:37:21 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/05/08。
+2026-05-08 02:37:22 - ERROR - ❌ 2026/05/08 連線失敗: 403
+2026-05-08 02:37:22 - INFO - 成功獲取 2026/05/08 數據，當日有0條新聞。
+2026-05-08 02:37:22 - WARNING - ⚠️ 當日沒有新聞。
+2026-05-08 02:37:22 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/05/08。
+2026-05-08 02:37:25 - ERROR - ❌ 2026/05/08 連線失敗: 404
+2026-05-08 02:37:25 - INFO - ⚠️ 當日沒有新聞。
