@@ -2020,3 +2020,33 @@
 2026-05-10 13:07:31 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/05/10。
 2026-05-10 13:07:34 - ERROR - ❌ 2026/05/10 連線失敗: 404
 2026-05-10 13:07:34 - INFO - ⚠️ 當日沒有新聞。
+2026-05-10 18:55:19 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/05/10。
+2026-05-10 18:55:20 - ERROR - ❌ 2026/05/10 連線失敗: 404
+2026-05-10 18:55:20 - WARNING - ⚠️ 沒有新聞。
+2026-05-10 18:55:20 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/05/10。
+2026-05-10 18:55:20 - ERROR - ❌ 2026/05/10 連線失敗: 403
+2026-05-10 18:55:20 - INFO - 成功獲取 2026/05/10 數據，當日有0條新聞。
+2026-05-10 18:55:20 - WARNING - ⚠️ 當日沒有新聞。
+2026-05-10 18:55:21 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/05/10。
+2026-05-10 18:55:24 - INFO - 成功獲取 2026/05/10 數據，當日有10條新聞。
+2026-05-10 18:55:24 - INFO - 正在爬取1/10則新聞。
+2026-05-10 18:55:34 - INFO - ✅ 成功獲取: Importações chinesas de energia caem fortemente em Abril。
+2026-05-10 18:55:36 - INFO - 正在爬取2/10則新聞。
+2026-05-10 18:55:46 - INFO - ✅ 成功獲取: Dia da Mãe: associações pedem políticas de apoio。
+2026-05-10 18:55:48 - INFO - 正在爬取3/10則新聞。
+2026-05-10 18:55:59 - INFO - ✅ 成功獲取: Visita de Trump à China testa capacidade de diálogo face a interesses divergentes。
+2026-05-10 18:56:01 - INFO - 正在爬取4/10則新聞。
+2026-05-10 18:56:12 - INFO - ✅ 成功獲取: Supremo Tribunal da Índia ouve vítimas para decidir se proíbe mutilação genital feminina。
+2026-05-10 18:56:13 - INFO - 正在爬取5/10則新聞。
+2026-05-10 18:56:25 - INFO - ✅ 成功獲取: Despesa ‘per capita’ dos visitantes aumentou 9,5%。
+2026-05-10 18:56:26 - INFO - 正在爬取6/10則新聞。
+2026-05-10 18:56:37 - INFO - ✅ 成功獲取: Festival de Artes de Macau é inaugurado com danças e mensagens de união。
+2026-05-10 18:56:38 - INFO - 正在爬取7/10則新聞。
+2026-05-10 18:56:49 - INFO - ✅ 成功獲取: None。
+2026-05-10 18:56:50 - INFO - 正在爬取8/10則新聞。
+2026-05-10 18:57:01 - INFO - ✅ 成功獲取: Galeria Amagao evoca Anaïs Nin na exposição “Delta of Venus”, de Kay Zhang。
+2026-05-10 18:57:02 - INFO - 正在爬取9/10則新聞。
+2026-05-10 18:57:14 - INFO - ✅ 成功獲取: AAM apela aos jovens advogados de Macau para se integrarem no desenvolvimento do interior da China。
+2026-05-10 18:57:15 - INFO - 正在爬取10/10則新聞。
+2026-05-10 18:57:27 - INFO - ✅ 成功獲取: Número de nascimentos voltou a diminuir。
+2026-05-10 18:57:28 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
