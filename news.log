@@ -2101,3 +2101,54 @@
 2026-05-11 02:43:01 - ERROR - ❌ 2026/05/11 連線失敗: 404
 2026-05-11 02:43:01 - INFO - ⚠️ 當日沒有新聞。
 2026-05-11 02:43:05 - ERROR - ❌ 2026/05/11 連線失敗: 404
+2026-05-11 09:31:52 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/05/11。
+2026-05-11 09:31:53 - INFO - 成功獲取 2026/05/11 數據，當日有20條新聞。
+2026-05-11 09:31:53 - INFO - 正在爬取1/20則新聞。
+2026-05-11 09:31:53 - INFO - ✅ 成功獲取: Aviação | Companhias sul-coreanas suspendem mais de 900 voos。
+2026-05-11 09:31:55 - INFO - 正在爬取2/20則新聞。
+2026-05-11 09:31:55 - INFO - ✅ 成功獲取: Wynn Macau | Lucros sobem 10,9 % no primeiro trimestre。
+2026-05-11 09:31:57 - INFO - 正在爬取3/20則新聞。
+2026-05-11 09:31:57 - INFO - ✅ 成功獲取: Ormuz | Seul diz que “impacto externo” causou explosão em navio。
+2026-05-11 09:31:59 - INFO - 正在爬取4/20則新聞。
+2026-05-11 09:31:59 - INFO - ✅ 成功獲取: “Deixem-nos trabalhar”。
+2026-05-11 09:32:01 - INFO - 正在爬取5/20則新聞。
+2026-05-11 09:32:01 - INFO - ✅ 成功獲取: GP Macau: FIA confirma continuidade de Taças do Mundo de FR e F4。
+2026-05-11 09:32:03 - INFO - 正在爬取6/20則新聞。
+2026-05-11 09:32:03 - INFO - ✅ 成功獲取: Supremo Tribunal da Índia ouve vítimas para decidir se proíbe mutilação genital feminina。
+2026-05-11 09:32:05 - INFO - 正在爬取7/20則新聞。
+2026-05-11 09:32:05 - INFO - ✅ 成功獲取: Defesa | Pequim diz que cooperação militar entre Japão e Filipinas “agrava” tensões regionais。
+2026-05-11 09:32:07 - INFO - 正在爬取8/20則新聞。
+2026-05-11 09:32:07 - INFO - ✅ 成功獲取: UE lança com Brasil e China coligação para equilibrar mercados de carbono。
+2026-05-11 09:32:09 - INFO - 正在爬取9/20則新聞。
+2026-05-11 09:32:09 - INFO - ✅ 成功獲取: Comércio | Exportações chinesas registam crescimento homólogo de 14,1% em Abril。
+2026-05-11 09:32:11 - INFO - 正在爬取10/20則新聞。
+2026-05-11 09:32:11 - INFO - ✅ 成功獲取: Energia | Importações chinesas caem fortemente em Abril。
+2026-05-11 09:32:13 - INFO - 正在爬取11/20則新聞。
+2026-05-11 09:32:13 - INFO - ✅ 成功獲取: Galeria Amagao | Kay Zhang apresenta exposição individual。
+2026-05-11 09:32:15 - INFO - 正在爬取12/20則新聞。
+2026-05-11 09:32:15 - INFO - ✅ 成功獲取: Saracoteio recebe 60 filmes e vídeos sobre dança。
+2026-05-11 09:32:17 - INFO - 正在爬取13/20則新聞。
+2026-05-11 09:32:17 - INFO - ✅ 成功獲取: Crime | Adolescente esfaqueia homem na marginal do Lam Mau。
+2026-05-11 09:32:19 - INFO - 正在爬取14/20則新聞。
+2026-05-11 09:32:19 - INFO - ✅ 成功獲取: Suicídio | Casos fatais caem até Março após recorde em 2025。
+2026-05-11 09:32:21 - INFO - 正在爬取15/20則新聞。
+2026-05-11 09:32:21 - INFO - ✅ 成功獲取: Hantavírus | SS consideram risco de contágio em Macau “baixo”。
+2026-05-11 09:32:23 - INFO - 正在爬取16/20則新聞。
+2026-05-11 09:32:23 - INFO - ✅ 成功獲取: Praias | Chan Lai Kei quer mais flexibilidade de utilização。
+2026-05-11 09:32:25 - INFO - 正在爬取17/20則新聞。
+2026-05-11 09:32:25 - INFO - ✅ 成功獲取: Turismo | Sobrinho de Edmundo Ho diz que bifana é melhor em Hong Kong。
+2026-05-11 09:32:27 - INFO - 正在爬取18/20則新聞。
+2026-05-11 09:32:27 - INFO - ✅ 成功獲取: Lusofonia | Fórum divulga em Junho índice de infra-estruturas。
+2026-05-11 09:32:29 - INFO - 正在爬取19/20則新聞。
+2026-05-11 09:32:29 - INFO - ✅ 成功獲取: DSF | Despesa pública cai 3,9% até Abril apesar de apoios sociais。
+2026-05-11 09:32:31 - INFO - 正在爬取20/20則新聞。
+2026-05-11 09:32:31 - INFO - ✅ 成功獲取: Daniel Pires, académico, sobre Camilo Pessanha: “Um homem que atraía muitas invejas”。
+2026-05-11 09:32:33 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-05-11 09:32:33 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/05/11。
+2026-05-11 09:32:33 - ERROR - ❌ 2026/05/11 連線失敗: 403
+2026-05-11 09:32:33 - INFO - 成功獲取 2026/05/11 數據，當日有0條新聞。
+2026-05-11 09:32:33 - WARNING - ⚠️ 當日沒有新聞。
+2026-05-11 09:32:33 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/05/11。
+2026-05-11 09:32:37 - ERROR - ❌ 2026/05/11 連線失敗: 404
+2026-05-11 09:32:37 - INFO - ⚠️ 當日沒有新聞。
+2026-05-11 09:32:40 - ERROR - ❌ 2026/05/11 連線失敗: 404
