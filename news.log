@@ -2642,3 +2642,66 @@
 2026-05-13 08:40:16 - INFO - ✅ 成功獲取: CCAC continua investigação do caso da creche Smart Nursery e IAS。
 2026-05-13 08:40:17 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
 2026-05-13 08:40:28 - ERROR - ❌ 2026/05/13 連線失敗: 404
+2026-05-13 14:22:36 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/05/13。
+2026-05-13 14:22:37 - INFO - 成功獲取 2026/05/13 數據，當日有21條新聞。
+2026-05-13 14:22:37 - INFO - 正在爬取1/21則新聞。
+2026-05-13 14:22:38 - INFO - ✅ 成功獲取: Malásia | 14 desaparecidos após naufrágio de embarcação。
+2026-05-13 14:22:39 - INFO - 正在爬取2/21則新聞。
+2026-05-13 14:22:40 - INFO - ✅ 成功獲取: Rota das Letras | Concerto de Rodrigo Leão em Dezembro。
+2026-05-13 14:22:41 - INFO - 正在爬取3/21則新聞。
+2026-05-13 14:22:42 - INFO - ✅ 成功獲取: Legalização de apostas ‘online’ vai redefinir mercado asiático。
+2026-05-13 14:22:43 - INFO - 正在爬取4/21則新聞。
+2026-05-13 14:22:44 - INFO - ✅ 成功獲取: Os homens que evitam psicoterapia。
+2026-05-13 14:22:45 - INFO - 正在爬取5/21則新聞。
+2026-05-13 14:22:46 - INFO - ✅ 成功獲取: Primeira jornada de apuramento para GP Macau decorreu em Zhuhai。
+2026-05-13 14:22:47 - INFO - 正在爬取6/21則新聞。
+2026-05-13 14:22:48 - INFO - ✅ 成功獲取: Letras&Companhia | Peça de teatro “A Revolta dos Lusecos” este sábado。
+2026-05-13 14:22:49 - INFO - 正在爬取7/21則新聞。
+2026-05-13 14:22:50 - INFO - ✅ 成功獲取: Creative Macau | Xi Di com mostra que vai além da caligrafia。
+2026-05-13 14:22:51 - INFO - 正在爬取8/21則新聞。
+2026-05-13 14:22:52 - INFO - ✅ 成功獲取: Mostra de Macau na Bienal de Veneza para ver até Novembro。
+2026-05-13 14:22:53 - INFO - 正在爬取9/21則新聞。
+2026-05-13 14:22:54 - INFO - ✅ 成功獲取: EUA | China reafirma oposição à venda de armas a Taiwan。
+2026-05-13 14:22:55 - INFO - 正在爬取10/21則新聞。
+2026-05-13 14:22:56 - INFO - ✅ 成功獲取: Cooperação | Brasil e China com isenção de vistos para viagens até Dezembro de 2026。
+2026-05-13 14:22:57 - INFO - 正在爬取11/21則新聞。
+2026-05-13 14:22:58 - INFO - ✅ 成功獲取: Irão | Teerão apoia plano chinês de segurança no golfo Pérsico。
+2026-05-13 14:22:59 - INFO - 正在爬取12/21則新聞。
+2026-05-13 14:23:00 - INFO - ✅ 成功獲取: Velhos Mitos, Novos Heróis。
+2026-05-13 14:23:01 - INFO - 正在爬取13/21則新聞。
+2026-05-13 14:23:02 - INFO - ✅ 成功獲取: Burla | Detido por oferecer investimento falso。
+2026-05-13 14:23:03 - INFO - 正在爬取14/21則新聞。
+2026-05-13 14:23:04 - INFO - ✅ 成功獲取: IAM | Mais um caso de comida contaminada em restaurante。
+2026-05-13 14:23:05 - INFO - 正在爬取15/21則新聞。
+2026-05-13 14:23:06 - INFO - ✅ 成功獲取: Receitas líquidas do grupo Galaxy cresceram 11 por cento até Março。
+2026-05-13 14:23:07 - INFO - 正在爬取16/21則新聞。
+2026-05-13 14:23:08 - INFO - ✅ 成功獲取: Sands China | Recuperação pós-pandemia “superou expectativas”。
+2026-05-13 14:23:09 - INFO - 正在爬取17/21則新聞。
+2026-05-13 14:23:10 - INFO - ✅ 成功獲取: Creche Smart | CCAC confirma investigação a diferendo com IAS。
+2026-05-13 14:23:11 - INFO - 正在爬取18/21則新聞。
+2026-05-13 14:23:11 - INFO - ✅ 成功獲取: Hengqin | Kou Hoi In critica falta de leis específicas。
+2026-05-13 14:23:13 - INFO - 正在爬取19/21則新聞。
+2026-05-13 14:23:13 - INFO - ✅ 成功獲取: San Kio | Pedidas mais informações em autocarros de turismo。
+2026-05-13 14:23:15 - INFO - 正在爬取20/21則新聞。
+2026-05-13 14:23:15 - INFO - ✅ 成功獲取: Cartão de consumo | Executivo recusa nova ronda de 10 mil patacas。
+2026-05-13 14:23:17 - INFO - 正在爬取21/21則新聞。
+2026-05-13 14:23:17 - INFO - ✅ 成功獲取: Livros | Guerra&Paz lança duas obras sobre a China em português。
+2026-05-13 14:23:19 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-05-13 14:23:19 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/05/13。
+2026-05-13 14:23:19 - ERROR - ❌ 2026/05/13 連線失敗: 403
+2026-05-13 14:23:19 - INFO - 成功獲取 2026/05/13 數據，當日有0條新聞。
+2026-05-13 14:23:19 - WARNING - ⚠️ 當日沒有新聞。
+2026-05-13 14:23:20 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/05/13。
+2026-05-13 14:23:23 - INFO - 成功獲取 2026/05/13 數據，當日有2條新聞。
+2026-05-13 14:23:23 - INFO - 正在爬取1/2則新聞。
+2026-05-13 14:23:34 - INFO - ✅ 成功獲取: Governo volta a afastar nova ronda do cartão de consumo。
+2026-05-13 14:23:36 - INFO - 正在爬取2/2則新聞。
+2026-05-13 14:23:47 - INFO - ✅ 成功獲取: CCAC continua investigação do caso da creche Smart Nursery e IAS。
+2026-05-13 14:23:49 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
+2026-05-13 14:23:53 - INFO - ✅ 成功獲取 2026/05/13 數據，當日有3條新聞。
+2026-05-13 14:23:53 - INFO - 正在爬取1/3則新聞。
+2026-05-13 14:23:55 - INFO - ✅ 成功獲取: 負責任博彩論壇匯聚精英 深入探討AI如何協助發展和融入應用。
+2026-05-13 14:23:55 - INFO - 正在爬取2/3則新聞。
+2026-05-13 14:23:57 - INFO - ✅ 成功獲取: 第九屆澳門商務大獎頒獎禮圓滿舉行 表揚31企業及機構卓越成就。
+2026-05-13 14:23:57 - INFO - 正在爬取3/3則新聞。
+2026-05-13 14:23:59 - INFO - ✅ 成功獲取: 廣泛應用AI配對 G2E Asia暨Asian IR Expo首日促成逾千場商務對接。
