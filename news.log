@@ -2892,3 +2892,56 @@
 2026-05-14 08:32:56 - ERROR - ❌ 2026/05/14 連線失敗: 404
 2026-05-14 08:32:56 - INFO - ⚠️ 當日沒有新聞。
 2026-05-14 08:32:59 - ERROR - ❌ 2026/05/14 連線失敗: 404
+2026-05-14 13:58:44 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/05/14。
+2026-05-14 13:58:46 - INFO - 成功獲取 2026/05/14 數據，當日有20條新聞。
+2026-05-14 13:58:46 - INFO - 正在爬取1/20則新聞。
+2026-05-14 13:58:47 - INFO - ✅ 成功獲取: Ásia | ONU critica Pyongyang por investir em armas em vez de serviços sociais。
+2026-05-14 13:58:48 - INFO - 正在爬取2/20則新聞。
+2026-05-14 13:58:49 - INFO - ✅ 成功獲取: Japão | Softbank quadruplica lucro para 27.045 ME。
+2026-05-14 13:58:50 - INFO - 正在爬取3/20則新聞。
+2026-05-14 13:58:51 - INFO - ✅ 成功獲取: Jogo | IA aumenta riscos de segurança na indústria。
+2026-05-14 13:58:52 - INFO - 正在爬取4/20則新聞。
+2026-05-14 13:58:53 - INFO - ✅ 成功獲取: O Ocidente desfeito (II)。
+2026-05-14 13:58:55 - INFO - 正在爬取5/20則新聞。
+2026-05-14 13:58:55 - INFO - ✅ 成功獲取: Conversa sobre caligrafia de Macau e Hong Kong este domingo。
+2026-05-14 13:58:57 - INFO - 正在爬取6/20則新聞。
+2026-05-14 13:58:57 - INFO - ✅ 成功獲取: Armazém do Boi | Mostra de vídeo experimental a partir de domingo。
+2026-05-14 13:58:59 - INFO - 正在爬取7/20則新聞。
+2026-05-14 13:58:59 - INFO - ✅ 成功獲取: Laboratório China-Portugal com impacto na saúde pública global。
+2026-05-14 13:59:01 - INFO - 正在爬取8/20則新聞。
+2026-05-14 13:59:02 - INFO - ✅ 成功獲取: China e Estados Unidos iniciam discussões comerciais na Coreia do Sul。
+2026-05-14 13:59:03 - INFO - 正在爬取9/20則新聞。
+2026-05-14 13:59:04 - INFO - ✅ 成功獲取: Governo da China saúda visita do Presidente Donald Trump ao país。
+2026-05-14 13:59:05 - INFO - 正在爬取10/20則新聞。
+2026-05-14 13:59:06 - INFO - ✅ 成功獲取: O Convidado da Noite Que Veio da Montanha de Yongjia。
+2026-05-14 13:59:07 - INFO - 正在爬取11/20則新聞。
+2026-05-14 13:59:08 - INFO - ✅ 成功獲取: Metro Ligeiro | Lucro ultrapassou 38 milhões de patacas。
+2026-05-14 13:59:10 - INFO - 正在爬取12/20則新聞。
+2026-05-14 13:59:10 - INFO - ✅ 成功獲取: BNU | Lucros com queda de 17 por cento entre Janeiro e Março。
+2026-05-14 13:59:12 - INFO - 正在爬取13/20則新聞。
+2026-05-14 13:59:12 - INFO - ✅ 成功獲取: CEM | Burlas geram perdas de 119 mil patacas。
+2026-05-14 13:59:14 - INFO - 正在爬取14/20則新聞。
+2026-05-14 13:59:14 - INFO - ✅ 成功獲取: Activos Públicos | Criada empresa para gerir fundos de 11 mil milhões。
+2026-05-14 13:59:16 - INFO - 正在爬取15/20則新聞。
+2026-05-14 13:59:17 - INFO - ✅ 成功獲取: Taipa | FAOM elogia plano urbanístico para zona norte。
+2026-05-14 13:59:18 - INFO - 正在爬取16/20則新聞。
+2026-05-14 13:59:19 - INFO - ✅ 成功獲取: AL | André Cheong reúne com delegação da APN。
+2026-05-14 13:59:20 - INFO - 正在爬取17/20則新聞。
+2026-05-14 13:59:21 - INFO - ✅ 成功獲取: Vales de saúde | Apoios vão poder ser usados em Guangdong。
+2026-05-14 13:59:22 - INFO - 正在爬取18/20則新聞。
+2026-05-14 13:59:23 - INFO - ✅ 成功獲取: Economia | Escolha de secretário está “em curso”。
+2026-05-14 13:59:24 - INFO - 正在爬取19/20則新聞。
+2026-05-14 13:59:25 - INFO - ✅ 成功獲取: IAS | Mais de 5.600 famílias carenciadas vão receber 24,7 milhões。
+2026-05-14 13:59:27 - INFO - 正在爬取20/20則新聞。
+2026-05-14 13:59:27 - INFO - ✅ 成功獲取: Francisco José Leandro e Anabela Santiago, académicos: AULP é “infra-estrutura de poder”。
+2026-05-14 13:59:29 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-05-14 13:59:29 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/05/14。
+2026-05-14 13:59:29 - ERROR - ❌ 2026/05/14 連線失敗: 403
+2026-05-14 13:59:29 - INFO - 成功獲取 2026/05/14 數據，當日有0條新聞。
+2026-05-14 13:59:29 - WARNING - ⚠️ 當日沒有新聞。
+2026-05-14 13:59:30 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/05/14。
+2026-05-14 13:59:34 - ERROR - ❌ 2026/05/14 連線失敗: 404
+2026-05-14 13:59:34 - INFO - ⚠️ 當日沒有新聞。
+2026-05-14 13:59:37 - INFO - ✅ 成功獲取 2026/05/14 數據，當日有1條新聞。
+2026-05-14 13:59:37 - INFO - 正在爬取1/1則新聞。
+2026-05-14 13:59:39 - INFO - ✅ 成功獲取: 體育賽事結合文化成旅遊新出路？ 何猷君：度假村不再以房數定義。
