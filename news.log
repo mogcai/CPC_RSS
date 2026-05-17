@@ -3315,3 +3315,32 @@
 2026-05-17 13:09:05 - ERROR - ❌ 2026/05/17 連線失敗: 404
 2026-05-17 13:09:05 - INFO - ⚠️ 當日沒有新聞。
 2026-05-17 13:09:09 - ERROR - ❌ 2026/05/17 連線失敗: 404
+2026-05-17 19:02:32 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/05/17。
+2026-05-17 19:02:33 - ERROR - ❌ 2026/05/17 連線失敗: 404
+2026-05-17 19:02:33 - WARNING - ⚠️ 沒有新聞。
+2026-05-17 19:02:33 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/05/17。
+2026-05-17 19:02:34 - ERROR - ❌ 2026/05/17 連線失敗: 403
+2026-05-17 19:02:34 - INFO - 成功獲取 2026/05/17 數據，當日有0條新聞。
+2026-05-17 19:02:34 - WARNING - ⚠️ 當日沒有新聞。
+2026-05-17 19:02:34 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/05/17。
+2026-05-17 19:02:38 - INFO - 成功獲取 2026/05/17 數據，當日有9條新聞。
+2026-05-17 19:02:38 - INFO - 正在爬取1/9則新聞。
+2026-05-17 19:02:49 - INFO - ✅ 成功獲取: Volume global de investimento na RAEM encolheu 21%。
+2026-05-17 19:02:50 - INFO - 正在爬取2/9則新聞。
+2026-05-17 19:03:02 - INFO - ✅ 成功獲取: Assembleia Legislativa funciona com “maior eficiência”, diz André Cheong。
+2026-05-17 19:03:04 - INFO - 正在爬取3/9則新聞。
+2026-05-17 19:03:14 - INFO - ✅ 成功獲取: K-Pop resiste na China apesar de restrições e é atractivo turístico em Macau e Hong Kong。
+2026-05-17 19:03:15 - INFO - 正在爬取4/9則新聞。
+2026-05-17 19:03:27 - INFO - ✅ 成功獲取: Equipa feminina de futebol norte-coreana chega à Coreia do Sul para disputar torneio regional。
+2026-05-17 19:03:28 - INFO - 正在爬取5/9則新聞。
+2026-05-17 19:03:40 - INFO - ✅ 成功獲取: China anuncia compra de aviões dos EUA e compromissos de redução de tarifas。
+2026-05-17 19:03:41 - INFO - 正在爬取6/9則新聞。
+2026-05-17 19:03:53 - INFO - ✅ 成功獲取: Macau obteve o prémio de “Melhor Destino de Luxo da Ásia”。
+2026-05-17 19:03:54 - INFO - 正在爬取7/9則新聞。
+2026-05-17 19:04:06 - INFO - ✅ 成功獲取: Auditoria sugere “revisão abrangente” da afectação de pessoal nos serviços públicos。
+2026-05-17 19:04:07 - INFO - 正在爬取8/9則新聞。
+2026-05-17 19:04:17 - INFO - ✅ 成功獲取: Chá de encontro: duas mulheres, duas artes e uma língua que dispensa palavras。
+2026-05-17 19:04:19 - INFO - 正在爬取9/9則新聞。
+2026-05-17 19:04:31 - INFO - ✅ 成功獲取: Serviços de Saúde esclarecem que risco de transmissão do hantavírus em Macau é baixo。
+2026-05-17 19:04:32 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
+2026-05-17 19:04:36 - ERROR - ❌ 2026/05/17 連線失敗: 404
