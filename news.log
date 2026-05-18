@@ -3393,3 +3393,54 @@
 2026-05-18 02:51:15 - ERROR - ❌ 2026/05/18 連線失敗: 404
 2026-05-18 02:51:15 - INFO - ⚠️ 當日沒有新聞。
 2026-05-18 02:51:20 - ERROR - ❌ 2026/05/18 連線失敗: 404
+2026-05-18 09:52:36 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/05/18。
+2026-05-18 09:52:37 - INFO - 成功獲取 2026/05/18 數據，當日有19條新聞。
+2026-05-18 09:52:37 - INFO - 正在爬取1/19則新聞。
+2026-05-18 09:52:37 - INFO - ✅ 成功獲取: Administração Trump “não gosta claramente” da UE。
+2026-05-18 09:52:39 - INFO - 正在爬取2/19則新聞。
+2026-05-18 09:52:39 - INFO - ✅ 成功獲取: Saúde | Conferência e festival INCLUSION entre hoje e sexta-feira。
+2026-05-18 09:52:40 - INFO - 正在爬取3/19則新聞。
+2026-05-18 09:52:41 - INFO - ✅ 成功獲取: Visita | Putin na China a partir de amanhã。
+2026-05-18 09:52:42 - INFO - 正在爬取4/19則新聞。
+2026-05-18 09:52:43 - INFO - ✅ 成功獲取: Sopa salvadora。
+2026-05-18 09:52:44 - INFO - 正在爬取5/19則新聞。
+2026-05-18 09:52:45 - INFO - ✅ 成功獲取: Livro | Poemas de Maria Anna Tamagnini reeditados em Portugal。
+2026-05-18 09:52:46 - INFO - 正在爬取6/19則新聞。
+2026-05-18 09:52:47 - INFO - ✅ 成功獲取: Diplomacia | China e EUA acordam aprofundar cooperação comercial。
+2026-05-18 09:52:48 - INFO - 正在爬取7/19則新聞。
+2026-05-18 09:52:49 - INFO - ✅ 成功獲取: Taiwan | Wang Yi diz que EUA compreendem posição chinesa e pede “acções concretas”。
+2026-05-18 09:52:50 - INFO - 正在爬取8/19則新聞。
+2026-05-18 09:52:50 - INFO - ✅ 成功獲取: Agência Europeia e Academia Chinesa das Ciências lançam satélite SMILE。
+2026-05-18 09:52:52 - INFO - 正在爬取9/19則新聞。
+2026-05-18 09:52:52 - INFO - ✅ 成功獲取: O homem de pé diante das montanhas frias de Gao Yan。
+2026-05-18 09:52:54 - INFO - 正在爬取10/19則新聞。
+2026-05-18 09:52:54 - INFO - ✅ 成功獲取: Ensino católico | Académico destaca adaptação a “situação sociopolítica”。
+2026-05-18 09:52:56 - INFO - 正在爬取11/19則新聞。
+2026-05-18 09:52:56 - INFO - ✅ 成功獲取: Rendas | Habitação ligeiramente mais barata。
+2026-05-18 09:52:58 - INFO - 正在爬取12/19則新聞。
+2026-05-18 09:52:58 - INFO - ✅ 成功獲取: K-Pop | Macau e Hong Kong aproveitam restrições no Interior。
+2026-05-18 09:53:00 - INFO - 正在爬取13/19則新聞。
+2026-05-18 09:53:00 - INFO - ✅ 成功獲取: Novos empréstimos hipotecários sobem 65% em Março。
+2026-05-18 09:53:01 - INFO - 正在爬取14/19則新聞。
+2026-05-18 09:53:02 - INFO - ✅ 成功獲取: SS | Afastadas cabines fechadas para fumadores。
+2026-05-18 09:53:03 - INFO - 正在爬取15/19則新聞。
+2026-05-18 09:53:04 - INFO - ✅ 成功獲取: HK | Adrian Ho recua e admite que bifanas de Macau são superiores。
+2026-05-18 09:53:05 - INFO - 正在爬取16/19則新聞。
+2026-05-18 09:53:06 - INFO - ✅ 成功獲取: PIB | Crescimento de 7,1% entre Janeiro e Março。
+2026-05-18 09:53:07 - INFO - 正在爬取17/19則新聞。
+2026-05-18 09:53:07 - INFO - ✅ 成功獲取: Assembleia Legislativa | Dia aberto com actuações musicais。
+2026-05-18 09:53:09 - INFO - 正在爬取18/19則新聞。
+2026-05-18 09:53:09 - INFO - ✅ 成功獲取: Auditoria | Sugerida fiscalização de prédios devolutos de Macau。
+2026-05-18 09:53:11 - INFO - 正在爬取19/19則新聞。
+2026-05-18 09:53:11 - INFO - ✅ 成功獲取: Comércio | Martins da Cruz acha que Espanha condiciona “exclusividade de Portugal”。
+2026-05-18 09:53:13 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-05-18 09:53:13 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/05/18。
+2026-05-18 09:53:14 - ERROR - ❌ 2026/05/18 連線失敗: 403
+2026-05-18 09:53:14 - INFO - 成功獲取 2026/05/18 數據，當日有0條新聞。
+2026-05-18 09:53:14 - WARNING - ⚠️ 當日沒有新聞。
+2026-05-18 09:53:14 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/05/18。
+2026-05-18 09:53:17 - ERROR - ❌ 2026/05/18 連線失敗: 404
+2026-05-18 09:53:17 - INFO - ⚠️ 當日沒有新聞。
+2026-05-18 09:53:21 - INFO - ✅ 成功獲取 2026/05/18 數據，當日有1條新聞。
+2026-05-18 09:53:21 - INFO - 正在爬取1/1則新聞。
+2026-05-18 09:53:23 - INFO - ✅ 成功獲取: 永利膺亞洲最佳企業僱主獎雙殊榮 服務滿十年員工比例升至逾5成。
