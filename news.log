@@ -3444,3 +3444,58 @@
 2026-05-18 09:53:21 - INFO - ✅ 成功獲取 2026/05/18 數據，當日有1條新聞。
 2026-05-18 09:53:21 - INFO - 正在爬取1/1則新聞。
 2026-05-18 09:53:23 - INFO - ✅ 成功獲取: 永利膺亞洲最佳企業僱主獎雙殊榮 服務滿十年員工比例升至逾5成。
+2026-05-18 15:19:26 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/05/18。
+2026-05-18 15:19:28 - INFO - 成功獲取 2026/05/18 數據，當日有19條新聞。
+2026-05-18 15:19:28 - INFO - 正在爬取1/19則新聞。
+2026-05-18 15:19:28 - INFO - ✅ 成功獲取: Administração Trump “não gosta claramente” da UE。
+2026-05-18 15:19:30 - INFO - 正在爬取2/19則新聞。
+2026-05-18 15:19:30 - INFO - ✅ 成功獲取: Saúde | Conferência e festival INCLUSION entre hoje e sexta-feira。
+2026-05-18 15:19:32 - INFO - 正在爬取3/19則新聞。
+2026-05-18 15:19:32 - INFO - ✅ 成功獲取: Visita | Putin na China a partir de amanhã。
+2026-05-18 15:19:33 - INFO - 正在爬取4/19則新聞。
+2026-05-18 15:19:34 - INFO - ✅ 成功獲取: Sopa salvadora。
+2026-05-18 15:19:35 - INFO - 正在爬取5/19則新聞。
+2026-05-18 15:19:36 - INFO - ✅ 成功獲取: Livro | Poemas de Maria Anna Tamagnini reeditados em Portugal。
+2026-05-18 15:19:37 - INFO - 正在爬取6/19則新聞。
+2026-05-18 15:19:38 - INFO - ✅ 成功獲取: Diplomacia | China e EUA acordam aprofundar cooperação comercial。
+2026-05-18 15:19:39 - INFO - 正在爬取7/19則新聞。
+2026-05-18 15:19:40 - INFO - ✅ 成功獲取: Taiwan | Wang Yi diz que EUA compreendem posição chinesa e pede “acções concretas”。
+2026-05-18 15:19:41 - INFO - 正在爬取8/19則新聞。
+2026-05-18 15:19:41 - INFO - ✅ 成功獲取: Agência Europeia e Academia Chinesa das Ciências lançam satélite SMILE。
+2026-05-18 15:19:43 - INFO - 正在爬取9/19則新聞。
+2026-05-18 15:19:43 - INFO - ✅ 成功獲取: O homem de pé diante das montanhas frias de Gao Yan。
+2026-05-18 15:19:45 - INFO - 正在爬取10/19則新聞。
+2026-05-18 15:19:45 - INFO - ✅ 成功獲取: Ensino católico | Académico destaca adaptação a “situação sociopolítica”。
+2026-05-18 15:19:47 - INFO - 正在爬取11/19則新聞。
+2026-05-18 15:19:47 - INFO - ✅ 成功獲取: Rendas | Habitação ligeiramente mais barata。
+2026-05-18 15:19:49 - INFO - 正在爬取12/19則新聞。
+2026-05-18 15:19:49 - INFO - ✅ 成功獲取: K-Pop | Macau e Hong Kong aproveitam restrições no Interior。
+2026-05-18 15:19:51 - INFO - 正在爬取13/19則新聞。
+2026-05-18 15:19:51 - INFO - ✅ 成功獲取: Novos empréstimos hipotecários sobem 65% em Março。
+2026-05-18 15:19:52 - INFO - 正在爬取14/19則新聞。
+2026-05-18 15:19:53 - INFO - ✅ 成功獲取: SS | Afastadas cabines fechadas para fumadores。
+2026-05-18 15:19:54 - INFO - 正在爬取15/19則新聞。
+2026-05-18 15:19:55 - INFO - ✅ 成功獲取: HK | Adrian Ho recua e admite que bifanas de Macau são superiores。
+2026-05-18 15:19:56 - INFO - 正在爬取16/19則新聞。
+2026-05-18 15:19:57 - INFO - ✅ 成功獲取: PIB | Crescimento de 7,1% entre Janeiro e Março。
+2026-05-18 15:19:58 - INFO - 正在爬取17/19則新聞。
+2026-05-18 15:19:59 - INFO - ✅ 成功獲取: Assembleia Legislativa | Dia aberto com actuações musicais。
+2026-05-18 15:20:00 - INFO - 正在爬取18/19則新聞。
+2026-05-18 15:20:01 - INFO - ✅ 成功獲取: Auditoria | Sugerida fiscalização de prédios devolutos de Macau。
+2026-05-18 15:20:02 - INFO - 正在爬取19/19則新聞。
+2026-05-18 15:20:02 - INFO - ✅ 成功獲取: Comércio | Martins da Cruz acha que Espanha condiciona “exclusividade de Portugal”。
+2026-05-18 15:20:04 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-05-18 15:20:04 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/05/18。
+2026-05-18 15:20:05 - ERROR - ❌ 2026/05/18 連線失敗: 403
+2026-05-18 15:20:05 - INFO - 成功獲取 2026/05/18 數據，當日有0條新聞。
+2026-05-18 15:20:05 - WARNING - ⚠️ 當日沒有新聞。
+2026-05-18 15:20:05 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/05/18。
+2026-05-18 15:20:08 - ERROR - ❌ 2026/05/18 連線失敗: 404
+2026-05-18 15:20:08 - INFO - ⚠️ 當日沒有新聞。
+2026-05-18 15:20:12 - INFO - ✅ 成功獲取 2026/05/18 數據，當日有3條新聞。
+2026-05-18 15:20:12 - INFO - 正在爬取1/3則新聞。
+2026-05-18 15:20:14 - INFO - ✅ 成功獲取: 澳門金沙慶祝開業22周年 延續傳統向本地的士司機派特色心意午餐。
+2026-05-18 15:20:14 - INFO - 正在爬取2/3則新聞。
+2026-05-18 15:20:16 - INFO - ✅ 成功獲取: 永利膺亞洲最佳企業僱主獎雙殊榮 服務滿十年員工比例升至逾5成。
+2026-05-18 15:20:16 - INFO - 正在爬取3/3則新聞。
+2026-05-18 15:20:18 - INFO - ✅ 成功獲取: 受電子博彩表現疲弱拖累 菲律賓首季賭收按年跌近16%。
