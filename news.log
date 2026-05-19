@@ -3676,3 +3676,62 @@
 2026-05-19 09:35:43 - INFO - ✅ 成功獲取: Ponderada optimização do espaço subterrâneo da Praça Ferreira do Amaral。
 2026-05-19 09:35:44 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
 2026-05-19 09:35:48 - ERROR - ❌ 2026/05/19 連線失敗: 404
+2026-05-19 14:50:28 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/05/19。
+2026-05-19 14:50:30 - INFO - 成功獲取 2026/05/19 數據，當日有18條新聞。
+2026-05-19 14:50:30 - INFO - 正在爬取1/18則新聞。
+2026-05-19 14:50:30 - INFO - ✅ 成功獲取: AIE | Reservas de petróleo vão esgotar-se em semanas。
+2026-05-19 14:50:32 - INFO - 正在爬取2/18則新聞。
+2026-05-19 14:50:32 - INFO - ✅ 成功獲取: FRC | Chá é protagonista em mostra de fotografia e pintura。
+2026-05-19 14:50:34 - INFO - 正在爬取3/18則新聞。
+2026-05-19 14:50:34 - INFO - ✅ 成功獲取: A vaga da IA e os novos desafios: da reforma antecipada a uma transformação para a competitividade sustentável (I)。
+2026-05-19 14:50:36 - INFO - 正在爬取4/18則新聞。
+2026-05-19 14:50:36 - INFO - ✅ 成功獲取: Xanana Gusmão recorda que foi através do Português que Timor-Leste falou ao mundo。
+2026-05-19 14:50:38 - INFO - 正在爬取5/18則新聞。
+2026-05-19 14:50:38 - INFO - ✅ 成功獲取: Corrupção | Ex-líder de Wuhan investigado。
+2026-05-19 14:50:40 - INFO - 正在爬取6/18則新聞。
+2026-05-19 14:50:40 - INFO - ✅ 成功獲取: Indústria | Produção industrial na China cresce 4,1% em Abril。
+2026-05-19 14:50:42 - INFO - 正在爬取7/18則新聞。
+2026-05-19 14:50:42 - INFO - ✅ 成功獲取: China vai adquirir 17 mil milhões de dólares por ano de produtos agrícolas aos EUA。
+2026-05-19 14:50:43 - INFO - 正在爬取8/18則新聞。
+2026-05-19 14:50:44 - INFO - ✅ 成功獲取: Guangxi | Sismo de magnitude 5,2 faz dois mortos e um ferido。
+2026-05-19 14:50:45 - INFO - 正在爬取9/18則新聞。
+2026-05-19 14:50:46 - INFO - ✅ 成功獲取: Tonan Quito, actor e protagonista de “Entrelinhas”: “Bem-dita a hora em que aceitei este desafio”。
+2026-05-19 14:50:47 - INFO - 正在爬取10/18則新聞。
+2026-05-19 14:50:48 - INFO - ✅ 成功獲取: Ébola | Rastreio reforçado para quem vem de zonas afectadas。
+2026-05-19 14:50:49 - INFO - 正在爬取11/18則新聞。
+2026-05-19 14:50:50 - INFO - ✅ 成功獲取: PJ | Quatro detidos por uso e tráfico de space-oil e metanfetaminas。
+2026-05-19 14:50:51 - INFO - 正在爬取12/18則新聞。
+2026-05-19 14:50:52 - INFO - ✅ 成功獲取: Sands China | “Carnaval de Compras” em Julho。
+2026-05-19 14:50:53 - INFO - 正在爬取13/18則新聞。
+2026-05-19 14:50:53 - INFO - ✅ 成功獲取: Ponte da Amizade | Circulação só numa faixa até meados de Agosto。
+2026-05-19 14:50:55 - INFO - 正在爬取14/18則新聞。
+2026-05-19 14:50:55 - INFO - ✅ 成功獲取: Parquímetros | Nick Lei quer notificação de multas por SMS。
+2026-05-19 14:50:57 - INFO - 正在爬取15/18則新聞。
+2026-05-19 14:50:57 - INFO - ✅ 成功獲取: GP Consumo | Retalho com 60% de gastos no primeiro mês。
+2026-05-19 14:50:59 - INFO - 正在爬取16/18則新聞。
+2026-05-19 14:50:59 - INFO - ✅ 成功獲取: Dia da Criança | Data assinalada com prendas a crianças internadas。
+2026-05-19 14:51:01 - INFO - 正在爬取17/18則新聞。
+2026-05-19 14:51:01 - INFO - ✅ 成功獲取: Função Pública | Governo diz que horas extra estão regulamentadas。
+2026-05-19 14:51:03 - INFO - 正在爬取18/18則新聞。
+2026-05-19 14:51:03 - INFO - ✅ 成功獲取: Corrupção | Ex-presidente de Macau do Banco da China expulso do PCC。
+2026-05-19 14:51:04 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-05-19 14:51:05 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/05/19。
+2026-05-19 14:51:05 - ERROR - ❌ 2026/05/19 連線失敗: 403
+2026-05-19 14:51:05 - INFO - 成功獲取 2026/05/19 數據，當日有0條新聞。
+2026-05-19 14:51:05 - WARNING - ⚠️ 當日沒有新聞。
+2026-05-19 14:51:05 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/05/19。
+2026-05-19 14:51:08 - INFO - 成功獲取 2026/05/19 數據，當日有3條新聞。
+2026-05-19 14:51:08 - INFO - 正在爬取1/3則新聞。
+2026-05-19 14:51:20 - INFO - ✅ 成功獲取: Macau avança com dez grandes obras viárias até Setembro。
+2026-05-19 14:51:21 - INFO - 正在爬取2/3則新聞。
+2026-05-19 14:51:33 - INFO - ✅ 成功獲取: Serviços de Saúde reforçam rastreio de viajantes vindos de países afectados pelo vírus ébola。
+2026-05-19 14:51:34 - INFO - 正在爬取3/3則新聞。
+2026-05-19 14:51:45 - INFO - ✅ 成功獲取: Ponderada optimização do espaço subterrâneo da Praça Ferreira do Amaral。
+2026-05-19 14:51:47 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
+2026-05-19 14:51:51 - INFO - ✅ 成功獲取 2026/05/19 數據，當日有3條新聞。
+2026-05-19 14:51:51 - INFO - 正在爬取1/3則新聞。
+2026-05-19 14:51:53 - INFO - ✅ 成功獲取: 澳門5月首17天賭收料達126.5億 花旗維持全月預測至225億。
+2026-05-19 14:51:53 - INFO - 正在爬取2/3則新聞。
+2026-05-19 14:51:55 - INFO - ✅ 成功獲取: 據報日本愛知縣要求IR提案須含2千酒店房 海外業者指可行性存疑。
+2026-05-19 14:51:55 - INFO - 正在爬取3/3則新聞。
+2026-05-19 14:51:57 - INFO - ✅ 成功獲取: 亞洲先鋒娛樂夥CountR現金管理   升級轉型「一站式」娛樂場服務。
