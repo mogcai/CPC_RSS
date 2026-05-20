@@ -3869,3 +3869,58 @@
 2026-05-20 02:48:53 - ERROR - ❌ 2026/05/20 連線失敗: 404
 2026-05-20 02:48:53 - INFO - ⚠️ 當日沒有新聞。
 2026-05-20 02:48:57 - ERROR - ❌ 2026/05/20 連線失敗: 404
+2026-05-20 08:59:15 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/05/20。
+2026-05-20 08:59:17 - INFO - 成功獲取 2026/05/20 數據，當日有22條新聞。
+2026-05-20 08:59:17 - INFO - 正在爬取1/22則新聞。
+2026-05-20 08:59:17 - INFO - ✅ 成功獲取: Gaza | 400 activistas de flotilha detidos e a caminho de Israel。
+2026-05-20 08:59:19 - INFO - 正在爬取2/22則新聞。
+2026-05-20 08:59:19 - INFO - ✅ 成功獲取: Seul | Ex-ministro condenado a três anos de prisão por imposição da lei marcial。
+2026-05-20 08:59:21 - INFO - 正在爬取3/22則新聞。
+2026-05-20 08:59:22 - INFO - ✅ 成功獲取: Imprensa | Trump sugeriu a Xi união com Putin contra TPI。
+2026-05-20 08:59:23 - INFO - 正在爬取4/22則新聞。
+2026-05-20 08:59:24 - INFO - ✅ 成功獲取: A derrota do Labour e a onda de extrema-direita。
+2026-05-20 08:59:25 - INFO - 正在爬取5/22則新聞。
+2026-05-20 08:59:26 - INFO - ✅ 成功獲取: CCCM | Conferência de Estudos sobre Macau realiza-se em Lisboa。
+2026-05-20 08:59:27 - INFO - 正在爬取6/22則新聞。
+2026-05-20 08:59:28 - INFO - ✅ 成功獲取: “The Impossible Truth” apresentado na Livraria Portuguesa。
+2026-05-20 08:59:29 - INFO - 正在爬取7/22則新聞。
+2026-05-20 08:59:30 - INFO - ✅ 成功獲取: Livro | “Quem rasgou os meus lençóis de linho” com apresentações até fim do mês。
+2026-05-20 08:59:32 - INFO - 正在爬取8/22則新聞。
+2026-05-20 08:59:32 - INFO - ✅ 成功獲取: Hong Kong | Multas de até quase 330 mil euros para quem fumar em estaleiros。
+2026-05-20 08:59:34 - INFO - 正在爬取9/22則新聞。
+2026-05-20 08:59:34 - INFO - ✅ 成功獲取: Hubei | Três mortos e quatro desaparecidos na sequência de chuvas torrenciais。
+2026-05-20 08:59:36 - INFO - 正在爬取10/22則新聞。
+2026-05-20 08:59:37 - INFO - ✅ 成功獲取: Visita | Putin elogia aliança entre Rússia e China antes de chegar a Pequim。
+2026-05-20 08:59:38 - INFO - 正在爬取11/22則新聞。
+2026-05-20 08:59:39 - INFO - ✅ 成功獲取: Poemas de Lu Xun  #18。
+2026-05-20 08:59:40 - INFO - 正在爬取12/22則新聞。
+2026-05-20 08:59:41 - INFO - ✅ 成功獲取: Pagamentos Electrónicos | Keypay abre actividade em Macau。
+2026-05-20 08:59:42 - INFO - 正在爬取13/22則新聞。
+2026-05-20 08:59:43 - INFO - ✅ 成功獲取: Imobiliário | Mais transacções mas a preços mais baixos。
+2026-05-20 08:59:45 - INFO - 正在爬取14/22則新聞。
+2026-05-20 08:59:45 - INFO - ✅ 成功獲取: Ébola | Instituições médicas alteram zonas de isolamento。
+2026-05-20 08:59:47 - INFO - 正在爬取15/22則新聞。
+2026-05-20 08:59:47 - INFO - ✅ 成功獲取: “Autocarros de lazer” | Deputados defendem medida permanente。
+2026-05-20 08:59:49 - INFO - 正在爬取16/22則新聞。
+2026-05-20 08:59:49 - INFO - ✅ 成功獲取: Plano quinquenal | Consulta pública arranca hoje。
+2026-05-20 08:59:51 - INFO - 正在爬取17/22則新聞。
+2026-05-20 08:59:52 - INFO - ✅ 成功獲取: IA | Leong Pou U pede orientações e diálogo com trabalhadores。
+2026-05-20 08:59:53 - INFO - 正在爬取18/22則新聞。
+2026-05-20 08:59:54 - INFO - ✅ 成功獲取: Saúde | Wong Kit Cheng pede estudo sobre recursos humanos。
+2026-05-20 08:59:55 - INFO - 正在爬取19/22則新聞。
+2026-05-20 08:59:56 - INFO - ✅ 成功獲取: Ponte de Amizade | Conselheiro pede medidas para evitar impacto de obras。
+2026-05-20 08:59:57 - INFO - 正在爬取20/22則新聞。
+2026-05-20 08:59:58 - INFO - ✅ 成功獲取: Deputados exigem elevação da eficiência da Função Pública。
+2026-05-20 09:00:00 - INFO - 正在爬取21/22則新聞。
+2026-05-20 09:00:00 - INFO - ✅ 成功獲取: Nova lei possibilita criação de hospitais de dia para turistas。
+2026-05-20 09:00:02 - INFO - 正在爬取22/22則新聞。
+2026-05-20 09:00:02 - INFO - ✅ 成功獲取: Tecnologia | Chui Sai Peng defende criação local de “robô polícia”。
+2026-05-20 09:00:04 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-05-20 09:00:04 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/05/20。
+2026-05-20 09:00:05 - ERROR - ❌ 2026/05/20 連線失敗: 403
+2026-05-20 09:00:05 - INFO - 成功獲取 2026/05/20 數據，當日有0條新聞。
+2026-05-20 09:00:05 - WARNING - ⚠️ 當日沒有新聞。
+2026-05-20 09:00:05 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/05/20。
+2026-05-20 09:00:09 - ERROR - ❌ 2026/05/20 連線失敗: 404
+2026-05-20 09:00:09 - INFO - ⚠️ 當日沒有新聞。
+2026-05-20 09:00:12 - ERROR - ❌ 2026/05/20 連線失敗: 404
