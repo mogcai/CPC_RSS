@@ -4211,3 +4211,70 @@
 2026-05-21 14:58:33 - INFO - ✅ 成功獲取: Ambiguidades, oportunidades e implicações após o encontro entre Trump e Xi。
 2026-05-21 14:58:34 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
 2026-05-21 14:58:37 - ERROR - ❌ 2026/05/21 連線失敗: 404
+2026-05-21 19:47:42 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/05/21。
+2026-05-21 19:47:43 - INFO - 成功獲取 2026/05/21 數據，當日有16條新聞。
+2026-05-21 19:47:43 - INFO - 正在爬取1/16則新聞。
+2026-05-21 19:47:44 - INFO - ✅ 成功獲取: Vacina contra o vírus Ébola poderá demorar entre seis a nove meses。
+2026-05-21 19:47:45 - INFO - 正在爬取2/16則新聞。
+2026-05-21 19:47:46 - INFO - ✅ 成功獲取: Cooperação | Macau e Cazaquistão celebraram acordos judiciais。
+2026-05-21 19:47:48 - INFO - 正在爬取3/16則新聞。
+2026-05-21 19:47:48 - INFO - ✅ 成功獲取: Rua da Felicidade | Música irá animar o fim-de-semana。
+2026-05-21 19:47:50 - INFO - 正在爬取4/16則新聞。
+2026-05-21 19:47:50 - INFO - ✅ 成功獲取: Badminton | Open de Macau realiza-se entre os dias 16 e 21 de Junho。
+2026-05-21 19:47:52 - INFO - 正在爬取5/16則新聞。
+2026-05-21 19:47:52 - INFO - ✅ 成功獲取: Automobilismo | André Couto vai regressar ao troféu Lamborghini。
+2026-05-21 19:47:54 - INFO - 正在爬取6/16則新聞。
+2026-05-21 19:47:55 - INFO - ✅ 成功獲取: Xi considera que o mundo corre o risco de cair “na lei da selva”。
+2026-05-21 19:47:56 - INFO - 正在爬取7/16則新聞。
+2026-05-21 19:47:57 - INFO - ✅ 成功獲取: “Taiwan Travelogue”, de Yáng Shuang-zi, vence Booker Internacional。
+2026-05-21 19:47:58 - INFO - 正在爬取8/16則新聞。
+2026-05-21 19:47:59 - INFO - ✅ 成功獲取: Teatro | Dóci Papiaçám di Macau apresenta sátira sobre negócios em crise。
+2026-05-21 19:48:00 - INFO - 正在爬取9/16則新聞。
+2026-05-21 19:48:01 - INFO - ✅ 成功獲取: Jogo | Citigroup aponta para receitas superiores a 22,5 mil milhões em Maio。
+2026-05-21 19:48:02 - INFO - 正在爬取10/16則新聞。
+2026-05-21 19:48:03 - INFO - ✅ 成功獲取: Concertos | Nick Lei pede clarificação de regras de segurança。
+2026-05-21 19:48:05 - INFO - 正在爬取11/16則新聞。
+2026-05-21 19:48:05 - INFO - ✅ 成功獲取: UMTec | Subsidiária com perdas de 10 mil renminbis。
+2026-05-21 19:48:07 - INFO - 正在爬取12/16則新聞。
+2026-05-21 19:48:07 - INFO - ✅ 成功獲取: IAS | Pedido estudo à UM sobre renovação de casas para idosos。
+2026-05-21 19:48:09 - INFO - 正在爬取13/16則新聞。
+2026-05-21 19:48:10 - INFO - ✅ 成功獲取: Turismo | Lam Lon Wai alerta para limitações durante feriados nacionais。
+2026-05-21 19:48:11 - INFO - 正在爬取14/16則新聞。
+2026-05-21 19:48:12 - INFO - ✅ 成功獲取: DSF | Devolução do imposto profissional a partir de amanhã。
+2026-05-21 19:48:13 - INFO - 正在爬取15/16則新聞。
+2026-05-21 19:48:14 - INFO - ✅ 成功獲取: Renovação urbana | Paulo Tse lidera empresa de capitais públicos。
+2026-05-21 19:48:15 - INFO - 正在爬取16/16則新聞。
+2026-05-21 19:48:16 - INFO - ✅ 成功獲取: Zona de Cooperação | 50 vagas de emprego para residentes。
+2026-05-21 19:48:17 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-05-21 19:48:18 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/05/21。
+2026-05-21 19:48:18 - ERROR - ❌ 2026/05/21 連線失敗: 403
+2026-05-21 19:48:18 - INFO - 成功獲取 2026/05/21 數據，當日有0條新聞。
+2026-05-21 19:48:18 - WARNING - ⚠️ 當日沒有新聞。
+2026-05-21 19:48:18 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/05/21。
+2026-05-21 19:48:22 - INFO - 成功獲取 2026/05/21 數據，當日有12條新聞。
+2026-05-21 19:48:22 - INFO - 正在爬取1/12則新聞。
+2026-05-21 19:48:33 - INFO - ✅ 成功獲取: O que podemos concluir da cimeira entre Xi e Trump?。
+2026-05-21 19:48:35 - INFO - 正在爬取2/12則新聞。
+2026-05-21 19:48:45 - INFO - ✅ 成功獲取: “[O teatro maquista] é um tubo de escape da sociedade”。
+2026-05-21 19:48:47 - INFO - 正在爬取3/12則新聞。
+2026-05-21 19:48:59 - INFO - ✅ 成功獲取: Governo timorense revê em baixa crescimento económico em 2026 para 4,3%。
+2026-05-21 19:49:00 - INFO - 正在爬取4/12則新聞。
+2026-05-21 19:49:12 - INFO - ✅ 成功獲取: Canil Municipal de Macau prestou 36 mil serviços veterinários em 2025。
+2026-05-21 19:49:13 - INFO - 正在爬取5/12則新聞。
+2026-05-21 19:49:25 - INFO - ✅ 成功獲取: Partido satírico da Índia atraiu mais seguidores online do que formação do PM indiano。
+2026-05-21 19:49:27 - INFO - 正在爬取6/12則新聞。
+2026-05-21 19:49:38 - INFO - ✅ 成功獲取: Presidente chinês poderá visitar Coreia do Norte nas próximas semanas。
+2026-05-21 19:49:40 - INFO - 正在爬取7/12則新聞。
+2026-05-21 19:49:52 - INFO - ✅ 成功獲取: Sector do turismo quer alargar rede aérea para enfrentar a falta de rotas directas e de longo curso。
+2026-05-21 19:49:53 - INFO - 正在爬取8/12則新聞。
+2026-05-21 19:50:05 - INFO - ✅ 成功獲取: Operação internacional detecta 752 milhões de dólares em fraudes, a maioria em Hong Kong。
+2026-05-21 19:50:06 - INFO - 正在爬取9/12則新聞。
+2026-05-21 19:50:18 - INFO - ✅ 成功獲取: Revelados vencedores do concurso de fotografia de arquitectura do CURB。
+2026-05-21 19:50:19 - INFO - 正在爬取10/12則新聞。
+2026-05-21 19:50:31 - INFO - ✅ 成功獲取: Residentes de Macau e Hong Kong apontam reforma para os 62 anos。
+2026-05-21 19:50:33 - INFO - 正在爬取11/12則新聞。
+2026-05-21 19:50:45 - INFO - ✅ 成功獲取: Governo pondera lançar mais iniciativas diferentes de promoção ao consumo。
+2026-05-21 19:50:46 - INFO - 正在爬取12/12則新聞。
+2026-05-21 19:50:58 - INFO - ✅ 成功獲取: Ambiguidades, oportunidades e implicações após o encontro entre Trump e Xi。
+2026-05-21 19:50:59 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
+2026-05-21 19:51:02 - ERROR - ❌ 2026/05/21 連線失敗: 404
