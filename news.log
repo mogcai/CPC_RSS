@@ -4101,3 +4101,46 @@
 2026-05-21 02:51:40 - ERROR - ❌ 2026/05/21 連線失敗: 404
 2026-05-21 02:51:40 - INFO - ⚠️ 當日沒有新聞。
 2026-05-21 02:51:43 - ERROR - ❌ 2026/05/21 連線失敗: 404
+2026-05-21 09:31:31 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/05/21。
+2026-05-21 09:31:32 - INFO - 成功獲取 2026/05/21 數據，當日有16條新聞。
+2026-05-21 09:31:32 - INFO - 正在爬取1/16則新聞。
+2026-05-21 09:31:32 - INFO - ✅ 成功獲取: Vacina contra o vírus Ébola poderá demorar entre seis a nove meses。
+2026-05-21 09:31:34 - INFO - 正在爬取2/16則新聞。
+2026-05-21 09:31:34 - INFO - ✅ 成功獲取: Cooperação | Macau e Cazaquistão celebraram acordos judiciais。
+2026-05-21 09:31:36 - INFO - 正在爬取3/16則新聞。
+2026-05-21 09:31:36 - INFO - ✅ 成功獲取: Rua da Felicidade | Música irá animar o fim-de-semana。
+2026-05-21 09:31:38 - INFO - 正在爬取4/16則新聞。
+2026-05-21 09:31:38 - INFO - ✅ 成功獲取: Badminton | Open de Macau realiza-se entre os dias 16 e 21 de Junho。
+2026-05-21 09:31:40 - INFO - 正在爬取5/16則新聞。
+2026-05-21 09:31:40 - INFO - ✅ 成功獲取: Automobilismo | André Couto vai regressar ao troféu Lamborghini。
+2026-05-21 09:31:42 - INFO - 正在爬取6/16則新聞。
+2026-05-21 09:31:42 - INFO - ✅ 成功獲取: Xi considera que o mundo corre o risco de cair “na lei da selva”。
+2026-05-21 09:31:44 - INFO - 正在爬取7/16則新聞。
+2026-05-21 09:31:44 - INFO - ✅ 成功獲取: “Taiwan Travelogue”, de Yáng Shuang-zi, vence Booker Internacional。
+2026-05-21 09:31:46 - INFO - 正在爬取8/16則新聞。
+2026-05-21 09:31:46 - INFO - ✅ 成功獲取: Teatro | Dóci Papiaçám di Macau apresenta sátira sobre negócios em crise。
+2026-05-21 09:31:48 - INFO - 正在爬取9/16則新聞。
+2026-05-21 09:31:48 - INFO - ✅ 成功獲取: Jogo | Citigroup aponta para receitas superiores a 22,5 mil milhões em Maio。
+2026-05-21 09:31:50 - INFO - 正在爬取10/16則新聞。
+2026-05-21 09:31:50 - INFO - ✅ 成功獲取: Concertos | Nick Lei pede clarificação de regras de segurança。
+2026-05-21 09:31:52 - INFO - 正在爬取11/16則新聞。
+2026-05-21 09:31:52 - INFO - ✅ 成功獲取: UMTec | Subsidiária com perdas de 10 mil renminbis。
+2026-05-21 09:31:54 - INFO - 正在爬取12/16則新聞。
+2026-05-21 09:31:54 - INFO - ✅ 成功獲取: IAS | Pedido estudo à UM sobre renovação de casas para idosos。
+2026-05-21 09:31:56 - INFO - 正在爬取13/16則新聞。
+2026-05-21 09:31:56 - INFO - ✅ 成功獲取: Turismo | Lam Lon Wai alerta para limitações durante feriados nacionais。
+2026-05-21 09:31:58 - INFO - 正在爬取14/16則新聞。
+2026-05-21 09:31:58 - INFO - ✅ 成功獲取: DSF | Devolução do imposto profissional a partir de amanhã。
+2026-05-21 09:32:00 - INFO - 正在爬取15/16則新聞。
+2026-05-21 09:32:00 - INFO - ✅ 成功獲取: Renovação urbana | Paulo Tse lidera empresa de capitais públicos。
+2026-05-21 09:32:02 - INFO - 正在爬取16/16則新聞。
+2026-05-21 09:32:02 - INFO - ✅ 成功獲取: Zona de Cooperação | 50 vagas de emprego para residentes。
+2026-05-21 09:32:04 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-05-21 09:32:04 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/05/21。
+2026-05-21 09:32:04 - ERROR - ❌ 2026/05/21 連線失敗: 403
+2026-05-21 09:32:04 - INFO - 成功獲取 2026/05/21 數據，當日有0條新聞。
+2026-05-21 09:32:04 - WARNING - ⚠️ 當日沒有新聞。
+2026-05-21 09:32:04 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/05/21。
+2026-05-21 09:32:08 - ERROR - ❌ 2026/05/21 連線失敗: 404
+2026-05-21 09:32:08 - INFO - ⚠️ 當日沒有新聞。
+2026-05-21 09:32:10 - ERROR - ❌ 2026/05/21 連線失敗: 202
