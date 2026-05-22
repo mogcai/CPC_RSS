@@ -4278,3 +4278,54 @@
 2026-05-21 19:50:58 - INFO - ✅ 成功獲取: Ambiguidades, oportunidades e implicações após o encontro entre Trump e Xi。
 2026-05-21 19:50:59 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
 2026-05-21 19:51:02 - ERROR - ❌ 2026/05/21 連線失敗: 404
+2026-05-22 02:51:22 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/05/22。
+2026-05-22 02:51:23 - INFO - 成功獲取 2026/05/22 數據，當日有20條新聞。
+2026-05-22 02:51:23 - INFO - 正在爬取1/20則新聞。
+2026-05-22 02:51:24 - INFO - ✅ 成功獲取: Ébola | Índia adia cimeira com a África devido à evolução da situação。
+2026-05-22 02:51:25 - INFO - 正在爬取2/20則新聞。
+2026-05-22 02:51:26 - INFO - ✅ 成功獲取: Cuba | Pequim opõe-se a acusação dos EUA contra Raúl Castro。
+2026-05-22 02:51:28 - INFO - 正在爬取3/20則新聞。
+2026-05-22 02:51:28 - INFO - ✅ 成功獲取: Obrigado pela sua participação。
+2026-05-22 02:51:30 - INFO - 正在爬取4/20則新聞。
+2026-05-22 02:51:30 - INFO - ✅ 成功獲取: O Ocidente desfeito (II)。
+2026-05-22 02:51:32 - INFO - 正在爬取5/20則新聞。
+2026-05-22 02:51:33 - INFO - ✅ 成功獲取: Visita | Xi Jinping manteve conversas com Putin em Pequim。
+2026-05-22 02:51:34 - INFO - 正在爬取6/20則新聞。
+2026-05-22 02:51:35 - INFO - ✅ 成功獲取: Tesla disponibiliza sistema de condução automática na China。
+2026-05-22 02:51:36 - INFO - 正在爬取7/20則新聞。
+2026-05-22 02:51:37 - INFO - ✅ 成功獲取: Diplomacia | Xi poderá visitar Pyogyang nas próximas semanas。
+2026-05-22 02:51:38 - INFO - 正在爬取8/20則新聞。
+2026-05-22 02:51:39 - INFO - ✅ 成功獲取: CURB | Fotografias vencedoras de concurso exibidas na próxima semana。
+2026-05-22 02:51:41 - INFO - 正在爬取9/20則新聞。
+2026-05-22 02:51:41 - INFO - ✅ 成功獲取: FAM traz, em Junho, sessão adicional de “A Dinastia Dela”。
+2026-05-22 02:51:43 - INFO - 正在爬取10/20則新聞。
+2026-05-22 02:51:43 - INFO - ✅ 成功獲取: Literatura | Livro sobre obra de Rodrigo Leal de Carvalho apresentado amanhã。
+2026-05-22 02:51:45 - INFO - 正在爬取11/20則新聞。
+2026-05-22 02:51:45 - INFO - ✅ 成功獲取: Desaparecimento | Homem apresentou falsa queixa。
+2026-05-22 02:51:47 - INFO - 正在爬取12/20則新聞。
+2026-05-22 02:51:48 - INFO - ✅ 成功獲取: Junkets | Queixas da concorrência desleal de massas “premium”。
+2026-05-22 02:51:49 - INFO - 正在爬取13/20則新聞。
+2026-05-22 02:51:50 - INFO - ✅ 成功獲取: Inquérito | Residentes crêem precisar de 6,6 milhões na reforma。
+2026-05-22 02:51:51 - INFO - 正在爬取14/20則新聞。
+2026-05-22 02:51:52 - INFO - ✅ 成功獲取: Veterinários | Mais de 150 licenças desde 2024。
+2026-05-22 02:51:53 - INFO - 正在爬取15/20則新聞。
+2026-05-22 02:51:54 - INFO - ✅ 成功獲取: Turismo | Andy Wu dá voto de confiança ao novo plano quinquenal。
+2026-05-22 02:51:55 - INFO - 正在爬取16/20則新聞。
+2026-05-22 02:51:56 - INFO - ✅ 成功獲取: Zona A | Associação pede melhores infra-estruturas e planeamento。
+2026-05-22 02:51:58 - INFO - 正在爬取17/20則新聞。
+2026-05-22 02:51:58 - INFO - ✅ 成功獲取: Cabo Verde | Novo líder quer reforçar cooperação。
+2026-05-22 02:52:00 - INFO - 正在爬取18/20則新聞。
+2026-05-22 02:52:00 - INFO - ✅ 成功獲取: MID | Empresa visita Brasil para promover MTC。
+2026-05-22 02:52:02 - INFO - 正在爬取19/20則新聞。
+2026-05-22 02:52:03 - INFO - ✅ 成功獲取: Tabagismo | Macau inspira campanha em Hengqin。
+2026-05-22 02:52:04 - INFO - 正在爬取20/20則新聞。
+2026-05-22 02:52:05 - INFO - ✅ 成功獲取: Diogo Lopes Teixeira, arquitecto e professor na USJ: “Estamos a aquecer as nossas cidades”。
+2026-05-22 02:52:06 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-05-22 02:52:07 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/05/22。
+2026-05-22 02:52:07 - ERROR - ❌ 2026/05/22 連線失敗: 403
+2026-05-22 02:52:07 - INFO - 成功獲取 2026/05/22 數據，當日有0條新聞。
+2026-05-22 02:52:07 - WARNING - ⚠️ 當日沒有新聞。
+2026-05-22 02:52:07 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/05/22。
+2026-05-22 02:52:10 - ERROR - ❌ 2026/05/22 連線失敗: 404
+2026-05-22 02:52:10 - INFO - ⚠️ 當日沒有新聞。
+2026-05-22 02:52:14 - ERROR - ❌ 2026/05/22 連線失敗: 404
