@@ -4651,3 +4651,32 @@
 2026-05-25 14:47:35 - INFO - ✅ 成功獲取: Alegações de abuso sexual contra herdeiro rico tailandês geram onda de denúncias。
 2026-05-25 14:47:36 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
 2026-05-25 14:47:39 - ERROR - ❌ 2026/05/25 連線失敗: 202
+2026-05-25 19:22:39 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/05/25。
+2026-05-25 19:22:39 - ERROR - ❌ 2026/05/25 連線失敗: 404
+2026-05-25 19:22:39 - WARNING - ⚠️ 沒有新聞。
+2026-05-25 19:22:40 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/05/25。
+2026-05-25 19:22:40 - ERROR - ❌ 2026/05/25 連線失敗: 403
+2026-05-25 19:22:40 - INFO - 成功獲取 2026/05/25 數據，當日有0條新聞。
+2026-05-25 19:22:40 - WARNING - ⚠️ 當日沒有新聞。
+2026-05-25 19:22:40 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/05/25。
+2026-05-25 19:22:44 - INFO - 成功獲取 2026/05/25 數據，當日有9條新聞。
+2026-05-25 19:22:44 - INFO - 正在爬取1/9則新聞。
+2026-05-25 19:22:54 - INFO - ✅ 成功獲取: CA aponta falhas na fiscalização do programa de desenvolvimento e aperfeiçoamento contínuo。
+2026-05-25 19:22:56 - INFO - 正在爬取2/9則新聞。
+2026-05-25 19:23:06 - INFO - ✅ 成功獲取: O pastel de nata criado por um “lunático britânico” que é património de Macau。
+2026-05-25 19:23:07 - INFO - 正在爬取3/9則新聞。
+2026-05-25 19:23:18 - INFO - ✅ 成功獲取: China lança nave Shenzhou 23 com um dos três astronautas que ficará um ano no espaço。
+2026-05-25 19:23:19 - INFO - 正在爬取4/9則新聞。
+2026-05-25 19:23:30 - INFO - ✅ 成功獲取: Alegações de abuso sexual contra herdeiro rico tailandês geram onda de denúncias。
+2026-05-25 19:23:31 - INFO - 正在爬取5/9則新聞。
+2026-05-25 19:23:43 - INFO - ✅ 成功獲取: China flexibiliza restrições no acesso dos migrantes internos a serviços públicos。
+2026-05-25 19:23:44 - INFO - 正在爬取6/9則新聞。
+2026-05-25 19:23:55 - INFO - ✅ 成功獲取: Lançados subsídios ao GPL e gasolina。
+2026-05-25 19:23:56 - INFO - 正在爬取7/9則新聞。
+2026-05-25 19:24:06 - INFO - ✅ 成功獲取: Hospitais com menos médicos de medicina tradicional chinesa。
+2026-05-25 19:24:08 - INFO - 正在爬取8/9則新聞。
+2026-05-25 19:24:18 - INFO - ✅ 成功獲取: Consumo de gás natural desce 30,5% no primeiro trimestre。
+2026-05-25 19:24:20 - INFO - 正在爬取9/9則新聞。
+2026-05-25 19:24:30 - INFO - ✅ 成功獲取: Senna Fernandes satisfeito com espectáculo dos Dóci, mas admite que houve alterações a pedido do IC。
+2026-05-25 19:24:32 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
+2026-05-25 19:24:35 - ERROR - ❌ 2026/05/25 連線失敗: 202
