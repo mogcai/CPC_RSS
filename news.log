@@ -4622,3 +4622,32 @@
 2026-05-25 09:57:04 - ERROR - ❌ 2026/05/25 連線失敗: 404
 2026-05-25 09:57:04 - INFO - ⚠️ 當日沒有新聞。
 2026-05-25 09:57:08 - ERROR - ❌ 2026/05/25 連線失敗: 404
+2026-05-25 14:45:39 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/05/25。
+2026-05-25 14:45:40 - ERROR - ❌ 2026/05/25 連線失敗: 404
+2026-05-25 14:45:40 - WARNING - ⚠️ 沒有新聞。
+2026-05-25 14:45:40 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/05/25。
+2026-05-25 14:45:41 - ERROR - ❌ 2026/05/25 連線失敗: 403
+2026-05-25 14:45:41 - INFO - 成功獲取 2026/05/25 數據，當日有0條新聞。
+2026-05-25 14:45:41 - WARNING - ⚠️ 當日沒有新聞。
+2026-05-25 14:45:41 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/05/25。
+2026-05-25 14:45:45 - INFO - 成功獲取 2026/05/25 數據，當日有9條新聞。
+2026-05-25 14:45:45 - INFO - 正在爬取1/9則新聞。
+2026-05-25 14:45:56 - INFO - ✅ 成功獲取: China lança nave Shenzhou 23 com um dos três astronautas que ficará um ano no espaço。
+2026-05-25 14:45:57 - INFO - 正在爬取2/9則新聞。
+2026-05-25 14:46:09 - INFO - ✅ 成功獲取: Hospitais com menos médicos de medicina tradicional chinesa。
+2026-05-25 14:46:10 - INFO - 正在爬取3/9則新聞。
+2026-05-25 14:46:22 - INFO - ✅ 成功獲取: Lançados subsídios ao GPL e gasolina。
+2026-05-25 14:46:23 - INFO - 正在爬取4/9則新聞。
+2026-05-25 14:46:33 - INFO - ✅ 成功獲取: Consumo de gás natural desce 30,5% no primeiro trimestre。
+2026-05-25 14:46:35 - INFO - 正在爬取5/9則新聞。
+2026-05-25 14:46:45 - INFO - ✅ 成功獲取: Senna Fernandes satisfeito com espectáculo dos Dóci, mas admite que houve alterações a pedido do IC。
+2026-05-25 14:46:47 - INFO - 正在爬取6/9則新聞。
+2026-05-25 14:46:57 - INFO - ✅ 成功獲取: China flexibiliza restrições no acesso dos migrantes internos a serviços públicos。
+2026-05-25 14:46:59 - INFO - 正在爬取7/9則新聞。
+2026-05-25 14:47:10 - INFO - ✅ 成功獲取: CA aponta falhas na fiscalização do programa de desenvolvimento e aperfeiçoamento contínuo。
+2026-05-25 14:47:11 - INFO - 正在爬取8/9則新聞。
+2026-05-25 14:47:22 - INFO - ✅ 成功獲取: O pastel de nata criado por um “lunático britânico” que é património de Macau。
+2026-05-25 14:47:23 - INFO - 正在爬取9/9則新聞。
+2026-05-25 14:47:35 - INFO - ✅ 成功獲取: Alegações de abuso sexual contra herdeiro rico tailandês geram onda de denúncias。
+2026-05-25 14:47:36 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
+2026-05-25 14:47:39 - ERROR - ❌ 2026/05/25 連線失敗: 202
