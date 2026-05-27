@@ -5024,3 +5024,66 @@
 2026-05-27 09:39:35 - INFO - ✅ 成功獲取: None。
 2026-05-27 09:39:36 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
 2026-05-27 09:39:40 - ERROR - ❌ 2026/05/27 連線失敗: 404
+2026-05-27 15:27:35 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/05/27。
+2026-05-27 15:27:36 - INFO - 成功獲取 2026/05/27 數據，當日有17條新聞。
+2026-05-27 15:27:36 - INFO - 正在爬取1/17則新聞。
+2026-05-27 15:27:36 - INFO - ✅ 成功獲取: Comércio | Vinhos do Tejo promovem-se em Macau e Hong Kong。
+2026-05-27 15:27:38 - INFO - 正在爬取2/17則新聞。
+2026-05-27 15:27:38 - INFO - ✅ 成功獲取: Ásia | Pequim critica Quad por promover “pequenos círculos exclusivos”。
+2026-05-27 15:27:40 - INFO - 正在爬取3/17則新聞。
+2026-05-27 15:27:40 - INFO - ✅ 成功獲取: Bombeiros | Saídas para incêndios sobem 15%。
+2026-05-27 15:27:42 - INFO - 正在爬取4/17則新聞。
+2026-05-27 15:27:42 - INFO - ✅ 成功獲取: Caxemira | China e Paquistão defendem resolução pacífica。
+2026-05-27 15:27:44 - INFO - 正在爬取5/17則新聞。
+2026-05-27 15:27:44 - INFO - ✅ 成功獲取: Uma história de desconexão – e sobre onde os rapazes encontram comunidade。
+2026-05-27 15:27:46 - INFO - 正在爬取6/17則新聞。
+2026-05-27 15:27:46 - INFO - ✅ 成功獲取: Visita | XI apela ao reforço da cooperação com a Sérvia。
+2026-05-27 15:27:48 - INFO - 正在爬取7/17則新聞。
+2026-05-27 15:27:48 - INFO - ✅ 成功獲取: Acidente | Graves infracções fazem 82 mortos em mina。
+2026-05-27 15:27:50 - INFO - 正在爬取8/17則新聞。
+2026-05-27 15:27:50 - INFO - ✅ 成功獲取: Pintura | Fernando Madruga Gomes estreia-se com exposição no Beco dos Artilheiros。
+2026-05-27 15:27:52 - INFO - 正在爬取9/17則新聞。
+2026-05-27 15:27:52 - INFO - ✅ 成功獲取: Ébola | Autogestão de 21 dias para 12 países africanos。
+2026-05-27 15:27:54 - INFO - 正在爬取10/17則新聞。
+2026-05-27 15:27:54 - INFO - ✅ 成功獲取: PJ | Empresário sul-coreano bate, rapta e viola namorada。
+2026-05-27 15:27:56 - INFO - 正在爬取11/17則新聞。
+2026-05-27 15:27:56 - INFO - ✅ 成功獲取: Finanças | E Fund estabelece-se em Macau。
+2026-05-27 15:27:58 - INFO - 正在爬取12/17則新聞。
+2026-05-27 15:27:58 - INFO - ✅ 成功獲取: SJM | Fitch Ratings corta na avaliação。
+2026-05-27 15:28:00 - INFO - 正在爬取13/17則新聞。
+2026-05-27 15:28:00 - INFO - ✅ 成功獲取: Cáritas Macau | Enviados 20 mil euros para ajudar Portugal e Espanha。
+2026-05-27 15:28:02 - INFO - 正在爬取14/17則新聞。
+2026-05-27 15:28:02 - INFO - ✅ 成功獲取: Combustíveis | Leong Sun Iok admite mais apoios。
+2026-05-27 15:28:04 - INFO - 正在爬取15/17則新聞。
+2026-05-27 15:28:04 - INFO - ✅ 成功獲取: Consumo | Defendida extensão do Grande Prémio até ao fim de Agosto。
+2026-05-27 15:28:05 - INFO - 正在爬取16/17則新聞。
+2026-05-27 15:28:06 - INFO - ✅ 成功獲取: Orçamento | Sam Hou Fai pede contenção de despesas。
+2026-05-27 15:28:07 - INFO - 正在爬取17/17則新聞。
+2026-05-27 15:28:08 - INFO - ✅ 成功獲取: Glenn Mccartney, académico: “É importante avaliar continuamente o sentimento da comunidade”。
+2026-05-27 15:28:10 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-05-27 15:28:10 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/05/27。
+2026-05-27 15:28:10 - ERROR - ❌ 2026/05/27 連線失敗: 403
+2026-05-27 15:28:10 - INFO - 成功獲取 2026/05/27 數據，當日有0條新聞。
+2026-05-27 15:28:10 - WARNING - ⚠️ 當日沒有新聞。
+2026-05-27 15:28:10 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/05/27。
+2026-05-27 15:28:14 - INFO - 成功獲取 2026/05/27 數據，當日有7條新聞。
+2026-05-27 15:28:14 - INFO - 正在爬取1/7則新聞。
+2026-05-27 15:28:25 - INFO - ✅ 成功獲取: None。
+2026-05-27 15:28:26 - INFO - 正在爬取2/7則新聞。
+2026-05-27 15:28:38 - INFO - ✅ 成功獲取: None。
+2026-05-27 15:28:39 - INFO - 正在爬取3/7則新聞。
+2026-05-27 15:28:51 - INFO - ✅ 成功獲取: None。
+2026-05-27 15:28:52 - INFO - 正在爬取4/7則新聞。
+2026-05-27 15:29:03 - INFO - ✅ 成功獲取: None。
+2026-05-27 15:29:05 - INFO - 正在爬取5/7則新聞。
+2026-05-27 15:29:16 - INFO - ✅ 成功獲取: Novo “Wondera Festival” leva bem-estar e paz de espírito à Barra em Junho。
+2026-05-27 15:29:18 - INFO - 正在爬取6/7則新聞。
+2026-05-27 15:29:29 - INFO - ✅ 成功獲取: None。
+2026-05-27 15:29:31 - INFO - 正在爬取7/7則新聞。
+2026-05-27 15:29:42 - INFO - ✅ 成功獲取: Fotógrafo moçambicano Hamir da Silva em Macau para palestra e intervenção artística。
+2026-05-27 15:29:44 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
+2026-05-27 15:29:47 - INFO - ✅ 成功獲取 2026/05/27 數據，當日有2條新聞。
+2026-05-27 15:29:47 - INFO - 正在爬取1/2則新聞。
+2026-05-27 15:29:49 - INFO - ✅ 成功獲取: 券商指澳門銀河第四期料2028年開幕 看準日韓東盟高端客。
+2026-05-27 15:29:49 - INFO - 正在爬取2/2則新聞。
+2026-05-27 15:29:51 - INFO - ✅ 成功獲取: 澳門5月首25天賭收料達179億 花旗降全月賭收預測至220億。
