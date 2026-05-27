@@ -4906,3 +4906,62 @@
 2026-05-26 20:04:37 - INFO - ✅ 成功獲取: Coreia do Norte dispara projéctil não identificado para o mar Amarelo, diz Seul。
 2026-05-26 20:04:39 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
 2026-05-26 20:04:42 - ERROR - ❌ 2026/05/26 連線失敗: 202
+2026-05-27 02:55:08 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/05/27。
+2026-05-27 02:55:09 - INFO - 成功獲取 2026/05/27 數據，當日有17條新聞。
+2026-05-27 02:55:09 - INFO - 正在爬取1/17則新聞。
+2026-05-27 02:55:09 - INFO - ✅ 成功獲取: Comércio | Vinhos do Tejo promovem-se em Macau e Hong Kong。
+2026-05-27 02:55:11 - INFO - 正在爬取2/17則新聞。
+2026-05-27 02:55:11 - INFO - ✅ 成功獲取: Ásia | Pequim critica Quad por promover “pequenos círculos exclusivos”。
+2026-05-27 02:55:13 - INFO - 正在爬取3/17則新聞。
+2026-05-27 02:55:13 - INFO - ✅ 成功獲取: Bombeiros | Saídas para incêndios sobem 15%。
+2026-05-27 02:55:15 - INFO - 正在爬取4/17則新聞。
+2026-05-27 02:55:15 - INFO - ✅ 成功獲取: Caxemira | China e Paquistão defendem resolução pacífica。
+2026-05-27 02:55:17 - INFO - 正在爬取5/17則新聞。
+2026-05-27 02:55:17 - INFO - ✅ 成功獲取: Uma história de desconexão – e sobre onde os rapazes encontram comunidade。
+2026-05-27 02:55:19 - INFO - 正在爬取6/17則新聞。
+2026-05-27 02:55:19 - INFO - ✅ 成功獲取: Visita | XI apela ao reforço da cooperação com a Sérvia。
+2026-05-27 02:55:21 - INFO - 正在爬取7/17則新聞。
+2026-05-27 02:55:21 - INFO - ✅ 成功獲取: Acidente | Graves infracções fazem 82 mortos em mina。
+2026-05-27 02:55:23 - INFO - 正在爬取8/17則新聞。
+2026-05-27 02:55:23 - INFO - ✅ 成功獲取: Pintura | Fernando Madruga Gomes estreia-se com exposição no Beco dos Artilheiros。
+2026-05-27 02:55:25 - INFO - 正在爬取9/17則新聞。
+2026-05-27 02:55:25 - INFO - ✅ 成功獲取: Ébola | Autogestão de 21 dias para 12 países africanos。
+2026-05-27 02:55:27 - INFO - 正在爬取10/17則新聞。
+2026-05-27 02:55:27 - INFO - ✅ 成功獲取: PJ | Empresário sul-coreano bate, rapta e viola namorada。
+2026-05-27 02:55:29 - INFO - 正在爬取11/17則新聞。
+2026-05-27 02:55:29 - INFO - ✅ 成功獲取: Finanças | E Fund estabelece-se em Macau。
+2026-05-27 02:55:31 - INFO - 正在爬取12/17則新聞。
+2026-05-27 02:55:31 - INFO - ✅ 成功獲取: SJM | Fitch Ratings corta na avaliação。
+2026-05-27 02:55:33 - INFO - 正在爬取13/17則新聞。
+2026-05-27 02:55:33 - INFO - ✅ 成功獲取: Cáritas Macau | Enviados 20 mil euros para ajudar Portugal e Espanha。
+2026-05-27 02:55:35 - INFO - 正在爬取14/17則新聞。
+2026-05-27 02:55:35 - INFO - ✅ 成功獲取: Combustíveis | Leong Sun Iok admite mais apoios。
+2026-05-27 02:55:37 - INFO - 正在爬取15/17則新聞。
+2026-05-27 02:55:37 - INFO - ✅ 成功獲取: Consumo | Defendida extensão do Grande Prémio até ao fim de Agosto。
+2026-05-27 02:55:39 - INFO - 正在爬取16/17則新聞。
+2026-05-27 02:55:39 - INFO - ✅ 成功獲取: Orçamento | Sam Hou Fai pede contenção de despesas。
+2026-05-27 02:55:41 - INFO - 正在爬取17/17則新聞。
+2026-05-27 02:55:41 - INFO - ✅ 成功獲取: Glenn Mccartney, académico: “É importante avaliar continuamente o sentimento da comunidade”。
+2026-05-27 02:55:43 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-05-27 02:55:43 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/05/27。
+2026-05-27 02:55:43 - ERROR - ❌ 2026/05/27 連線失敗: 403
+2026-05-27 02:55:43 - INFO - 成功獲取 2026/05/27 數據，當日有0條新聞。
+2026-05-27 02:55:43 - WARNING - ⚠️ 當日沒有新聞。
+2026-05-27 02:55:43 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/05/27。
+2026-05-27 02:55:47 - INFO - 成功獲取 2026/05/27 數據，當日有7條新聞。
+2026-05-27 02:55:47 - INFO - 正在爬取1/7則新聞。
+2026-05-27 02:55:57 - INFO - ✅ 成功獲取: Fotógrafo moçambicano Hamir da Silva em Macau para palestra e intervenção artística。
+2026-05-27 02:55:59 - INFO - 正在爬取2/7則新聞。
+2026-05-27 02:56:10 - INFO - ✅ 成功獲取: Macau exige 21 dias de autogestão de saúde a viajantes de 12 países africanos。
+2026-05-27 02:56:12 - INFO - 正在爬取3/7則新聞。
+2026-05-27 02:56:23 - INFO - ✅ 成功獲取: Vistorias em estaleiros disparam após incêndios de Hong Kong。
+2026-05-27 02:56:24 - INFO - 正在爬取4/7則新聞。
+2026-05-27 02:56:36 - INFO - ✅ 成功獲取: Analistas chineses apontam enfraquecimento da hegemonia marítima dos EUA。
+2026-05-27 02:56:37 - INFO - 正在爬取5/7則新聞。
+2026-05-27 02:56:48 - INFO - ✅ 成功獲取: Novo “Wondera Festival” leva bem-estar e paz de espírito à Barra em Junho。
+2026-05-27 02:56:49 - INFO - 正在爬取6/7則新聞。
+2026-05-27 02:57:01 - INFO - ✅ 成功獲取: Orçamento 2027: Sam Hou Fai exige contenção aos serviços públicos。
+2026-05-27 02:57:02 - INFO - 正在爬取7/7則新聞。
+2026-05-27 02:57:13 - INFO - ✅ 成功獲取: Jovens devem aceitar as suas imperfeições e libertar emoções, aconselham autoridades。
+2026-05-27 02:57:15 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
+2026-05-27 02:57:19 - ERROR - ❌ 2026/05/27 連線失敗: 404
