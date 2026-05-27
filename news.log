@@ -4965,3 +4965,62 @@
 2026-05-27 02:57:13 - INFO - ✅ 成功獲取: Jovens devem aceitar as suas imperfeições e libertar emoções, aconselham autoridades。
 2026-05-27 02:57:15 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
 2026-05-27 02:57:19 - ERROR - ❌ 2026/05/27 連線失敗: 404
+2026-05-27 09:37:29 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/05/27。
+2026-05-27 09:37:30 - INFO - 成功獲取 2026/05/27 數據，當日有17條新聞。
+2026-05-27 09:37:30 - INFO - 正在爬取1/17則新聞。
+2026-05-27 09:37:31 - INFO - ✅ 成功獲取: Comércio | Vinhos do Tejo promovem-se em Macau e Hong Kong。
+2026-05-27 09:37:32 - INFO - 正在爬取2/17則新聞。
+2026-05-27 09:37:33 - INFO - ✅ 成功獲取: Ásia | Pequim critica Quad por promover “pequenos círculos exclusivos”。
+2026-05-27 09:37:34 - INFO - 正在爬取3/17則新聞。
+2026-05-27 09:37:35 - INFO - ✅ 成功獲取: Bombeiros | Saídas para incêndios sobem 15%。
+2026-05-27 09:37:36 - INFO - 正在爬取4/17則新聞。
+2026-05-27 09:37:37 - INFO - ✅ 成功獲取: Caxemira | China e Paquistão defendem resolução pacífica。
+2026-05-27 09:37:38 - INFO - 正在爬取5/17則新聞。
+2026-05-27 09:37:39 - INFO - ✅ 成功獲取: Uma história de desconexão – e sobre onde os rapazes encontram comunidade。
+2026-05-27 09:37:40 - INFO - 正在爬取6/17則新聞。
+2026-05-27 09:37:41 - INFO - ✅ 成功獲取: Visita | XI apela ao reforço da cooperação com a Sérvia。
+2026-05-27 09:37:42 - INFO - 正在爬取7/17則新聞。
+2026-05-27 09:37:43 - INFO - ✅ 成功獲取: Acidente | Graves infracções fazem 82 mortos em mina。
+2026-05-27 09:37:44 - INFO - 正在爬取8/17則新聞。
+2026-05-27 09:37:45 - INFO - ✅ 成功獲取: Pintura | Fernando Madruga Gomes estreia-se com exposição no Beco dos Artilheiros。
+2026-05-27 09:37:46 - INFO - 正在爬取9/17則新聞。
+2026-05-27 09:37:47 - INFO - ✅ 成功獲取: Ébola | Autogestão de 21 dias para 12 países africanos。
+2026-05-27 09:37:48 - INFO - 正在爬取10/17則新聞。
+2026-05-27 09:37:49 - INFO - ✅ 成功獲取: PJ | Empresário sul-coreano bate, rapta e viola namorada。
+2026-05-27 09:37:50 - INFO - 正在爬取11/17則新聞。
+2026-05-27 09:37:51 - INFO - ✅ 成功獲取: Finanças | E Fund estabelece-se em Macau。
+2026-05-27 09:37:52 - INFO - 正在爬取12/17則新聞。
+2026-05-27 09:37:53 - INFO - ✅ 成功獲取: SJM | Fitch Ratings corta na avaliação。
+2026-05-27 09:37:54 - INFO - 正在爬取13/17則新聞。
+2026-05-27 09:37:55 - INFO - ✅ 成功獲取: Cáritas Macau | Enviados 20 mil euros para ajudar Portugal e Espanha。
+2026-05-27 09:37:56 - INFO - 正在爬取14/17則新聞。
+2026-05-27 09:37:57 - INFO - ✅ 成功獲取: Combustíveis | Leong Sun Iok admite mais apoios。
+2026-05-27 09:37:58 - INFO - 正在爬取15/17則新聞。
+2026-05-27 09:37:59 - INFO - ✅ 成功獲取: Consumo | Defendida extensão do Grande Prémio até ao fim de Agosto。
+2026-05-27 09:38:00 - INFO - 正在爬取16/17則新聞。
+2026-05-27 09:38:01 - INFO - ✅ 成功獲取: Orçamento | Sam Hou Fai pede contenção de despesas。
+2026-05-27 09:38:02 - INFO - 正在爬取17/17則新聞。
+2026-05-27 09:38:03 - INFO - ✅ 成功獲取: Glenn Mccartney, académico: “É importante avaliar continuamente o sentimento da comunidade”。
+2026-05-27 09:38:04 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-05-27 09:38:04 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/05/27。
+2026-05-27 09:38:05 - ERROR - ❌ 2026/05/27 連線失敗: 403
+2026-05-27 09:38:05 - INFO - 成功獲取 2026/05/27 數據，當日有0條新聞。
+2026-05-27 09:38:05 - WARNING - ⚠️ 當日沒有新聞。
+2026-05-27 09:38:05 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/05/27。
+2026-05-27 09:38:08 - INFO - 成功獲取 2026/05/27 數據，當日有7條新聞。
+2026-05-27 09:38:08 - INFO - 正在爬取1/7則新聞。
+2026-05-27 09:38:19 - INFO - ✅ 成功獲取: Novo “Wondera Festival” leva bem-estar e paz de espírito à Barra em Junho。
+2026-05-27 09:38:20 - INFO - 正在爬取2/7則新聞。
+2026-05-27 09:38:31 - INFO - ✅ 成功獲取: None。
+2026-05-27 09:38:33 - INFO - 正在爬取3/7則新聞。
+2026-05-27 09:38:44 - INFO - ✅ 成功獲取: None。
+2026-05-27 09:38:46 - INFO - 正在爬取4/7則新聞。
+2026-05-27 09:38:57 - INFO - ✅ 成功獲取: None。
+2026-05-27 09:38:59 - INFO - 正在爬取5/7則新聞。
+2026-05-27 09:39:09 - INFO - ✅ 成功獲取: Fotógrafo moçambicano Hamir da Silva em Macau para palestra e intervenção artística。
+2026-05-27 09:39:11 - INFO - 正在爬取6/7則新聞。
+2026-05-27 09:39:22 - INFO - ✅ 成功獲取: None。
+2026-05-27 09:39:23 - INFO - 正在爬取7/7則新聞。
+2026-05-27 09:39:35 - INFO - ✅ 成功獲取: None。
+2026-05-27 09:39:36 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
+2026-05-27 09:39:40 - ERROR - ❌ 2026/05/27 連線失敗: 404
