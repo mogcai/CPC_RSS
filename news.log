@@ -5766,3 +5766,56 @@
 2026-05-31 19:11:51 - INFO - ✅ 成功獲取: None。
 2026-05-31 19:11:52 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
 2026-05-31 19:11:56 - ERROR - ❌ 2026/05/31 連線失敗: 404
+2026-06-01 03:33:27 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/06/01。
+2026-06-01 03:33:28 - INFO - 成功獲取 2026/06/01 數據，當日有21條新聞。
+2026-06-01 03:33:28 - INFO - 正在爬取1/21則新聞。
+2026-06-01 03:33:29 - INFO - ✅ 成功獲取: UE considera Estado de direito vital para o sucesso económico de Macau。
+2026-06-01 03:33:30 - INFO - 正在爬取2/21則新聞。
+2026-06-01 03:33:31 - INFO - ✅ 成功獲取: Fotografia | “Somos – Imagens da Lusofonia: O Hoje do Passado” nas Casas da Taipa。
+2026-06-01 03:33:32 - INFO - 正在爬取3/21則新聞。
+2026-06-01 03:33:33 - INFO - ✅ 成功獲取: Hong Kong | Confirmada prisão de antigo presidente da associação de jornalistas。
+2026-06-01 03:33:35 - INFO - 正在爬取4/21則新聞。
+2026-06-01 03:33:35 - INFO - ✅ 成功獲取: Ásia | Hegseth diz que reforço militar chinês dá “razões legítimas para alarme”。
+2026-06-01 03:33:37 - INFO - 正在爬取5/21則新聞。
+2026-06-01 03:33:37 - INFO - ✅ 成功獲取: Socialistas presos。
+2026-06-01 03:33:39 - INFO - 正在爬取6/21則新聞。
+2026-06-01 03:33:39 - INFO - ✅ 成功獲取: Redes sociais | Malásia restringe acesso a menores de 16 anos。
+2026-06-01 03:33:41 - INFO - 正在爬取7/21則新聞。
+2026-06-01 03:33:41 - INFO - ✅ 成功獲取: Estados Unidos e Japão comprometem-se a acelerar desenvolvimento e produção de mísseis。
+2026-06-01 03:33:43 - INFO - 正在爬取8/21則新聞。
+2026-06-01 03:33:43 - INFO - ✅ 成功獲取: Direito do Mar | China acusa Japão e Filipinas de violar a sua soberania com acordo marítimo。
+2026-06-01 03:33:45 - INFO - 正在爬取9/21則新聞。
+2026-06-01 03:33:45 - INFO - ✅ 成功獲取: Farmácia | Innovent e Pfizer fecham acordo de 9 MME para fármacos oncológicos。
+2026-06-01 03:33:47 - INFO - 正在爬取10/21則新聞。
+2026-06-01 03:33:47 - INFO - ✅ 成功獲取: Bruxelas considera que relações comerciais com a China têm de mudar。
+2026-06-01 03:33:49 - INFO - 正在爬取11/21則新聞。
+2026-06-01 03:33:50 - INFO - ✅ 成功獲取: MNE | Relações com Canadá melhoraram e são agora de cooperação。
+2026-06-01 03:33:51 - INFO - 正在爬取12/21則新聞。
+2026-06-01 03:33:52 - INFO - ✅ 成功獲取: Barcos do Dragão, teatro chinês e desporto em família na agenda de Junho。
+2026-06-01 03:33:53 - INFO - 正在爬取13/21則新聞。
+2026-06-01 03:33:54 - INFO - ✅ 成功獲取: IC | Marionetas portuguesas recriam Pedro e o Lobo em festival para crianças。
+2026-06-01 03:33:55 - INFO - 正在爬取14/21則新聞。
+2026-06-01 03:33:56 - INFO - ✅ 成功獲取: Trabalho | Nove vítimas mortais em acidentes。
+2026-06-01 03:33:57 - INFO - 正在爬取15/21則新聞。
+2026-06-01 03:33:58 - INFO - ✅ 成功獲取: Turismo | Hotéis com quase 4,9 milhões de hóspedes até Abril。
+2026-06-01 03:33:59 - INFO - 正在爬取16/21則新聞。
+2026-06-01 03:34:00 - INFO - ✅ 成功獲取: UM | João Veloso sai do departamento de português。
+2026-06-01 03:34:01 - INFO - 正在爬取17/21則新聞。
+2026-06-01 03:34:02 - INFO - ✅ 成功獲取: AMCM | Taxa de juros desce até fim de Março。
+2026-06-01 03:34:04 - INFO - 正在爬取18/21則新聞。
+2026-06-01 03:34:04 - INFO - ✅ 成功獲取: Atropelamento | Governo envia condolências à família da criança。
+2026-06-01 03:34:06 - INFO - 正在爬取19/21則新聞。
+2026-06-01 03:34:06 - INFO - ✅ 成功獲取: Cheques pecuniários distribuídos a partir de Julho。
+2026-06-01 03:34:08 - INFO - 正在爬取20/21則新聞。
+2026-06-01 03:34:08 - INFO - ✅ 成功獲取: Tabaco | Proibido fumar em “áreas de grande concentração de pessoas”。
+2026-06-01 03:34:10 - INFO - 正在爬取21/21則新聞。
+2026-06-01 03:34:10 - INFO - ✅ 成功獲取: Consulta pública | Aumento da licença de maternidade quase unânime。
+2026-06-01 03:34:12 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-06-01 03:34:12 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/06/01。
+2026-06-01 03:34:12 - ERROR - ❌ 2026/06/01 連線失敗: 403
+2026-06-01 03:34:12 - INFO - 成功獲取 2026/06/01 數據，當日有0條新聞。
+2026-06-01 03:34:12 - WARNING - ⚠️ 當日沒有新聞。
+2026-06-01 03:34:13 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/06/01。
+2026-06-01 03:34:16 - ERROR - ❌ 2026/06/01 連線失敗: 404
+2026-06-01 03:34:16 - INFO - ⚠️ 當日沒有新聞。
+2026-06-01 03:34:20 - ERROR - ❌ 2026/06/01 連線失敗: 404
