@@ -6073,3 +6073,52 @@
 2026-06-02 03:31:23 - ERROR - ❌ 2026/06/02 連線失敗: 404
 2026-06-02 03:31:23 - INFO - ⚠️ 當日沒有新聞。
 2026-06-02 03:31:28 - ERROR - ❌ 2026/06/02 連線失敗: 404
+2026-06-02 10:14:03 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/06/02。
+2026-06-02 10:14:04 - INFO - 成功獲取 2026/06/02 數據，當日有17條新聞。
+2026-06-02 10:14:04 - INFO - 正在爬取1/17則新聞。
+2026-06-02 10:14:04 - INFO - ✅ 成功獲取: Gongbei | Mais de 100 mil pessoas na inauguração de centro comercial。
+2026-06-02 10:14:06 - INFO - 正在爬取2/17則新聞。
+2026-06-02 10:14:06 - INFO - ✅ 成功獲取: AAMC | Sortes distintas para os macaenses na jornada final。
+2026-06-02 10:14:07 - INFO - 正在爬取3/17則新聞。
+2026-06-02 10:14:08 - INFO - ✅ 成功獲取: A vaga da IA e os novos desafios: da reforma antecipada a uma transformação para a competitividade sustentável (III)。
+2026-06-02 10:14:09 - INFO - 正在爬取4/17則新聞。
+2026-06-02 10:14:10 - INFO - ✅ 成功獲取: Albergue SCM | Leong Kit Man apresenta a sua “Ilha dos Amores”。
+2026-06-02 10:14:11 - INFO - 正在爬取5/17則新聞。
+2026-06-02 10:14:12 - INFO - ✅ 成功獲取: Ébola | China envia ajuda humanitária para combater epidemia em África。
+2026-06-02 10:14:13 - INFO - 正在爬取6/17則新聞。
+2026-06-02 10:14:14 - INFO - ✅ 成功獲取: Jornalismo | Pequim acusa New York Times de promover separatismo em Taiwan。
+2026-06-02 10:14:15 - INFO - 正在爬取7/17則新聞。
+2026-06-02 10:14:15 - INFO - ✅ 成功獲取: Yuan digital | Aposta para pagamentos transfronteiriços lusófonos。
+2026-06-02 10:14:17 - INFO - 正在爬取8/17則新聞。
+2026-06-02 10:14:17 - INFO - ✅ 成功獲取: PJ | Mais duas detenções por troca de dinheiro。
+2026-06-02 10:14:19 - INFO - 正在爬取9/17則新聞。
+2026-06-02 10:14:19 - INFO - ✅ 成功獲取: Jogo | Receitas de Maio subiram 6,7% em termos anuais。
+2026-06-02 10:14:21 - INFO - 正在爬取10/17則新聞。
+2026-06-02 10:14:21 - INFO - ✅ 成功獲取: Trânsito | Avó e neta atropeladas numa passadeira。
+2026-06-02 10:14:23 - INFO - 正在爬取11/17則新聞。
+2026-06-02 10:14:23 - INFO - ✅ 成功獲取: Saúde | Infecções por enterovírus mais que triplicaram em Abril。
+2026-06-02 10:14:25 - INFO - 正在爬取12/17則新聞。
+2026-06-02 10:14:25 - INFO - ✅ 成功獲取: Lei do trânsito | Ron Lam exige sistema por pontos。
+2026-06-02 10:14:27 - INFO - 正在爬取13/17則新聞。
+2026-06-02 10:14:27 - INFO - ✅ 成功獲取: Comunidades Portuguesas | Rita Santos eleita coordenadora de comissão。
+2026-06-02 10:14:28 - INFO - 正在爬取14/17則新聞。
+2026-06-02 10:14:29 - INFO - ✅ 成功獲取: Tribunais | Escrivães portugueses devem desaparecer este ano。
+2026-06-02 10:14:30 - INFO - 正在爬取15/17則新聞。
+2026-06-02 10:14:31 - INFO - ✅ 成功獲取: Kevin Ho quer medicamentos transportados por drones na Grande Baía。
+2026-06-02 10:14:32 - INFO - 正在爬取16/17則新聞。
+2026-06-02 10:14:33 - INFO - ✅ 成功獲取: Moeda digital | Macau adere à plataforma internacional mBridge。
+2026-06-02 10:14:34 - INFO - 正在爬取17/17則新聞。
+2026-06-02 10:14:35 - INFO - ✅ 成功獲取: Miguel Enrique Stédile, académico。
+2026-06-02 10:14:36 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-06-02 10:14:36 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/06/02。
+2026-06-02 10:14:37 - ERROR - ❌ 2026/06/02 連線失敗: 403
+2026-06-02 10:14:37 - INFO - 成功獲取 2026/06/02 數據，當日有0條新聞。
+2026-06-02 10:14:37 - WARNING - ⚠️ 當日沒有新聞。
+2026-06-02 10:14:37 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/06/02。
+2026-06-02 10:14:40 - ERROR - ❌ 2026/06/02 連線失敗: 404
+2026-06-02 10:14:40 - INFO - ⚠️ 當日沒有新聞。
+2026-06-02 10:14:44 - INFO - ✅ 成功獲取 2026/06/02 數據，當日有2條新聞。
+2026-06-02 10:14:44 - INFO - 正在爬取1/2則新聞。
+2026-06-02 10:14:46 - INFO - ✅ 成功獲取: 受四年一度世界盃短期影響 各大行料下月賭收回復平穩。
+2026-06-02 10:14:46 - INFO - 正在爬取2/2則新聞。
+2026-06-02 10:14:48 - INFO - ✅ 成功獲取: 傳媒大亨Barry Diller擬收購美高梅控股權 強調市場嚴重低估其資產價值。
