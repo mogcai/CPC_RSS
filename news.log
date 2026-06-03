@@ -6336,3 +6336,70 @@
 2026-06-03 10:51:17 - ERROR - ❌ 2026/06/03 連線失敗: 404
 2026-06-03 10:51:17 - INFO - ⚠️ 當日沒有新聞。
 2026-06-03 10:51:23 - ERROR - ❌ 2026/06/03 連線失敗: 202
+2026-06-03 16:29:29 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/06/03。
+2026-06-03 16:29:31 - INFO - 成功獲取 2026/06/03 數據，當日有20條新聞。
+2026-06-03 16:29:31 - INFO - 正在爬取1/20則新聞。
+2026-06-03 16:29:31 - INFO - ✅ 成功獲取: Ébola | Índia envia 43 toneladas de apoio a África。
+2026-06-03 16:29:33 - INFO - 正在爬取2/20則新聞。
+2026-06-03 16:29:33 - INFO - ✅ 成功獲取: Díli | Parlamento timorense aprova Orçamento rectificativo。
+2026-06-03 16:29:35 - INFO - 正在爬取3/20則新聞。
+2026-06-03 16:29:35 - INFO - ✅ 成功獲取: Tufão deixa nove feridos e 47 mil casas sem energia no Japão。
+2026-06-03 16:29:37 - INFO - 正在爬取4/20則新聞。
+2026-06-03 16:29:37 - INFO - ✅ 成功獲取: Natalidade | Pequim destina 12,2 mil milhões de euros em apoios。
+2026-06-03 16:29:39 - INFO - 正在爬取5/20則新聞。
+2026-06-03 16:29:39 - INFO - ✅ 成功獲取: Gigantes tecnológicos reunidos em Taiwan na feira Computex。
+2026-06-03 16:29:41 - INFO - 正在爬取6/20則新聞。
+2026-06-03 16:29:41 - INFO - ✅ 成功獲取: Brasil e China são “pilares de estabilidade no mundo actual” – MNE chinês。
+2026-06-03 16:29:43 - INFO - 正在爬取7/20則新聞。
+2026-06-03 16:29:43 - INFO - ✅ 成功獲取: CURB | Filme sobre passeios de bicicleta exibido na Ponte 9。
+2026-06-03 16:29:44 - INFO - 正在爬取8/20則新聞。
+2026-06-03 16:29:45 - INFO - ✅ 成功獲取: FRC apresenta exposição anual de gravura com trabalhos de alunos locais。
+2026-06-03 16:29:46 - INFO - 正在爬取9/20則新聞。
+2026-06-03 16:29:47 - INFO - ✅ 成功獲取: CCCM | Antologia de textos sobre Luís de Camões apresentada em Lisboa。
+2026-06-03 16:29:48 - INFO - 正在爬取10/20則新聞。
+2026-06-03 16:29:49 - INFO - ✅ 成功獲取: MGM Resorts International | Multimilionário tenta adquirir totalidade da empresa。
+2026-06-03 16:29:50 - INFO - 正在爬取11/20則新聞。
+2026-06-03 16:29:51 - INFO - ✅ 成功獲取: Jogo | Seaport diz que receitas superaram as expectativas。
+2026-06-03 16:29:52 - INFO - 正在爬取12/20則新聞。
+2026-06-03 16:29:53 - INFO - ✅ 成功獲取: Trânsito | Coutinho pede medidas para aumentar segurança。
+2026-06-03 16:29:54 - INFO - 正在爬取13/20則新聞。
+2026-06-03 16:29:55 - INFO - ✅ 成功獲取: Obras | Secretário quer conclusão antes das aulas。
+2026-06-03 16:29:56 - INFO - 正在爬取14/20則新聞。
+2026-06-03 16:29:57 - INFO - ✅ 成功獲取: Comunidades | Presidência de Rui Marcelo confirmada。
+2026-06-03 16:29:58 - INFO - 正在爬取15/20則新聞。
+2026-06-03 16:29:59 - INFO - ✅ 成功獲取: Emprego | Feiras da DSAL disponibilizam 210 vagas。
+2026-06-03 16:30:00 - INFO - 正在爬取16/20則新聞。
+2026-06-03 16:30:01 - INFO - ✅ 成功獲取: Trabalho | Candidaturas para 850 estágio abriram hoje。
+2026-06-03 16:30:02 - INFO - 正在爬取17/20則新聞。
+2026-06-03 16:30:03 - INFO - ✅ 成功獲取: Cheque | 56 mil pedidos de residentes com menos de 183 dias na RAEM。
+2026-06-03 16:30:04 - INFO - 正在爬取18/20則新聞。
+2026-06-03 16:30:05 - INFO - ✅ 成功獲取: Governo revela prudência em projecto da quinta travessia Macau-Taipa。
+2026-06-03 16:30:06 - INFO - 正在爬取19/20則新聞。
+2026-06-03 16:30:07 - INFO - ✅ 成功獲取: Casinos-satélite | Governo revela existência de projectos de investimento。
+2026-06-03 16:30:08 - INFO - 正在爬取20/20則新聞。
+2026-06-03 16:30:09 - INFO - ✅ 成功獲取: Governo não descarta estação de TGV, mas diz que não há espaço。
+2026-06-03 16:30:10 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-06-03 16:30:10 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/06/03。
+2026-06-03 16:30:11 - ERROR - ❌ 2026/06/03 連線失敗: 403
+2026-06-03 16:30:11 - INFO - 成功獲取 2026/06/03 數據，當日有0條新聞。
+2026-06-03 16:30:11 - WARNING - ⚠️ 當日沒有新聞。
+2026-06-03 16:30:11 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/06/03。
+2026-06-03 16:30:14 - INFO - 成功獲取 2026/06/03 數據，當日有8條新聞。
+2026-06-03 16:30:14 - INFO - 正在爬取1/8則新聞。
+2026-06-03 16:30:24 - INFO - ✅ 成功獲取: None。
+2026-06-03 16:30:26 - INFO - 正在爬取2/8則新聞。
+2026-06-03 16:30:36 - INFO - ✅ 成功獲取: None。
+2026-06-03 16:30:38 - INFO - 正在爬取3/8則新聞。
+2026-06-03 16:30:48 - INFO - ✅ 成功獲取: None。
+2026-06-03 16:30:50 - INFO - 正在爬取4/8則新聞。
+2026-06-03 16:31:01 - INFO - ✅ 成功獲取: None。
+2026-06-03 16:31:03 - INFO - 正在爬取5/8則新聞。
+2026-06-03 16:31:13 - INFO - ✅ 成功獲取: Clube Militar recebe menção honrosa entre os Melhores Clubes Privados do Mundo。
+2026-06-03 16:31:14 - INFO - 正在爬取6/8則新聞。
+2026-06-03 16:31:26 - INFO - ✅ 成功獲取: None。
+2026-06-03 16:31:27 - INFO - 正在爬取7/8則新聞。
+2026-06-03 16:31:38 - INFO - ✅ 成功獲取: None。
+2026-06-03 16:31:39 - INFO - 正在爬取8/8則新聞。
+2026-06-03 16:31:50 - INFO - ✅ 成功獲取: None。
+2026-06-03 16:31:51 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
+2026-06-03 16:31:54 - ERROR - ❌ 2026/06/03 連線失敗: 202
