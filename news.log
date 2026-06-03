@@ -6285,3 +6285,54 @@
 2026-06-03 03:38:36 - ERROR - ❌ 2026/06/03 連線失敗: 404
 2026-06-03 03:38:36 - INFO - ⚠️ 當日沒有新聞。
 2026-06-03 03:38:38 - ERROR - ❌ 2026/06/03 連線失敗: 202
+2026-06-03 10:50:30 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/06/03。
+2026-06-03 10:50:32 - INFO - 成功獲取 2026/06/03 數據，當日有20條新聞。
+2026-06-03 10:50:32 - INFO - 正在爬取1/20則新聞。
+2026-06-03 10:50:33 - INFO - ✅ 成功獲取: Ébola | Índia envia 43 toneladas de apoio a África。
+2026-06-03 10:50:34 - INFO - 正在爬取2/20則新聞。
+2026-06-03 10:50:35 - INFO - ✅ 成功獲取: Díli | Parlamento timorense aprova Orçamento rectificativo。
+2026-06-03 10:50:36 - INFO - 正在爬取3/20則新聞。
+2026-06-03 10:50:37 - INFO - ✅ 成功獲取: Tufão deixa nove feridos e 47 mil casas sem energia no Japão。
+2026-06-03 10:50:38 - INFO - 正在爬取4/20則新聞。
+2026-06-03 10:50:39 - INFO - ✅ 成功獲取: Natalidade | Pequim destina 12,2 mil milhões de euros em apoios。
+2026-06-03 10:50:40 - INFO - 正在爬取5/20則新聞。
+2026-06-03 10:50:41 - INFO - ✅ 成功獲取: Gigantes tecnológicos reunidos em Taiwan na feira Computex。
+2026-06-03 10:50:42 - INFO - 正在爬取6/20則新聞。
+2026-06-03 10:50:43 - INFO - ✅ 成功獲取: Brasil e China são “pilares de estabilidade no mundo actual” – MNE chinês。
+2026-06-03 10:50:44 - INFO - 正在爬取7/20則新聞。
+2026-06-03 10:50:45 - INFO - ✅ 成功獲取: CURB | Filme sobre passeios de bicicleta exibido na Ponte 9。
+2026-06-03 10:50:46 - INFO - 正在爬取8/20則新聞。
+2026-06-03 10:50:47 - INFO - ✅ 成功獲取: FRC apresenta exposição anual de gravura com trabalhos de alunos locais。
+2026-06-03 10:50:49 - INFO - 正在爬取9/20則新聞。
+2026-06-03 10:50:49 - INFO - ✅ 成功獲取: CCCM | Antologia de textos sobre Luís de Camões apresentada em Lisboa。
+2026-06-03 10:50:51 - INFO - 正在爬取10/20則新聞。
+2026-06-03 10:50:51 - INFO - ✅ 成功獲取: MGM Resorts International | Multimilionário tenta adquirir totalidade da empresa。
+2026-06-03 10:50:53 - INFO - 正在爬取11/20則新聞。
+2026-06-03 10:50:53 - INFO - ✅ 成功獲取: Jogo | Seaport diz que receitas superaram as expectativas。
+2026-06-03 10:50:55 - INFO - 正在爬取12/20則新聞。
+2026-06-03 10:50:55 - INFO - ✅ 成功獲取: Trânsito | Coutinho pede medidas para aumentar segurança。
+2026-06-03 10:50:57 - INFO - 正在爬取13/20則新聞。
+2026-06-03 10:50:57 - INFO - ✅ 成功獲取: Obras | Secretário quer conclusão antes das aulas。
+2026-06-03 10:50:59 - INFO - 正在爬取14/20則新聞。
+2026-06-03 10:50:59 - INFO - ✅ 成功獲取: Comunidades | Presidência de Rui Marcelo confirmada。
+2026-06-03 10:51:01 - INFO - 正在爬取15/20則新聞。
+2026-06-03 10:51:01 - INFO - ✅ 成功獲取: Emprego | Feiras da DSAL disponibilizam 210 vagas。
+2026-06-03 10:51:03 - INFO - 正在爬取16/20則新聞。
+2026-06-03 10:51:04 - INFO - ✅ 成功獲取: Trabalho | Candidaturas para 850 estágio abriram hoje。
+2026-06-03 10:51:05 - INFO - 正在爬取17/20則新聞。
+2026-06-03 10:51:06 - INFO - ✅ 成功獲取: Cheque | 56 mil pedidos de residentes com menos de 183 dias na RAEM。
+2026-06-03 10:51:07 - INFO - 正在爬取18/20則新聞。
+2026-06-03 10:51:08 - INFO - ✅ 成功獲取: Governo revela prudência em projecto da quinta travessia Macau-Taipa。
+2026-06-03 10:51:09 - INFO - 正在爬取19/20則新聞。
+2026-06-03 10:51:10 - INFO - ✅ 成功獲取: Casinos-satélite | Governo revela existência de projectos de investimento。
+2026-06-03 10:51:11 - INFO - 正在爬取20/20則新聞。
+2026-06-03 10:51:12 - INFO - ✅ 成功獲取: Governo não descarta estação de TGV, mas diz que não há espaço。
+2026-06-03 10:51:13 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-06-03 10:51:14 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/06/03。
+2026-06-03 10:51:14 - ERROR - ❌ 2026/06/03 連線失敗: 403
+2026-06-03 10:51:14 - INFO - 成功獲取 2026/06/03 數據，當日有0條新聞。
+2026-06-03 10:51:14 - WARNING - ⚠️ 當日沒有新聞。
+2026-06-03 10:51:14 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/06/03。
+2026-06-03 10:51:17 - ERROR - ❌ 2026/06/03 連線失敗: 404
+2026-06-03 10:51:17 - INFO - ⚠️ 當日沒有新聞。
+2026-06-03 10:51:23 - ERROR - ❌ 2026/06/03 連線失敗: 202
