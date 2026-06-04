@@ -6521,3 +6521,54 @@
 2026-06-04 03:34:00 - INFO - 成功獲取 2026/06/04 數據，當日有0條新聞。
 2026-06-04 03:34:00 - INFO - ⚠️ 當日沒有新聞。
 2026-06-04 03:34:04 - ERROR - ❌ 2026/06/04 連線失敗: 404
+2026-06-04 09:49:47 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/06/04。
+2026-06-04 09:49:48 - INFO - 成功獲取 2026/06/04 數據，當日有20條新聞。
+2026-06-04 09:49:48 - INFO - 正在爬取1/20則新聞。
+2026-06-04 09:49:48 - INFO - ✅ 成功獲取: Zhuhai | Novo espaço do LMA abre em Wanzai。
+2026-06-04 09:49:50 - INFO - 正在爬取2/20則新聞。
+2026-06-04 09:49:50 - INFO - ✅ 成功獲取: Guilherme Pegado e Ernesto Gherzi – Os seus contributos para a meteorologia em Macau。
+2026-06-04 09:49:52 - INFO - 正在爬取3/20則新聞。
+2026-06-04 09:49:52 - INFO - ✅ 成功獲取: O Ocidente desfeito (IV)。
+2026-06-04 09:49:54 - INFO - 正在爬取4/20則新聞。
+2026-06-04 09:49:54 - INFO - ✅ 成功獲取: MAM | Aceites obras para nova edição de exposição anual。
+2026-06-04 09:49:56 - INFO - 正在爬取5/20則新聞。
+2026-06-04 09:49:56 - INFO - ✅ 成功獲取: 10 de Junho | Teatro D. Pedro V acolhe no sábado recital de música lírica。
+2026-06-04 09:49:57 - INFO - 正在爬取6/20則新聞。
+2026-06-04 09:49:58 - INFO - ✅ 成功獲取: Imprensa | Trump pediu a Xi que ajude a desbloquear negociações entre Rússia e Ucrânia。
+2026-06-04 09:49:59 - INFO - 正在爬取7/20則新聞。
+2026-06-04 09:50:00 - INFO - ✅ 成功獲取: China reconhece todo o território brasileiro como livre de febre aftosa。
+2026-06-04 09:50:01 - INFO - 正在爬取8/20則新聞。
+2026-06-04 09:50:02 - INFO - ✅ 成功獲取: Brasil | Lula critica taxação dos EUA e vira-se para a China。
+2026-06-04 09:50:03 - INFO - 正在爬取9/20則新聞。
+2026-06-04 09:50:04 - INFO - ✅ 成功獲取: HK | Homem vindo de Macau com canábis em tribunal。
+2026-06-04 09:50:05 - INFO - 正在爬取10/20則新聞。
+2026-06-04 09:50:06 - INFO - ✅ 成功獲取: SMG | Depois do tempo quente, chuva torrencial a caminho。
+2026-06-04 09:50:07 - INFO - 正在爬取11/20則新聞。
+2026-06-04 09:50:07 - INFO - ✅ 成功獲取: Subida de doenças semelhantes à gripe, como covid-19, motivam alerta。
+2026-06-04 09:50:09 - INFO - 正在爬取12/20則新聞。
+2026-06-04 09:50:09 - INFO - ✅ 成功獲取: Táxis | Novo concurso pode colocar 700 veículos nas ruas。
+2026-06-04 09:50:11 - INFO - 正在爬取13/20則新聞。
+2026-06-04 09:50:11 - INFO - ✅ 成功獲取: Crédito malparado | Tendência de redução acentua-se。
+2026-06-04 09:50:13 - INFO - 正在爬取14/20則新聞。
+2026-06-04 09:50:13 - INFO - ✅ 成功獲取: MGM Resorts | Aquisição pode levar a venda da subsidiária em Macau。
+2026-06-04 09:50:15 - INFO - 正在爬取15/20則新聞。
+2026-06-04 09:50:15 - INFO - ✅ 成功獲取: IAM | Presidente tomou posse após reestruturação。
+2026-06-04 09:50:17 - INFO - 正在爬取16/20則新聞。
+2026-06-04 09:50:17 - INFO - ✅ 成功獲取: Plano quinquenal | Académico aplaude aposta em Hengqin。
+2026-06-04 09:50:18 - INFO - 正在爬取17/20則新聞。
+2026-06-04 09:50:19 - INFO - ✅ 成功獲取: CAM | Tai Kin Ip no conselho de administração e comissão executiva。
+2026-06-04 09:50:20 - INFO - 正在爬取18/20則新聞。
+2026-06-04 09:50:21 - INFO - ✅ 成功獲取: Governo promete mais desfibrilhadores e conexão com sistema de saúde。
+2026-06-04 09:50:22 - INFO - 正在爬取19/20則新聞。
+2026-06-04 09:50:23 - INFO - ✅ 成功獲取: Registados em Macau 780 médicos especialistas。
+2026-06-04 09:50:24 - INFO - 正在爬取20/20則新聞。
+2026-06-04 09:50:25 - INFO - ✅ 成功獲取: Natalidade | Apoios para escolas podem ir até 12 milhões de patacas。
+2026-06-04 09:50:26 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-06-04 09:50:26 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/06/04。
+2026-06-04 09:50:27 - ERROR - ❌ 2026/06/04 連線失敗: 403
+2026-06-04 09:50:27 - INFO - 成功獲取 2026/06/04 數據，當日有0條新聞。
+2026-06-04 09:50:27 - WARNING - ⚠️ 當日沒有新聞。
+2026-06-04 09:50:27 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/06/04。
+2026-06-04 09:50:30 - ERROR - ❌ 2026/06/04 連線失敗: 404
+2026-06-04 09:50:30 - INFO - ⚠️ 當日沒有新聞。
+2026-06-04 09:50:34 - ERROR - ❌ 2026/06/04 連線失敗: 202
