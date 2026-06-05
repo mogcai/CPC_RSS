@@ -6726,3 +6726,64 @@
 2026-06-04 20:02:07 - INFO - ✅ 成功獲取: None。
 2026-06-04 20:02:09 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
 2026-06-04 20:02:12 - ERROR - ❌ 2026/06/04 連線失敗: 202
+2026-06-05 02:55:05 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/06/05。
+2026-06-05 02:55:06 - INFO - 成功獲取 2026/06/05 數據，當日有17條新聞。
+2026-06-05 02:55:06 - INFO - 正在爬取1/17則新聞。
+2026-06-05 02:55:06 - INFO - ✅ 成功獲取: Festival de cinema ‘queer’ em Macau é espaço para dialogar。
+2026-06-05 02:55:08 - INFO - 正在爬取2/17則新聞。
+2026-06-05 02:55:08 - INFO - ✅ 成功獲取: AMCM | Lucros de bancos disparam 20,7 por cento até Abril。
+2026-06-05 02:55:09 - INFO - 正在爬取3/17則新聞。
+2026-06-05 02:55:10 - INFO - ✅ 成功獲取: FRC | Quarteto de cordas com canções de embalar amanhã。
+2026-06-05 02:55:11 - INFO - 正在爬取4/17則新聞。
+2026-06-05 02:55:12 - INFO - ✅ 成功獲取: Onde reside o problema?。
+2026-06-05 02:55:13 - INFO - 正在爬取5/17則新聞。
+2026-06-05 02:55:14 - INFO - ✅ 成功獲取: FRC | Recital “Canções à Janela, Sombras da Flauta” acontece hoje。
+2026-06-05 02:55:15 - INFO - 正在爬取6/17則新聞。
+2026-06-05 02:55:16 - INFO - ✅ 成功獲取: Diplomacia | Pequim proíbe entrada de quatro deputados neozelandeses。
+2026-06-05 02:55:17 - INFO - 正在爬取7/17則新聞。
+2026-06-05 02:55:18 - INFO - ✅ 成功獲取: Cuba | China acusa EUA de recorrerem a “rumores e difamações” para justificar embargo。
+2026-06-05 02:55:19 - INFO - 正在爬取8/17則新聞。
+2026-06-05 02:55:19 - INFO - ✅ 成功獲取: DeepSeek | Nova ronda de financiamento de 6,3 mil milhões de euros。
+2026-06-05 02:55:21 - INFO - 正在爬取9/17則新聞。
+2026-06-05 02:55:21 - INFO - ✅ 成功獲取: Aperfeiçoamento contínuo | Suspeitos de burlas no programa。
+2026-06-05 02:55:23 - INFO - 正在爬取10/17則新聞。
+2026-06-05 02:55:23 - INFO - ✅ 成功獲取: Mitra | Homem chega ao hospital inconsciente devido a incêndio。
+2026-06-05 02:55:25 - INFO - 正在爬取11/17則新聞。
+2026-06-05 02:55:25 - INFO - ✅ 成功獲取: Eléctricos | Pedidos carregamentos em postos tradicionais。
+2026-06-05 02:55:27 - INFO - 正在爬取12/17則新聞。
+2026-06-05 02:55:27 - INFO - ✅ 成功獲取: IIM | O Clarim distinguido com Prémio Identidade。
+2026-06-05 02:55:29 - INFO - 正在爬取13/17則新聞。
+2026-06-05 02:55:29 - INFO - ✅ 成功獲取: Trânsito | Conselheiros pedem medidas imediatas após atropelamento。
+2026-06-05 02:55:30 - INFO - 正在爬取14/17則新聞。
+2026-06-05 02:55:31 - INFO - ✅ 成功獲取: EPL | Actividade na guarnição com mensagem de harmonia e igualdade。
+2026-06-05 02:55:32 - INFO - 正在爬取15/17則新聞。
+2026-06-05 02:55:33 - INFO - ✅ 成功獲取: Pensões | ATFPM quer nova actualização em 2027。
+2026-06-05 02:55:34 - INFO - 正在爬取16/17則新聞。
+2026-06-05 02:55:35 - INFO - ✅ 成功獲取: Residentes do Iao Hon descrentes em relação à reabilitação。
+2026-06-05 02:55:36 - INFO - 正在爬取17/17則新聞。
+2026-06-05 02:55:37 - INFO - ✅ 成功獲取: Iao Hon | Um dia num dos bairros mais densamente povoados do mundo。
+2026-06-05 02:55:38 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-06-05 02:55:38 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/06/05。
+2026-06-05 02:55:39 - ERROR - ❌ 2026/06/05 連線失敗: 403
+2026-06-05 02:55:39 - INFO - 成功獲取 2026/06/05 數據，當日有0條新聞。
+2026-06-05 02:55:39 - WARNING - ⚠️ 當日沒有新聞。
+2026-06-05 02:55:39 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/06/05。
+2026-06-05 02:55:42 - INFO - 成功獲取 2026/06/05 數據，當日有8條新聞。
+2026-06-05 02:55:42 - INFO - 正在爬取1/8則新聞。
+2026-06-05 02:55:54 - INFO - ✅ 成功獲取: None。
+2026-06-05 02:55:55 - INFO - 正在爬取2/8則新聞。
+2026-06-05 02:56:06 - INFO - ✅ 成功獲取: None。
+2026-06-05 02:56:08 - INFO - 正在爬取3/8則新聞。
+2026-06-05 02:56:19 - INFO - ✅ 成功獲取: None。
+2026-06-05 02:56:21 - INFO - 正在爬取4/8則新聞。
+2026-06-05 02:56:32 - INFO - ✅ 成功獲取: None。
+2026-06-05 02:56:33 - INFO - 正在爬取5/8則新聞。
+2026-06-05 02:56:45 - INFO - ✅ 成功獲取: None。
+2026-06-05 02:56:46 - INFO - 正在爬取6/8則新聞。
+2026-06-05 02:56:57 - INFO - ✅ 成功獲取: None。
+2026-06-05 02:56:59 - INFO - 正在爬取7/8則新聞。
+2026-06-05 02:57:10 - INFO - ✅ 成功獲取: None。
+2026-06-05 02:57:12 - INFO - 正在爬取8/8則新聞。
+2026-06-05 02:57:23 - INFO - ✅ 成功獲取: None。
+2026-06-05 02:57:25 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
+2026-06-05 02:57:29 - ERROR - ❌ 2026/06/05 連線失敗: 404
