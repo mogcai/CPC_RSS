@@ -7096,3 +7096,46 @@
 2026-06-07 19:16:57 - INFO - ✅ 成功獲取: None。
 2026-06-07 19:16:58 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
 2026-06-07 19:17:02 - ERROR - ❌ 2026/06/07 連線失敗: 404
+2026-06-08 03:30:38 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/06/08。
+2026-06-08 03:30:39 - INFO - 成功獲取 2026/06/08 數據，當日有16條新聞。
+2026-06-08 03:30:39 - INFO - 正在爬取1/16則新聞。
+2026-06-08 03:30:40 - INFO - ✅ 成功獲取: Xangai | China ainda carece de cultura futebolística, diz Leonel Pontes。
+2026-06-08 03:30:41 - INFO - 正在爬取2/16則新聞。
+2026-06-08 03:30:42 - INFO - ✅ 成功獲取: Coreia do Sul | Presidente nomeia PM especialista em tecnologia。
+2026-06-08 03:30:43 - INFO - 正在爬取3/16則新聞。
+2026-06-08 03:30:44 - INFO - ✅ 成功獲取: Nem no fascismo。
+2026-06-08 03:30:45 - INFO - 正在爬取4/16則新聞。
+2026-06-08 03:30:46 - INFO - ✅ 成功獲取: Alunas da UM vencem concurso internacional de escrita em português。
+2026-06-08 03:30:47 - INFO - 正在爬取5/16則新聞。
+2026-06-08 03:30:48 - INFO - ✅ 成功獲取: 10 de Junho | Clube Militar serve comida mirandesa de Lídia Brás。
+2026-06-08 03:30:49 - INFO - 正在爬取6/16則新聞。
+2026-06-08 03:30:50 - INFO - ✅ 成功獲取: Visita | Xi Jinping na Coreia do Norte pela primeira vez desde 2019。
+2026-06-08 03:30:51 - INFO - 正在爬取7/16則新聞。
+2026-06-08 03:30:53 - INFO - ✅ 成功獲取: Ensino superior | Quase 13 milhões de chineses começam hoje o exame de acesso。
+2026-06-08 03:30:54 - INFO - 正在爬取8/16則新聞。
+2026-06-08 03:30:55 - INFO - ✅ 成功獲取: JALP | Advogada chinesa lidera associação internacional de língua portuguesa。
+2026-06-08 03:30:56 - INFO - 正在爬取9/16則新聞。
+2026-06-08 03:30:57 - INFO - ✅ 成功獲取: O Herói Predestinado e o Pintor Que Foi um Bandido。
+2026-06-08 03:30:59 - INFO - 正在爬取10/16則新聞。
+2026-06-08 03:30:59 - INFO - ✅ 成功獲取: Prostituição | Rede desfeita com cinco polícias entre os detidos。
+2026-06-08 03:31:01 - INFO - 正在爬取11/16則新聞。
+2026-06-08 03:31:01 - INFO - ✅ 成功獲取: DICJ | Negada manipulação de casinos para prejudicar clientes。
+2026-06-08 03:31:03 - INFO - 正在爬取12/16則新聞。
+2026-06-08 03:31:03 - INFO - ✅ 成功獲取: Medicina | Estudantes de Timor-Leste aprendem em Macau。
+2026-06-08 03:31:05 - INFO - 正在爬取13/16則新聞。
+2026-06-08 03:31:06 - INFO - ✅ 成功獲取: 929 Challenge | José Alves alerta para contraste com discursos oficiais。
+2026-06-08 03:31:07 - INFO - 正在爬取14/16則新聞。
+2026-06-08 03:31:09 - INFO - ✅ 成功獲取: APOMAC esclarece que aumentos de pensões em Portugal são automáticos。
+2026-06-08 03:31:10 - INFO - 正在爬取15/16則新聞。
+2026-06-08 03:31:11 - INFO - ✅ 成功獲取: Cooperação | Macau quer promover laços entre Hebei e a lusofonia。
+2026-06-08 03:31:12 - INFO - 正在爬取16/16則新聞。
+2026-06-08 03:31:13 - INFO - ✅ 成功獲取: CCCM | “China tem ainda dificuldade em seduzir”, diz ex-ministro。
+2026-06-08 03:31:14 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-06-08 03:31:15 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/06/08。
+2026-06-08 03:31:15 - ERROR - ❌ 2026/06/08 連線失敗: 403
+2026-06-08 03:31:15 - INFO - 成功獲取 2026/06/08 數據，當日有0條新聞。
+2026-06-08 03:31:15 - WARNING - ⚠️ 當日沒有新聞。
+2026-06-08 03:31:15 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/06/08。
+2026-06-08 03:31:19 - ERROR - ❌ 2026/06/08 連線失敗: 404
+2026-06-08 03:31:19 - INFO - ⚠️ 當日沒有新聞。
+2026-06-08 03:31:22 - ERROR - ❌ 2026/06/08 連線失敗: 404
