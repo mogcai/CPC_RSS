@@ -8764,3 +8764,54 @@
 2026-06-16 20:46:54 - INFO - ✅ 成功獲取: None。
 2026-06-16 20:46:55 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
 2026-06-16 20:46:58 - ERROR - ❌ 2026/06/16 連線失敗: 202
+2026-06-17 03:34:56 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/06/17。
+2026-06-17 03:34:58 - INFO - 成功獲取 2026/06/17 數據，當日有19條新聞。
+2026-06-17 03:34:58 - INFO - 正在爬取1/19則新聞。
+2026-06-17 03:34:58 - INFO - ✅ 成功獲取: Tecnologia | ‘Startup’ do Brasil vence edição alargada de concurso。
+2026-06-17 03:35:00 - INFO - 正在爬取2/19則新聞。
+2026-06-17 03:35:00 - INFO - ✅ 成功獲取: GP Macau | FIA não mexe na Taça do Mundo de GT。
+2026-06-17 03:35:02 - INFO - 正在爬取3/19則新聞。
+2026-06-17 03:35:03 - INFO - ✅ 成功獲取: Quanto valem os teus pés?。
+2026-06-17 03:35:04 - INFO - 正在爬取4/19則新聞。
+2026-06-17 03:35:05 - INFO - ✅ 成功獲取: Encontro | Xi Jinping recebe líder de Myanmar。
+2026-06-17 03:35:06 - INFO - 正在爬取5/19則新聞。
+2026-06-17 03:35:07 - INFO - ✅ 成功獲取: FAM apresenta “O Lago dos Cisnes” com o Ballet de Xangai。
+2026-06-17 03:35:08 - INFO - 正在爬取6/19則新聞。
+2026-06-17 03:35:09 - INFO - ✅ 成功獲取: Festival LGBTQ+ com filmes nos cinemas Emperor este fim-de-semana。
+2026-06-17 03:35:10 - INFO - 正在爬取7/19則新聞。
+2026-06-17 03:35:11 - INFO - ✅ 成功獲取: Grande Baía | CURB lança nova edição de concurso de fotografia。
+2026-06-17 03:35:13 - INFO - 正在爬取8/19則新聞。
+2026-06-17 03:35:13 - INFO - ✅ 成功獲取: Espaços públicos | Pedidas punições mais duras para infracções。
+2026-06-17 03:35:15 - INFO - 正在爬取9/19則新聞。
+2026-06-17 03:35:15 - INFO - ✅ 成功獲取: Jogo | Início do mês confirma tendência de redução anual de receitas。
+2026-06-17 03:35:17 - INFO - 正在爬取10/19則新聞。
+2026-06-17 03:35:18 - INFO - ✅ 成功獲取: Óbito | Morreu antigo dirigente da FAOM。
+2026-06-17 03:35:19 - INFO - 正在爬取11/19則新聞。
+2026-06-17 03:35:20 - INFO - ✅ 成功獲取: APEC | Polícias da Grande Baía reforçam cooperação。
+2026-06-17 03:35:22 - INFO - 正在爬取12/19則新聞。
+2026-06-17 03:35:22 - INFO - ✅ 成功獲取: Turismo | Fronteiras movimentadas no fim-de-semana。
+2026-06-17 03:35:24 - INFO - 正在爬取13/19則新聞。
+2026-06-17 03:35:25 - INFO - ✅ 成功獲取: Impostos | Simplificada importação de bebidas espirituosas e tabaco。
+2026-06-17 03:35:26 - INFO - 正在爬取14/19則新聞。
+2026-06-17 03:35:27 - INFO - ✅ 成功獲取: Reparação predial | Fundo atribuiu 740 milhões desde 2007。
+2026-06-17 03:35:28 - INFO - 正在爬取15/19則新聞。
+2026-06-17 03:35:32 - INFO - ✅ 成功獲取: Habitação social | Isenção de renda de lojas alargada para três anos。
+2026-06-17 03:35:33 - INFO - 正在爬取16/19則新聞。
+2026-06-17 03:35:34 - INFO - ✅ 成功獲取: Governo promete incentivos fiscais para renovação urbana。
+2026-06-17 03:35:35 - INFO - 正在爬取17/19則新聞。
+2026-06-17 03:35:36 - INFO - ✅ 成功獲取: Anunciada reconversão do sistema educativo a pensar na IA。
+2026-06-17 03:35:37 - INFO - 正在爬取18/19則新聞。
+2026-06-17 03:35:38 - INFO - ✅ 成功獲取: Emprego | Sam Hou Fai diz que houve “melhoria eficaz”。
+2026-06-17 03:35:40 - INFO - 正在爬取19/19則新聞。
+2026-06-17 03:35:41 - INFO - ✅ 成功獲取: Cooperação | Sam Hou Fai diz que “mercado espanhol tem dimensão enorme”。
+2026-06-17 03:35:43 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-06-17 03:35:43 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/06/17。
+2026-06-17 03:35:43 - ERROR - ❌ 2026/06/17 連線失敗: 403
+2026-06-17 03:35:43 - INFO - 成功獲取 2026/06/17 數據，當日有0條新聞。
+2026-06-17 03:35:43 - WARNING - ⚠️ 當日沒有新聞。
+2026-06-17 03:35:43 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/06/17。
+2026-06-17 03:35:47 - ERROR - ❌ 2026/06/17 連線失敗: 404
+2026-06-17 03:35:47 - INFO - ⚠️ 當日沒有新聞。
+2026-06-17 03:35:50 - INFO - ✅ 成功獲取 2026/06/17 數據，當日有1條新聞。
+2026-06-17 03:35:50 - INFO - 正在爬取1/1則新聞。
+2026-06-17 03:35:52 - INFO - ✅ 成功獲取: 澳門新任經財司司長吳惠嫻履新  首要續推經濟適度多元發展。
