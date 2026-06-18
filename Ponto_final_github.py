@@ -64,7 +64,7 @@ def get_article(url):
     if img_tag:
         img_url = img_tag.get('src')
     
-    if soup.find('h1', class_='tdb-title-text'):
+    if soup.find('h1', {"class": re.compile('title')}):
         title=soup.find_all('h1', class_='tdb-title-text')[0].get_text().strip()
     else:
         title=None
@@ -74,7 +74,7 @@ def get_article(url):
     else:
         author=None
 
-    if soup.find('div', class_='td-post-content'):
+    if soup.find('div', {"class": re.compile("post-content")}):
         # content=soup.find_all('div', class_='td-post-content')[0].get_text().strip()
         content=soup.find_all('div', class_='td-post-content')[0].decode_contents()
 
