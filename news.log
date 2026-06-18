@@ -9079,3 +9079,80 @@
 2026-06-18 04:25:38 - INFO - ✅ 成功獲取: Seis menores investigados devido a alegado caso de ‘bullying’。
 2026-06-18 04:25:40 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
 2026-06-18 04:25:44 - ERROR - ❌ 2026/06/18 連線失敗: 404
+2026-06-18 10:14:04 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/06/18。
+2026-06-18 10:14:05 - INFO - 成功獲取 2026/06/18 數據，當日有18條新聞。
+2026-06-18 10:14:05 - INFO - 正在爬取1/0則新聞。
+2026-06-18 10:14:05 - INFO - ✅ 成功獲取: Mundial 2026 | Hong Kong detém 150 pessoas devido a apostas ilegais de 35 ME。
+2026-06-18 10:14:07 - INFO - 正在爬取2/0則新聞。
+2026-06-18 10:14:07 - INFO - ✅ 成功獲取: Médio Oriente | Pequim anuncia ajuda humanitária ao Irão e ao Líbano。
+2026-06-18 10:14:09 - INFO - 正在爬取3/0則新聞。
+2026-06-18 10:14:27 - INFO - ✅ 成功獲取: O umbral da desordem mundial (I)。
+2026-06-18 10:14:28 - INFO - 正在爬取4/0則新聞。
+2026-06-18 10:14:29 - INFO - ✅ 成功獲取: FRC | Conteúdo de Museu de Macau em Lisboa em palestra。
+2026-06-18 10:14:30 - INFO - 正在爬取5/0則新聞。
+2026-06-18 10:14:31 - INFO - ✅ 成功獲取: IIM | Inaugurada exposição “Padrões de Macau 2.0”, de Eva Bucho。
+2026-06-18 10:14:32 - INFO - 正在爬取6/0則新聞。
+2026-06-18 10:14:33 - INFO - ✅ 成功獲取: MNE | China apela a maior respeito pela ONU e maior representação do Sul Global。
+2026-06-18 10:14:34 - INFO - 正在爬取7/0則新聞。
+2026-06-18 10:14:35 - INFO - ✅ 成功獲取: Qinghai | Dois novos sismos abalam província após terramoto que causou um morto。
+2026-06-18 10:14:36 - INFO - 正在爬取8/0則新聞。
+2026-06-18 10:14:37 - INFO - ✅ 成功獲取: IA | DeepSeek supera 43 mil milhões de euros em valor de mercado, diz imprensa。
+2026-06-18 10:14:38 - INFO - 正在爬取9/0則新聞。
+2026-06-18 10:14:39 - INFO - ✅ 成功獲取: ‘Instagram chinês’ Xiaohongshu prepara entrada em bolsa em Hong Kong。
+2026-06-18 10:14:40 - INFO - 正在爬取10/0則新聞。
+2026-06-18 10:14:41 - INFO - ✅ 成功獲取: Poesia de Lu Xun traduzida – 他  Tā。
+2026-06-18 10:14:42 - INFO - 正在爬取11/0則新聞。
+2026-06-18 10:14:43 - INFO - ✅ 成功獲取: PJ | Menores envolvidos em roubo, agressão e gravações ilícitas。
+2026-06-18 10:14:44 - INFO - 正在爬取12/0則新聞。
+2026-06-18 10:14:45 - INFO - ✅ 成功獲取: Habitação | Preço médio do metro quadrado acima de 70 mil patacas。
+2026-06-18 10:14:46 - INFO - 正在爬取13/0則新聞。
+2026-06-18 10:14:47 - INFO - ✅ 成功獲取: Caso “Tou Fa Kon” | Filhos de empresário herdam acções。
+2026-06-18 10:14:48 - INFO - 正在爬取14/0則新聞。
+2026-06-18 10:14:49 - INFO - ✅ 成功獲取: CCAC | Queixas e denúncias em 2025 cresceram 26,4%。
+2026-06-18 10:14:50 - INFO - 正在爬取15/0則新聞。
+2026-06-18 10:14:51 - INFO - ✅ 成功獲取: CPSP | Confirmado afastamento de Leong Heng Hong。
+2026-06-18 10:14:52 - INFO - 正在爬取16/0則新聞。
+2026-06-18 10:14:53 - INFO - ✅ 成功獲取: UTM | Cursos em Hengqin ajudam a aumentar novas matrículas。
+2026-06-18 10:14:54 - INFO - 正在爬取17/0則新聞。
+2026-06-18 10:14:55 - INFO - ✅ 成功獲取: Quadros qualificados | Kong Chi Meng continua à frente de comissão。
+2026-06-18 10:14:56 - INFO - 正在爬取18/0則新聞。
+2026-06-18 10:14:57 - INFO - ✅ 成功獲取: Sónia Sénica, académica: “Uma nova ordem multipolar”。
+2026-06-18 10:14:58 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-06-18 10:14:58 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/06/18。
+2026-06-18 10:14:59 - ERROR - ❌ 2026/06/18 連線失敗: 403
+2026-06-18 10:14:59 - INFO - 成功獲取 2026/06/18 數據，當日有0條新聞。
+2026-06-18 10:14:59 - WARNING - ⚠️ 當日沒有新聞。
+2026-06-18 10:14:59 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/06/18。
+2026-06-18 10:15:02 - INFO - 成功獲取 2026/06/18 數據，當日有2條新聞。
+2026-06-18 10:15:02 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/06/17。
+2026-06-18 10:15:06 - INFO - 成功獲取 2026/06/17 數據，當日有9條新聞。
+2026-06-18 10:15:06 - INFO - 正在爬取1/11則新聞。
+2026-06-18 10:15:16 - INFO - ✅ 成功獲取: Instruídos 30 processos por irregularidades nas eleições para a AL。
+2026-06-18 10:15:17 - INFO - 正在爬取2/11則新聞。
+2026-06-18 10:15:29 - INFO - ✅ 成功獲取: CCAC: mais denúncias, mais processos instruídos e mais investigações。
+2026-06-18 10:15:30 - INFO - 正在爬取3/11則新聞。
+2026-06-18 10:15:40 - INFO - ✅ 成功獲取: Seis menores investigados devido a alegado caso de ‘bullying’。
+2026-06-18 10:15:42 - INFO - 正在爬取4/11則新聞。
+2026-06-18 10:15:52 - INFO - ✅ 成功獲取: Parque Industrial deverá entrar em funcionamento em 2030。
+2026-06-18 10:15:54 - INFO - 正在爬取5/11則新聞。
+2026-06-18 10:16:04 - INFO - ✅ 成功獲取: E se os marcianos não forem como nos filmes de Hollywood?。
+2026-06-18 10:16:06 - INFO - 正在爬取6/11則新聞。
+2026-06-18 10:16:17 - INFO - ✅ 成功獲取: A segurança do Nordeste Asiático sob pressão。
+2026-06-18 10:16:19 - INFO - 正在爬取7/11則新聞。
+2026-06-18 10:16:30 - INFO - ✅ 成功獲取: O acordo de paz com o Irão: o que diz e o que significa。
+2026-06-18 10:16:32 - INFO - 正在爬取8/11則新聞。
+2026-06-18 10:16:42 - INFO - ✅ 成功獲取: Mais de 36 mil pessoas retiradas de zonas de risco após chuvas no sul da China。
+2026-06-18 10:16:43 - INFO - 正在爬取9/11則新聞。
+2026-06-18 10:16:54 - INFO - ✅ 成功獲取: Governo avança com reparações na barragem de Hác-Sá e novo jardim de borboletas。
+2026-06-18 10:16:55 - INFO - 正在爬取10/11則新聞。
+2026-06-18 10:17:07 - INFO - ✅ 成功獲取: Maior grupo empresarial japonês saúda possível acordo comercial com Mercosul。
+2026-06-18 10:17:08 - INFO - 正在爬取11/11則新聞。
+2026-06-18 10:17:18 - INFO - ✅ 成功獲取: ‘Instagram chinês’ Xiaohongshu prepara entrada em bolsa em Hong Kong。
+2026-06-18 10:17:20 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
+2026-06-18 10:17:24 - INFO - ✅ 成功獲取 2026/06/18 數據，當日有3條新聞。
+2026-06-18 10:17:24 - INFO - 正在爬取1/3則新聞。
+2026-06-18 10:17:26 - INFO - ✅ 成功獲取: 今年首季博彩罪案同比增3.2% 不法匯兌和借貸均錄得下降趨勢。
+2026-06-18 10:17:26 - INFO - 正在爬取2/3則新聞。
+2026-06-18 10:17:28 - INFO - ✅ 成功獲取: 澳門銀河票選為亞太區十大綜合度假城等六項大獎。
+2026-06-18 10:17:28 - INFO - 正在爬取3/3則新聞。
+2026-06-18 10:17:30 - INFO - ✅ 成功獲取: 金沙中國新增四項精英培訓計劃 提升AI技能優化營運效率。
