@@ -9457,3 +9457,24 @@
 2026-06-21 13:59:44 - INFO - ✅ 成功獲取: E se os marcianos não forem como nos filmes de Hollywood?。
 2026-06-21 13:59:45 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
 2026-06-21 13:59:49 - ERROR - ❌ 2026/06/21 連線失敗: 404
+2026-06-21 19:23:41 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/06/21。
+2026-06-21 19:23:42 - ERROR - ❌ 2026/06/21 連線失敗: 404
+2026-06-21 19:23:42 - WARNING - ⚠️ 沒有新聞。
+2026-06-21 19:23:42 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/06/21。
+2026-06-21 19:23:43 - ERROR - ❌ 2026/06/21 連線失敗: 403
+2026-06-21 19:23:43 - INFO - 成功獲取 2026/06/21 數據，當日有0條新聞。
+2026-06-21 19:23:43 - WARNING - ⚠️ 當日沒有新聞。
+2026-06-21 19:23:43 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/06/21。
+2026-06-21 19:23:46 - INFO - 成功獲取 2026/06/21 數據，當日有4條新聞。
+2026-06-21 19:23:46 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/06/20。
+2026-06-21 19:23:50 - ERROR - ❌ 2026/06/20 連線失敗: 404
+2026-06-21 19:23:50 - INFO - 正在爬取1/4則新聞。
+2026-06-21 19:24:01 - INFO - ✅ 成功獲取: CCAC: mais denúncias, mais processos instruídos e mais investigações。
+2026-06-21 19:24:03 - INFO - 正在爬取2/4則新聞。
+2026-06-21 19:24:14 - INFO - ✅ 成功獲取: Instruídos 30 processos por irregularidades nas eleições para a AL。
+2026-06-21 19:24:15 - INFO - 正在爬取3/4則新聞。
+2026-06-21 19:24:26 - INFO - ✅ 成功獲取: Parque Industrial deverá entrar em funcionamento em 2030。
+2026-06-21 19:24:28 - INFO - 正在爬取4/4則新聞。
+2026-06-21 19:24:39 - INFO - ✅ 成功獲取: E se os marcianos não forem como nos filmes de Hollywood?。
+2026-06-21 19:24:40 - INFO - ✅ 成功保存: Ponto_final_pt.xml。
+2026-06-21 19:24:43 - ERROR - ❌ 2026/06/21 連線失敗: 202
