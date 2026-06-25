@@ -73,12 +73,12 @@ def get_article(url):
             else:
                 date = formatdate()  # Use current time if missing
 
-            if title_tag := soup.find("h1", class_="entry-title"):
+            if title_tag := soup.find("h1", {"class": re.compile("entry-title")}):
                 title = title_tag.get_text().strip()
             else:
                 title = "NA"
 
-            if author_tag := data.find("a", {"class": "tdb-author-name"}):
+            if author_tag := data.find("a", {"class": re.compile("tdb-author-name")}):
                 author = author_tag.get_text().strip()
             else:
                 author = "NA"
@@ -89,7 +89,9 @@ def get_article(url):
             ):
                 img_url = img_tag.img.get("src")
 
-            if content_tag := data.find("div", class_="td-post-content"):
+            if content_tag := data.find(
+                "div", {"class": re.compile("td-post-content")}
+            ):
                 content = content_tag.get_text().strip()
 
                 if img_url:
@@ -100,7 +102,7 @@ def get_article(url):
             else:
                 content = "NA"
 
-            if cat_tag := data.find("li", {"class": "entry-category"}):
+            if cat_tag := data.find("li", {"class": re.compile("entry-category")}):
                 cat = cat_tag.get_text().strip()
             else:
                 cat = "NA"
