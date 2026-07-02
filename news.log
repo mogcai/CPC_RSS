@@ -11776,3 +11776,66 @@
 2026-07-01 19:47:03 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/07/01。
 2026-07-01 19:47:04 - ERROR - ❌ 2026/07/01 連線失敗: 202
 2026-07-01 19:47:05 - ERROR - ❌ 2026/06/30 連線失敗: 202
+2026-07-02 02:47:33 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/07/02。
+2026-07-02 02:47:34 - INFO - 成功獲取 2026/07/02 數據，當日有20條新聞。
+2026-07-02 02:47:34 - INFO - 正在爬取1/0則新聞。
+2026-07-02 02:47:35 - INFO - ✅ 成功獲取: Wang Yi apela a Estados Unidos e Irão para manterem negociações。
+2026-07-02 02:47:36 - INFO - 正在爬取2/0則新聞。
+2026-07-02 02:47:37 - INFO - ✅ 成功獲取: Licença de maternidade | Entrada em vigor antecipada。
+2026-07-02 02:47:39 - INFO - 正在爬取3/0則新聞。
+2026-07-02 02:47:39 - INFO - ✅ 成功獲取: Função Pública | ATFPM em Seul para reunião de organização internacional。
+2026-07-02 02:47:41 - INFO - 正在爬取4/0則新聞。
+2026-07-02 02:47:41 - INFO - ✅ 成功獲取: Segurança | Queda de avião poderá reforçar controlo sobre aviação。
+2026-07-02 02:47:43 - INFO - 正在爬取5/0則新聞。
+2026-07-02 02:47:43 - INFO - ✅ 成功獲取: PCC | Xi sugere modelo chinês e sublinha que a China é “construtora da paz”。
+2026-07-02 02:47:45 - INFO - 正在爬取6/0則新聞。
+2026-07-02 02:47:45 - INFO - ✅ 成功獲取: China | Regras duras para investimentos no estrangeiro devido a segurança nacional。
+2026-07-02 02:47:47 - INFO - 正在爬取7/0則新聞。
+2026-07-02 02:47:48 - INFO - ✅ 成功獲取: Sul do país prepara-se para o primeiro tufão do ano. Macau com sinal 3 esta sexta-feira。
+2026-07-02 02:47:49 - INFO - 正在爬取8/0則新聞。
+2026-07-02 02:47:50 - INFO - ✅ 成功獲取: O Silêncio que Ilumina: o verdadeiro sentido do Chan (禅) na cultura chinesa。
+2026-07-02 02:47:51 - INFO - 正在爬取9/0則新聞。
+2026-07-02 02:47:52 - INFO - ✅ 成功獲取: Comédia | Wynn Palace apresenta dupla Yue Yunpeng e Sun Yue。
+2026-07-02 02:47:53 - INFO - 正在爬取10/0則新聞。
+2026-07-02 02:47:54 - INFO - ✅ 成功獲取: Julho repleto de eventos, de exposições, desporto, passando pelo design e caligrafia。
+2026-07-02 02:47:56 - INFO - 正在爬取11/0則新聞。
+2026-07-02 02:47:56 - INFO - ✅ 成功獲取: Creative Macau | Elisa Vilaça expõe obras feitas a partir de materiais reciclados。
+2026-07-02 02:47:58 - INFO - 正在爬取12/0則新聞。
+2026-07-02 02:47:58 - INFO - ✅ 成功獲取: Empréstimo | Homem perde 70 mil yuan em burla。
+2026-07-02 02:48:00 - INFO - 正在爬取13/0則新聞。
+2026-07-02 02:48:00 - INFO - ✅ 成功獲取: Animais | Deputada quer combate à crueldade e abandono。
+2026-07-02 02:48:02 - INFO - 正在爬取14/0則新聞。
+2026-07-02 02:48:03 - INFO - ✅ 成功獲取: Jogo | Receitas mensais de Junho foram as mais baixas do ano。
+2026-07-02 02:48:04 - INFO - 正在爬取15/0則新聞。
+2026-07-02 02:48:05 - INFO - ✅ 成功獲取: Emperor | Receitas caíram 40% após fecho de casino-satélite。
+2026-07-02 02:48:06 - INFO - 正在爬取16/0則新聞。
+2026-07-02 02:48:07 - INFO - ✅ 成功獲取: Jogo | MGM China compra participação na Diaoyutai MGM Hospitality。
+2026-07-02 02:48:08 - INFO - 正在爬取17/0則新聞。
+2026-07-02 02:48:09 - INFO - ✅ 成功獲取: Desenvolvimento Nacional | Nomeados membros para comissão。
+2026-07-02 02:48:10 - INFO - 正在爬取18/0則新聞。
+2026-07-02 02:48:11 - INFO - ✅ 成功獲取: BRICS | Emitida dívida em Macau para apoiar projectos no Brasil。
+2026-07-02 02:48:13 - INFO - 正在爬取19/0則新聞。
+2026-07-02 02:48:13 - INFO - ✅ 成功獲取: SAFP | Leong Weng In continua como directora。
+2026-07-02 02:48:15 - INFO - 正在爬取20/0則新聞。
+2026-07-02 02:48:15 - INFO - ✅ 成功獲取: PCC | Xi exige integração de Macau no desenvolvimento nacional。
+2026-07-02 02:48:17 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-07-02 02:48:17 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/07/02。
+2026-07-02 02:48:18 - ERROR - ❌ 2026/07/02 連線失敗: 403
+2026-07-02 02:48:18 - INFO - 成功獲取 2026/07/02 數據，當日有0條新聞。
+2026-07-02 02:48:18 - WARNING - ⚠️ 當日沒有新聞。
+2026-07-02 02:48:18 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/07/02。
+2026-07-02 02:48:20 - ERROR - ❌ 2026/07/02 連線失敗: 403
+2026-07-02 02:48:20 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/07/01。
+2026-07-02 02:48:22 - ERROR - ❌ 2026/07/01 連線失敗: 403
+2026-07-02 02:48:22 - INFO - ⚠️ 當日沒有新聞。
+2026-07-02 02:48:24 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/07/02。
+2026-07-02 02:48:26 - ERROR - ❌ 2026/07/02 連線失敗: 404
+2026-07-02 02:48:27 - INFO - ✅ 成功獲取 2026/07/01 數據，當日有4條新聞。
+2026-07-02 02:48:27 - INFO - 正在爬取1/4則新聞。
+2026-07-02 02:48:29 - INFO - ✅ 成功獲取: 王英偉個人名義向澳門愛護動物協會捐20萬  助渡債務危機。
+2026-07-02 02:48:29 - INFO - 正在爬取2/4則新聞。
+2026-07-02 02:48:31 - INFO - ✅ 成功獲取: 蔡一鳳向黃有龍追逾億欠債敗訴  官指被告早獲太陽城解除債務。
+2026-07-02 02:48:31 - INFO - 正在爬取3/4則新聞。
+2026-07-02 02:48:32 - INFO - ✅ 成功獲取: 美高梅中國2000萬美元收購美高梅亞太  整合大中華酒店業務策略。
+2026-07-02 02:48:32 - INFO - 正在爬取4/4則新聞。
+2026-07-02 02:48:34 - INFO - ✅ 成功獲取: 澳門6月賭收185億創9個月新低  受世界盃影響按年跌一成二。
