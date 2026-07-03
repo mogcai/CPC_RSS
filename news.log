@@ -12030,3 +12030,54 @@
 2026-07-02 19:18:02 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/07/02。
 2026-07-02 19:18:03 - ERROR - ❌ 2026/07/02 連線失敗: 202
 2026-07-02 19:18:04 - ERROR - ❌ 2026/07/01 連線失敗: 202
+2026-07-03 02:29:55 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/07/03。
+2026-07-03 02:29:56 - INFO - 成功獲取 2026/07/03 數據，當日有18條新聞。
+2026-07-03 02:29:56 - INFO - 正在爬取1/0則新聞。
+2026-07-03 02:29:57 - INFO - ✅ 成功獲取: China | Piloto que embateu no edifício mais alto de Pequim quis suicidar-se。
+2026-07-03 02:29:59 - INFO - 正在爬取2/0則新聞。
+2026-07-03 02:30:00 - INFO - ✅ 成功獲取: Criança de 11 anos atropelou mortalmente nove monges na Tailândia。
+2026-07-03 02:30:02 - INFO - 正在爬取3/0則新聞。
+2026-07-03 02:30:02 - INFO - ✅ 成功獲取: Comércio | Pequim convida UE para nova ronda de diálogo no Outono。
+2026-07-03 02:30:04 - INFO - 正在爬取4/0則新聞。
+2026-07-03 02:30:04 - INFO - ✅ 成功獲取: Shenzhen | CR New Energy estreia-se em bolsa a subir 114% após IPO recorde。
+2026-07-03 02:30:06 - INFO - 正在爬取5/0則新聞。
+2026-07-03 02:30:07 - INFO - ✅ 成功獲取: Bolsa | Tecnológicas intensificam recompra de acções após fortes quedas。
+2026-07-03 02:30:08 - INFO - 正在爬取6/0則新聞。
+2026-07-03 02:30:09 - INFO - ✅ 成功獲取: EUA | Alibaba paga 600 milhões de dólares para encerrar processo。
+2026-07-03 02:30:10 - INFO - 正在爬取7/0則新聞。
+2026-07-03 02:30:11 - INFO - ✅ 成功獲取: O vazio na pintura e na estética chinesa。
+2026-07-03 02:30:13 - INFO - 正在爬取8/0則新聞。
+2026-07-03 02:30:13 - INFO - ✅ 成功獲取: Toi San | Projecto de casa de banho seleccionado para guia。
+2026-07-03 02:30:15 - INFO - 正在爬取9/0則新聞。
+2026-07-03 02:30:15 - INFO - ✅ 成功獲取: Casa Garden | Afonso Cabral encerra hoje programa do Mês de Portugal。
+2026-07-03 02:30:17 - INFO - 正在爬取10/0則新聞。
+2026-07-03 02:30:18 - INFO - ✅ 成功獲取: Crime | Residente detido por apostas ilegais em jogos do Mundial。
+2026-07-03 02:30:19 - INFO - 正在爬取11/0則新聞。
+2026-07-03 02:30:20 - INFO - ✅ 成功獲取: PJ | Filho detido por auxiliar tentativa de suicídio do pai。
+2026-07-03 02:30:21 - INFO - 正在爬取12/0則新聞。
+2026-07-03 02:30:22 - INFO - ✅ 成功獲取: Crime | Detido por desviar fundos para visto de residência em Portugal。
+2026-07-03 02:30:23 - INFO - 正在爬取13/0則新聞。
+2026-07-03 02:30:24 - INFO - ✅ 成功獲取: Metro Ligeiro | Junho com média mais baixa de passageiros。
+2026-07-03 02:30:25 - INFO - 正在爬取14/0則新聞。
+2026-07-03 02:30:26 - INFO - ✅ 成功獲取: Jogo | Analistas estimam que Mundial continue a afectar receitas。
+2026-07-03 02:30:28 - INFO - 正在爬取15/0則新聞。
+2026-07-03 02:30:28 - INFO - ✅ 成功獲取: Jardim das Artes | Plataforma pedonal será construída por fases。
+2026-07-03 02:30:30 - INFO - 正在爬取16/0則新聞。
+2026-07-03 02:30:30 - INFO - ✅ 成功獲取: Intercensos | DSEC reúne com associações antes de recolha de dados。
+2026-07-03 02:30:32 - INFO - 正在爬取17/0則新聞。
+2026-07-03 02:30:33 - INFO - ✅ 成功獲取: Imobiliário | Segundo trimestre com preços mais baixos em 13 anos。
+2026-07-03 02:30:34 - INFO - 正在爬取18/0則新聞。
+2026-07-03 02:30:35 - INFO - ✅ 成功獲取: Segurança nacional | Secretário promete “construir barreiras” em Macau。
+2026-07-03 02:30:36 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-07-03 02:30:36 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/07/03。
+2026-07-03 02:30:37 - ERROR - ❌ 2026/07/03 連線失敗: 403
+2026-07-03 02:30:37 - INFO - 成功獲取 2026/07/03 數據，當日有0條新聞。
+2026-07-03 02:30:37 - WARNING - ⚠️ 當日沒有新聞。
+2026-07-03 02:30:37 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/07/03。
+2026-07-03 02:30:39 - ERROR - ❌ 2026/07/03 連線失敗: 403
+2026-07-03 02:30:39 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/07/02。
+2026-07-03 02:30:41 - ERROR - ❌ 2026/07/02 連線失敗: 403
+2026-07-03 02:30:41 - INFO - ⚠️ 當日沒有新聞。
+2026-07-03 02:30:42 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/07/03。
+2026-07-03 02:30:43 - ERROR - ❌ 2026/07/03 連線失敗: 202
+2026-07-03 02:30:44 - ERROR - ❌ 2026/07/02 連線失敗: 202
