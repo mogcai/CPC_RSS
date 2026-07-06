@@ -12477,3 +12477,44 @@
 2026-07-06 15:21:52 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/07/06。
 2026-07-06 15:21:53 - ERROR - ❌ 2026/07/06 連線失敗: 202
 2026-07-06 15:21:54 - ERROR - ❌ 2026/07/05 連線失敗: 202
+2026-07-06 19:49:16 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/07/06。
+2026-07-06 19:49:17 - INFO - 成功獲取 2026/07/06 數據，當日有13條新聞。
+2026-07-06 19:49:17 - INFO - 正在爬取1/0則新聞。
+2026-07-06 19:49:18 - INFO - ✅ 成功獲取: Aliança do Povo | Pedida solução para edifícios sem administração。
+2026-07-06 19:49:20 - INFO - 正在爬取2/0則新聞。
+2026-07-06 19:49:20 - INFO - ✅ 成功獲取: Comerciantes querem esplanadas na Praia de Hac Sá。
+2026-07-06 19:49:22 - INFO - 正在爬取3/0則新聞。
+2026-07-06 19:49:22 - INFO - ✅ 成功獲取: Exames nacionais de Portugal com atrasos e novas datas。
+2026-07-06 19:49:24 - INFO - 正在爬取4/0則新聞。
+2026-07-06 19:49:24 - INFO - ✅ 成功獲取: Jogo | Dependência económica traz “riscos estruturais” para a China。
+2026-07-06 19:49:26 - INFO - 正在爬取5/0則新聞。
+2026-07-06 19:49:27 - INFO - ✅ 成功獲取: Justiça | Senador pró-Duterte acusado de corrupção nas Filipinas。
+2026-07-06 19:49:28 - INFO - 正在爬取6/0則新聞。
+2026-07-06 19:49:29 - INFO - ✅ 成功獲取: Exposição comemora 90º aniversário do nascimento de Mio Pang Fei。
+2026-07-06 19:49:30 - INFO - 正在爬取7/0則新聞。
+2026-07-06 19:49:31 - INFO - ✅ 成功獲取: TUI dá razão ao Governo sobre concessão de terreno na Zona Norte。
+2026-07-06 19:49:32 - INFO - 正在爬取8/0則新聞。
+2026-07-06 19:49:33 - INFO - ✅ 成功獲取: Exercícios militares conjuntos com a Rússia marcados para este mês。
+2026-07-06 19:49:35 - INFO - 正在爬取9/0則新聞。
+2026-07-06 19:49:35 - INFO - ✅ 成功獲取: LÁ PASSARAM。
+2026-07-06 19:49:37 - INFO - 正在爬取10/0則新聞。
+2026-07-06 19:49:37 - INFO - ✅ 成功獲取: Justiça | Rita Santos pondera avançar judicialmente contra membros do PS。
+2026-07-06 19:49:39 - INFO - 正在爬取11/0則新聞。
+2026-07-06 19:49:40 - INFO - ✅ 成功獲取: Félix da Costa sem pontos em Xangai, mas na luta pelo título na Fórmula E。
+2026-07-06 19:49:41 - INFO - 正在爬取12/0則新聞。
+2026-07-06 19:49:42 - INFO - ✅ 成功獲取: Plano director | Primeira sessão de consulta pública acontece amanhã。
+2026-07-06 19:49:43 - INFO - 正在爬取13/0則新聞。
+2026-07-06 19:49:44 - INFO - ✅ 成功獲取: Metro Ligeiro | Maioria concorda com extensão da Linha de Seac Pai Van。
+2026-07-06 19:49:45 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-07-06 19:49:46 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/07/06。
+2026-07-06 19:49:46 - ERROR - ❌ 2026/07/06 連線失敗: 403
+2026-07-06 19:49:46 - INFO - 成功獲取 2026/07/06 數據，當日有0條新聞。
+2026-07-06 19:49:46 - WARNING - ⚠️ 當日沒有新聞。
+2026-07-06 19:49:46 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/07/06。
+2026-07-06 19:49:48 - ERROR - ❌ 2026/07/06 連線失敗: 403
+2026-07-06 19:49:48 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/07/05。
+2026-07-06 19:49:50 - ERROR - ❌ 2026/07/05 連線失敗: 403
+2026-07-06 19:49:50 - INFO - ⚠️ 當日沒有新聞。
+2026-07-06 19:49:52 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/07/06。
+2026-07-06 19:49:53 - ERROR - ❌ 2026/07/06 連線失敗: 202
+2026-07-06 19:49:54 - ERROR - ❌ 2026/07/05 連線失敗: 202
