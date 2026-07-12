@@ -13308,3 +13308,44 @@
 2026-07-12 08:09:12 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/07/12。
 2026-07-12 08:09:13 - ERROR - ❌ 2026/07/12 連線失敗: 404
 2026-07-12 08:09:15 - ERROR - ❌ 2026/07/11 連線失敗: 404
+2026-07-12 13:08:21 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/07/12。
+2026-07-12 13:08:22 - INFO - 成功獲取 2026/07/12 數據，當日有13條新聞。
+2026-07-12 13:08:22 - INFO - 正在爬取1/0則新聞。
+2026-07-12 13:08:23 - INFO - ✅ 成功獲取: Uma cidade dilacerada e uma cidade de harmonia。
+2026-07-12 13:08:24 - INFO - 正在爬取2/0則新聞。
+2026-07-12 13:08:25 - INFO - ✅ 成功獲取: Timor-Leste | Comunidade portuguesa pede médico e enfermeiro。
+2026-07-12 13:08:26 - INFO - 正在爬取3/0則新聞。
+2026-07-12 13:08:27 - INFO - ✅ 成功獲取: Interpol | Detidas 5.800 pessoas ligadas a fraudes。
+2026-07-12 13:08:29 - INFO - 正在爬取4/0則新聞。
+2026-07-12 13:08:29 - INFO - ✅ 成功獲取: Cuba | China pede “fim imediato” do bloqueio dos Estados Unidos。
+2026-07-12 13:08:31 - INFO - 正在爬取5/0則新聞。
+2026-07-12 13:08:31 - INFO - ✅ 成功獲取: Tempestades | Pequim distribui milhões em novos apoios para zonas afectadas。
+2026-07-12 13:08:33 - INFO - 正在爬取6/0則新聞。
+2026-07-12 13:08:33 - INFO - ✅ 成功獲取: Homem detido devido a transacções fictícias。
+2026-07-12 13:08:35 - INFO - 正在爬取7/0則新聞。
+2026-07-12 13:08:36 - INFO - ✅ 成功獲取: DSAT | Recebidas 47 propostas para licenças para 700 táxis novos。
+2026-07-12 13:08:37 - INFO - 正在爬取8/0則新聞。
+2026-07-12 13:08:38 - INFO - ✅ 成功獲取: Atropelamentos | DSAT prepara mais passagens aéreas pedonais。
+2026-07-12 13:08:39 - INFO - 正在爬取9/0則新聞。
+2026-07-12 13:08:40 - INFO - ✅ 成功獲取: Filmes de Basil da Cunha e Edgar Pêra seleccionados para o Festival de Locarno。
+2026-07-12 13:08:41 - INFO - 正在爬取10/0則新聞。
+2026-07-12 13:08:42 - INFO - ✅ 成功獲取: Cooperação | UPM e UTM criam empresa conjunta para investir em Hengqin。
+2026-07-12 13:08:43 - INFO - 正在爬取11/0則新聞。
+2026-07-12 13:08:44 - INFO - ✅ 成功獲取: Concerto | Belle and Sebastian regressam a Hong Kong em Outubro。
+2026-07-12 13:08:46 - INFO - 正在爬取12/0則新聞。
+2026-07-12 13:08:46 - INFO - ✅ 成功獲取: Wu Zhiliang afirma que sistema eleitoral de Macau teve evolução positiva até 1999。
+2026-07-12 13:08:48 - INFO - 正在爬取13/0則新聞。
+2026-07-12 13:08:48 - INFO - ✅ 成功獲取: Segurança Nacional | Anunciado que Au Kam San vai a julgamento。
+2026-07-12 13:08:50 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-07-12 13:08:50 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/07/12。
+2026-07-12 13:08:51 - ERROR - ❌ 2026/07/12 連線失敗: 403
+2026-07-12 13:08:51 - INFO - 成功獲取 2026/07/12 數據，當日有0條新聞。
+2026-07-12 13:08:51 - WARNING - ⚠️ 當日沒有新聞。
+2026-07-12 13:08:51 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/07/12。
+2026-07-12 13:08:53 - ERROR - ❌ 2026/07/12 連線失敗: 403
+2026-07-12 13:08:53 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/07/11。
+2026-07-12 13:08:55 - ERROR - ❌ 2026/07/11 連線失敗: 403
+2026-07-12 13:08:55 - INFO - ⚠️ 當日沒有新聞。
+2026-07-12 13:08:57 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/07/12。
+2026-07-12 13:08:58 - ERROR - ❌ 2026/07/12 連線失敗: 202
+2026-07-12 13:08:59 - ERROR - ❌ 2026/07/11 連線失敗: 202
