@@ -13405,3 +13405,46 @@
 2026-07-13 02:14:34 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/07/13。
 2026-07-13 02:14:37 - ERROR - ❌ 2026/07/13 連線失敗: 404
 2026-07-13 02:14:40 - ERROR - ❌ 2026/07/12 連線失敗: 404
+2026-07-13 08:58:41 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/07/13。
+2026-07-13 08:58:42 - INFO - 成功獲取 2026/07/13 數據，當日有14條新聞。
+2026-07-13 08:58:42 - INFO - 正在爬取1/0則新聞。
+2026-07-13 08:58:42 - INFO - ✅ 成功獲取: Pequim reitera ilegalidade de decisão arbitral sobre mar do Sul da China。
+2026-07-13 08:58:44 - INFO - 正在爬取2/0則新聞。
+2026-07-13 08:58:44 - INFO - ✅ 成功獲取: China-Coreia do Norte | Xi Jinping e Kim Jong-un sublinham solidez dos laços bilaterais。
+2026-07-13 08:58:46 - INFO - 正在爬取3/0則新聞。
+2026-07-13 08:58:46 - INFO - ✅ 成功獲取: Desporto | Preparadores físicos portugueses ganham espaço。
+2026-07-13 08:58:48 - INFO - 正在爬取4/0則新聞。
+2026-07-13 08:58:48 - INFO - ✅ 成功獲取: Nova Revista de Cultura lançada com tema “Filosofia Natural”。
+2026-07-13 08:58:50 - INFO - 正在爬取5/0則新聞。
+2026-07-13 08:58:50 - INFO - ✅ 成功獲取: Fórum de Macau | Semana Cultural levou ritmos lusófonos a Pequim。
+2026-07-13 08:58:51 - INFO - 正在爬取6/0則新聞。
+2026-07-13 08:58:52 - INFO - ✅ 成功獲取: Lisboa | Esculturas de Bowie Lio na Galeria Arte Periférica, no CCB, até 22 de Julho。
+2026-07-13 08:58:53 - INFO - 正在爬取7/0則新聞。
+2026-07-13 08:58:54 - INFO - ✅ 成功獲取: Casinos | Associação apela a mais formação para prevenir transmissões。
+2026-07-13 08:58:55 - INFO - 正在爬取8/0則新聞。
+2026-07-13 08:58:56 - INFO - ✅ 成功獲取: Caso das Saunas | PJ anuncia detenção de mais um agente aposentado。
+2026-07-13 08:58:57 - INFO - 正在爬取9/0則新聞。
+2026-07-13 08:58:58 - INFO - ✅ 成功獲取: Coreia do Sul emite alerta de calor extremo pela primeira vez。
+2026-07-13 08:58:59 - INFO - 正在爬取10/0則新聞。
+2026-07-13 08:58:59 - INFO - ✅ 成功獲取: Docentes universitários de Timor-Leste formados em Macau。
+2026-07-13 08:59:01 - INFO - 正在爬取11/0則新聞。
+2026-07-13 08:59:01 - INFO - ✅ 成功獲取: ai, portugal, portugal。
+2026-07-13 08:59:03 - INFO - 正在爬取12/0則新聞。
+2026-07-13 08:59:03 - INFO - ✅ 成功獲取: Países hispânicos | Macau é “largamente desconhecido”。
+2026-07-13 08:59:05 - INFO - 正在爬取13/0則新聞。
+2026-07-13 08:59:05 - INFO - ✅ 成功獲取: CPLP/30 anos| Brasil diz que português é questão de soberania na era da IA。
+2026-07-13 08:59:07 - INFO - 正在爬取14/0則新聞。
+2026-07-13 08:59:07 - INFO - ✅ 成功獲取: Desastres Naturais | Governo reúne para exigir melhor preparação。
+2026-07-13 08:59:09 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-07-13 08:59:09 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/07/13。
+2026-07-13 08:59:09 - ERROR - ❌ 2026/07/13 連線失敗: 403
+2026-07-13 08:59:09 - INFO - 成功獲取 2026/07/13 數據，當日有0條新聞。
+2026-07-13 08:59:09 - WARNING - ⚠️ 當日沒有新聞。
+2026-07-13 08:59:09 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/07/13。
+2026-07-13 08:59:11 - ERROR - ❌ 2026/07/13 連線失敗: 403
+2026-07-13 08:59:11 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/07/12。
+2026-07-13 08:59:13 - ERROR - ❌ 2026/07/12 連線失敗: 403
+2026-07-13 08:59:13 - INFO - ⚠️ 當日沒有新聞。
+2026-07-13 08:59:15 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/07/13。
+2026-07-13 08:59:16 - ERROR - ❌ 2026/07/13 連線失敗: 202
+2026-07-13 08:59:17 - ERROR - ❌ 2026/07/12 連線失敗: 202
