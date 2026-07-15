@@ -13804,3 +13804,44 @@
 2026-07-15 07:59:21 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/07/15。
 2026-07-15 07:59:23 - ERROR - ❌ 2026/07/15 連線失敗: 202
 2026-07-15 07:59:24 - ERROR - ❌ 2026/07/14 連線失敗: 202
+2026-07-15 13:25:31 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/07/15。
+2026-07-15 13:25:32 - INFO - 成功獲取 2026/07/15 數據，當日有13條新聞。
+2026-07-15 13:25:32 - INFO - 正在爬取1/0則新聞。
+2026-07-15 13:25:32 - INFO - ✅ 成功獲取: Do oficial prussiano。
+2026-07-15 13:25:34 - INFO - 正在爬取2/0則新聞。
+2026-07-15 13:25:34 - INFO - ✅ 成功獲取: Banguecoque | Maioria das vítimas de incêndio em bar presa em WC。
+2026-07-15 13:25:36 - INFO - 正在爬取3/0則新聞。
+2026-07-15 13:25:36 - INFO - ✅ 成功獲取: Físico quântico chinês recebe maior distinção da ONU para as ciências básicas。
+2026-07-15 13:25:38 - INFO - 正在爬取4/0則新聞。
+2026-07-15 13:25:38 - INFO - ✅ 成功獲取: Economia | Exportados mais de um milhão de automóveis em Junho。
+2026-07-15 13:25:40 - INFO - 正在爬取5/0則新聞。
+2026-07-15 13:25:40 - INFO - ✅ 成功獲取: FRC | Conferência abre hoje discussão sobre densidade urbana de Macau。
+2026-07-15 13:25:42 - INFO - 正在爬取6/0則新聞。
+2026-07-15 13:25:42 - INFO - ✅ 成功獲取: Supermercados | Snacks coreanos retirados após alerta irlandês。
+2026-07-15 13:25:43 - INFO - 正在爬取7/0則新聞。
+2026-07-15 13:25:44 - INFO - ✅ 成功獲取: Hepatite | Testes anónimos e gratuitos nos Três Candeeiros。
+2026-07-15 13:25:45 - INFO - 正在爬取8/0則新聞。
+2026-07-15 13:25:46 - INFO - ✅ 成功獲取: Cooperação | Académico diz que CPLP não se afirma junto da China。
+2026-07-15 13:25:47 - INFO - 正在爬取9/0則新聞。
+2026-07-15 13:25:48 - INFO - ✅ 成功獲取: Hengqin | IAS vai aumentar apoio às famílias。
+2026-07-15 13:25:49 - INFO - 正在爬取10/0則新聞。
+2026-07-15 13:25:50 - INFO - ✅ 成功獲取: Guangdong | Ex-governador e ex-líder de Henqgin expulso do PCC。
+2026-07-15 13:25:51 - INFO - 正在爬取11/0則新聞。
+2026-07-15 13:25:51 - INFO - ✅ 成功獲取: Iao Hon | Efectuada inspecção a instalações eléctricas em edifícios degradados。
+2026-07-15 13:25:53 - INFO - 正在爬取12/0則新聞。
+2026-07-15 13:25:53 - INFO - ✅ 成功獲取: Habitação | Leong Hong Sai quer mais medidas para reparar edifícios。
+2026-07-15 13:25:55 - INFO - 正在爬取13/0則新聞。
+2026-07-15 13:25:55 - INFO - ✅ 成功獲取: Cheias | Chan quer prevenção de acordo com “importantes instruções” de Xi。
+2026-07-15 13:25:57 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-07-15 13:25:57 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/07/15。
+2026-07-15 13:25:57 - ERROR - ❌ 2026/07/15 連線失敗: 403
+2026-07-15 13:25:57 - INFO - 成功獲取 2026/07/15 數據，當日有0條新聞。
+2026-07-15 13:25:57 - WARNING - ⚠️ 當日沒有新聞。
+2026-07-15 13:25:57 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/07/15。
+2026-07-15 13:26:00 - ERROR - ❌ 2026/07/15 連線失敗: 403
+2026-07-15 13:26:00 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/07/14。
+2026-07-15 13:26:02 - ERROR - ❌ 2026/07/14 連線失敗: 403
+2026-07-15 13:26:02 - INFO - ⚠️ 當日沒有新聞。
+2026-07-15 13:26:04 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/07/15。
+2026-07-15 13:26:05 - ERROR - ❌ 2026/07/15 連線失敗: 202
+2026-07-15 13:26:06 - ERROR - ❌ 2026/07/14 連線失敗: 202
