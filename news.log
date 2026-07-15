@@ -13845,3 +13845,52 @@
 2026-07-15 13:26:04 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/07/15。
 2026-07-15 13:26:05 - ERROR - ❌ 2026/07/15 連線失敗: 202
 2026-07-15 13:26:06 - ERROR - ❌ 2026/07/14 連線失敗: 202
+2026-07-15 19:03:08 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/07/15。
+2026-07-15 19:03:09 - INFO - 成功獲取 2026/07/15 數據，當日有13條新聞。
+2026-07-15 19:03:09 - INFO - 正在爬取1/0則新聞。
+2026-07-15 19:03:09 - INFO - ✅ 成功獲取: Do oficial prussiano。
+2026-07-15 19:03:11 - INFO - 正在爬取2/0則新聞。
+2026-07-15 19:03:11 - INFO - ✅ 成功獲取: Banguecoque | Maioria das vítimas de incêndio em bar presa em WC。
+2026-07-15 19:03:13 - INFO - 正在爬取3/0則新聞。
+2026-07-15 19:03:13 - INFO - ✅ 成功獲取: Físico quântico chinês recebe maior distinção da ONU para as ciências básicas。
+2026-07-15 19:03:15 - INFO - 正在爬取4/0則新聞。
+2026-07-15 19:03:15 - INFO - ✅ 成功獲取: Economia | Exportados mais de um milhão de automóveis em Junho。
+2026-07-15 19:03:16 - INFO - 正在爬取5/0則新聞。
+2026-07-15 19:03:17 - INFO - ✅ 成功獲取: FRC | Conferência abre hoje discussão sobre densidade urbana de Macau。
+2026-07-15 19:03:18 - INFO - 正在爬取6/0則新聞。
+2026-07-15 19:03:19 - INFO - ✅ 成功獲取: Supermercados | Snacks coreanos retirados após alerta irlandês。
+2026-07-15 19:03:20 - INFO - 正在爬取7/0則新聞。
+2026-07-15 19:03:21 - INFO - ✅ 成功獲取: Hepatite | Testes anónimos e gratuitos nos Três Candeeiros。
+2026-07-15 19:03:22 - INFO - 正在爬取8/0則新聞。
+2026-07-15 19:03:23 - INFO - ✅ 成功獲取: Cooperação | Académico diz que CPLP não se afirma junto da China。
+2026-07-15 19:03:24 - INFO - 正在爬取9/0則新聞。
+2026-07-15 19:03:24 - INFO - ✅ 成功獲取: Hengqin | IAS vai aumentar apoio às famílias。
+2026-07-15 19:03:26 - INFO - 正在爬取10/0則新聞。
+2026-07-15 19:03:26 - INFO - ✅ 成功獲取: Guangdong | Ex-governador e ex-líder de Henqgin expulso do PCC。
+2026-07-15 19:03:28 - INFO - 正在爬取11/0則新聞。
+2026-07-15 19:03:28 - INFO - ✅ 成功獲取: Iao Hon | Efectuada inspecção a instalações eléctricas em edifícios degradados。
+2026-07-15 19:03:30 - INFO - 正在爬取12/0則新聞。
+2026-07-15 19:03:30 - INFO - ✅ 成功獲取: Habitação | Leong Hong Sai quer mais medidas para reparar edifícios。
+2026-07-15 19:03:32 - INFO - 正在爬取13/0則新聞。
+2026-07-15 19:03:32 - INFO - ✅ 成功獲取: Cheias | Chan quer prevenção de acordo com “importantes instruções” de Xi。
+2026-07-15 19:03:34 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-07-15 19:03:34 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/07/15。
+2026-07-15 19:03:34 - ERROR - ❌ 2026/07/15 連線失敗: 403
+2026-07-15 19:03:34 - INFO - 成功獲取 2026/07/15 數據，當日有0條新聞。
+2026-07-15 19:03:34 - WARNING - ⚠️ 當日沒有新聞。
+2026-07-15 19:03:34 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/07/15。
+2026-07-15 19:03:36 - ERROR - ❌ 2026/07/15 連線失敗: 403
+2026-07-15 19:03:36 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/07/14。
+2026-07-15 19:03:38 - ERROR - ❌ 2026/07/14 連線失敗: 403
+2026-07-15 19:03:38 - INFO - ⚠️ 當日沒有新聞。
+2026-07-15 19:03:40 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/07/15。
+2026-07-15 19:03:42 - INFO - ✅ 成功獲取 2026/07/15 數據，當日有2條新聞。
+2026-07-15 19:03:44 - INFO - ✅ 成功獲取 2026/07/14 數據，當日有4條新聞。
+2026-07-15 19:03:44 - INFO - 正在爬取1/4則新聞。
+2026-07-15 19:03:46 - INFO - ✅ 成功獲取: 南韓賭場基本面超澳門 劵商預測市盈率降至10.4倍 投注額大增14%。
+2026-07-15 19:03:46 - INFO - 正在爬取2/4則新聞。
+2026-07-15 19:03:48 - INFO - ✅ 成功獲取: 澳娛綜合升級「休」遊巴士助力社區經濟  暑假加推周五班次。
+2026-07-15 19:03:48 - INFO - 正在爬取3/4則新聞。
+2026-07-15 19:03:50 - INFO - ✅ 成功獲取: 世界盃近尾聲花旗料澳門賭收持續復甦  維持7月210億預測。
+2026-07-15 19:03:50 - INFO - 正在爬取4/4則新聞。
+2026-07-15 19:03:52 - INFO - ✅ 成功獲取: 柬埔寨上半年驅4.2萬外國人出境  1.5萬人涉電信網絡詐騙。
