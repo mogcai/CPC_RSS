@@ -13909,3 +13909,50 @@
 2026-07-16 02:07:21 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/07/16。
 2026-07-16 02:07:22 - ERROR - ❌ 2026/07/16 連線失敗: 202
 2026-07-16 02:07:24 - ERROR - ❌ 2026/07/15 連線失敗: 202
+2026-07-16 08:03:53 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/07/16。
+2026-07-16 08:03:54 - INFO - 成功獲取 2026/07/16 數據，當日有12條新聞。
+2026-07-16 08:03:54 - INFO - 正在爬取1/0則新聞。
+2026-07-16 08:03:54 - INFO - ✅ 成功獲取: Taiwan | Tríade de Hong Kong suspeita de ataque a analista japonês。
+2026-07-16 08:03:56 - INFO - 正在爬取2/0則新聞。
+2026-07-16 08:03:56 - INFO - ✅ 成功獲取: Inclusão de yuan nas reservas obrigatórias angolanas significa maturidade das relações。
+2026-07-16 08:03:58 - INFO - 正在爬取3/0則新聞。
+2026-07-16 08:03:58 - INFO - ✅ 成功獲取: O umbral da desordem mundial (III)。
+2026-07-16 08:04:00 - INFO - 正在爬取4/0則新聞。
+2026-07-16 08:04:00 - INFO - ✅ 成功獲取: Detidos 28 cidadãos estrangeiros em Díli suspeitos de actividade ilegal ‘online’。
+2026-07-16 08:04:02 - INFO - 正在爬取5/0則新聞。
+2026-07-16 08:04:02 - INFO - ✅ 成功獲取: ONU | Conselho de Segurança prolonga exigência de relatórios sobre ataques Huthis。
+2026-07-16 08:04:04 - INFO - 正在爬取6/0則新聞。
+2026-07-16 08:04:04 - INFO - ✅ 成功獲取: Teatro | Peça para bebés é mote para apresentação de produções locais。
+2026-07-16 08:04:06 - INFO - 正在爬取7/0則新聞。
+2026-07-16 08:04:06 - INFO - ✅ 成功獲取: Camião betoneira perde controlo e embate em talude na Taipa Grande。
+2026-07-16 08:04:08 - INFO - 正在爬取8/0則新聞。
+2026-07-16 08:04:08 - INFO - ✅ 成功獲取: Turismo | Sector acha insuficiente quatro guias a falar português。
+2026-07-16 08:04:09 - INFO - 正在爬取9/0則新聞。
+2026-07-16 08:04:10 - INFO - ✅ 成功獲取: Aperfeiçoamento contínuo | Detectado mais um suspeito em caso de burla。
+2026-07-16 08:04:11 - INFO - 正在爬取10/0則新聞。
+2026-07-16 08:04:12 - INFO - ✅ 成功獲取: Junkets | Mantido limite máximo de 50 promotores de jogo。
+2026-07-16 08:04:13 - INFO - 正在爬取11/0則新聞。
+2026-07-16 08:04:14 - INFO - ✅ 成功獲取: Habitação pública | Aberto concurso para arrendar 25 lojas com “desconto”。
+2026-07-16 08:04:15 - INFO - 正在爬取12/0則新聞。
+2026-07-16 08:04:16 - INFO - ✅ 成功獲取: Futebol | Novos estatutos com China no nome e sem versão portuguesa。
+2026-07-16 08:04:17 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-07-16 08:04:17 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/07/16。
+2026-07-16 08:04:18 - ERROR - ❌ 2026/07/16 連線失敗: 403
+2026-07-16 08:04:18 - INFO - 成功獲取 2026/07/16 數據，當日有0條新聞。
+2026-07-16 08:04:18 - WARNING - ⚠️ 當日沒有新聞。
+2026-07-16 08:04:18 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/07/16。
+2026-07-16 08:04:20 - ERROR - ❌ 2026/07/16 連線失敗: 403
+2026-07-16 08:04:20 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/07/15。
+2026-07-16 08:04:22 - ERROR - ❌ 2026/07/15 連線失敗: 403
+2026-07-16 08:04:22 - INFO - ⚠️ 當日沒有新聞。
+2026-07-16 08:04:24 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/07/16。
+2026-07-16 08:04:26 - INFO - ✅ 成功獲取 2026/07/16 數據，當日有2條新聞。
+2026-07-16 08:04:28 - INFO - ✅ 成功獲取 2026/07/15 數據，當日有4條新聞。
+2026-07-16 08:04:28 - INFO - 正在爬取1/4則新聞。
+2026-07-16 08:04:30 - INFO - ✅ 成功獲取: Alliance Global完成馬尼拉新港世界度假村全部股份收購。
+2026-07-16 08:04:30 - INFO - 正在爬取2/4則新聞。
+2026-07-16 08:04:32 - INFO - ✅ 成功獲取: 大行看淡澳門博企Q2業績 預測普遍低於市場同業。
+2026-07-16 08:04:32 - INFO - 正在爬取3/4則新聞。
+2026-07-16 08:04:34 - INFO - ✅ 成功獲取: 南韓劵商指當地賭場基本面優於澳門  預測市盈率降至10.4倍。
+2026-07-16 08:04:34 - INFO - 正在爬取4/4則新聞。
+2026-07-16 08:04:36 - INFO - ✅ 成功獲取: 澳娛綜合升級「休」遊巴士助力社區經濟  暑假加推周五班次。
