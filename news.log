@@ -14260,3 +14260,46 @@
 2026-07-19 08:08:36 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/07/19。
 2026-07-19 08:08:38 - ERROR - ❌ 2026/07/19 連線失敗: 404
 2026-07-19 08:08:40 - ERROR - ❌ 2026/07/18 連線失敗: 404
+2026-07-19 13:05:21 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/07/19。
+2026-07-19 13:05:22 - INFO - 成功獲取 2026/07/19 數據，當日有14條新聞。
+2026-07-19 13:05:22 - INFO - 正在爬取1/0則新聞。
+2026-07-19 13:05:22 - INFO - ✅ 成功獲取: Pavilhão Criativo de Macau presente em exposição em Xangai。
+2026-07-19 13:05:24 - INFO - 正在爬取2/0則新聞。
+2026-07-19 13:05:24 - INFO - ✅ 成功獲取: Musical | “Frankenstein” renasce em coreano a 25 e 26 de Julho no Broadway。
+2026-07-19 13:05:26 - INFO - 正在爬取3/0則新聞。
+2026-07-19 13:05:26 - INFO - ✅ 成功獲取: Importações | Mercado africano em alta após isenção de tarifas。
+2026-07-19 13:05:28 - INFO - 正在爬取4/0則新聞。
+2026-07-19 13:05:28 - INFO - ✅ 成功獲取: DICJ |Pedida mais vigilância face a apostas por telefone。
+2026-07-19 13:05:30 - INFO - 正在爬取5/0則新聞。
+2026-07-19 13:05:30 - INFO - ✅ 成功獲取: Segurança | Crimes relacionados com jogo aumentaram 12%。
+2026-07-19 13:05:31 - INFO - 正在爬取6/0則新聞。
+2026-07-19 13:05:32 - INFO - ✅ 成功獲取: Timor-Leste | Presidência da CPLP depende do “conselho consultivo”。
+2026-07-19 13:05:33 - INFO - 正在爬取7/0則新聞。
+2026-07-19 13:05:34 - INFO - ✅ 成功獲取: CCAC | Burla com subsídios gerou ganhos de 13 milhões。
+2026-07-19 13:05:35 - INFO - 正在爬取8/0則新聞。
+2026-07-19 13:05:36 - INFO - ✅ 成功獲取: GP | Duas equipas de Macau nas Taças do Mundo de FR e F4。
+2026-07-19 13:05:37 - INFO - 正在爬取9/0則新聞。
+2026-07-19 13:05:38 - INFO - ✅ 成功獲取: Filipa Vaz da Fonseca e Ricardo Quintas vão reforçar tribunais。
+2026-07-19 13:05:39 - INFO - 正在爬取10/0則新聞。
+2026-07-19 13:05:40 - INFO - ✅ 成功獲取: Porto Interior | Cerca de 1,5 toneladas de gordura retirada dos esgotos。
+2026-07-19 13:05:41 - INFO - 正在爬取11/0則新聞。
+2026-07-19 13:05:41 - INFO - ✅ 成功獲取: Quando sopra o vento suão。
+2026-07-19 13:05:43 - INFO - 正在爬取12/0則新聞。
+2026-07-19 13:05:43 - INFO - ✅ 成功獲取: MNE organiza cursos para alargar visão internacional。
+2026-07-19 13:05:45 - INFO - 正在爬取13/0則新聞。
+2026-07-19 13:05:45 - INFO - ✅ 成功獲取: Meta é transmitir “gene vermelho”。
+2026-07-19 13:05:47 - INFO - 正在爬取14/0則新聞。
+2026-07-19 13:05:47 - INFO - ✅ 成功獲取: EUA e Trump vistos de forma mais negativa do que China e Xi em 25 países – estudo。
+2026-07-19 13:05:49 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-07-19 13:05:49 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/07/19。
+2026-07-19 13:05:49 - ERROR - ❌ 2026/07/19 連線失敗: 403
+2026-07-19 13:05:49 - INFO - 成功獲取 2026/07/19 數據，當日有0條新聞。
+2026-07-19 13:05:49 - WARNING - ⚠️ 當日沒有新聞。
+2026-07-19 13:05:49 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/07/19。
+2026-07-19 13:05:51 - ERROR - ❌ 2026/07/19 連線失敗: 403
+2026-07-19 13:05:51 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/07/18。
+2026-07-19 13:05:53 - ERROR - ❌ 2026/07/18 連線失敗: 403
+2026-07-19 13:05:53 - INFO - ⚠️ 當日沒有新聞。
+2026-07-19 13:05:55 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/07/19。
+2026-07-19 13:05:57 - ERROR - ❌ 2026/07/19 連線失敗: 202
+2026-07-19 13:05:57 - ERROR - ❌ 2026/07/18 連線失敗: 202
