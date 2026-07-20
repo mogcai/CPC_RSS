@@ -14408,3 +14408,52 @@
 2026-07-20 08:49:58 - ERROR - ❌ 2026/07/19 連線失敗: 404
 2026-07-20 08:49:58 - INFO - 正在爬取1/1則新聞。
 2026-07-20 08:50:00 - INFO - ✅ 成功獲取: 銀娛世界盃期間推負責任博彩計劃 向團隊及社區推廣理性娛樂。
+2026-07-20 13:54:55 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/07/20。
+2026-07-20 13:54:56 - INFO - 成功獲取 2026/07/20 數據，當日有15條新聞。
+2026-07-20 13:54:56 - INFO - 正在爬取1/0則新聞。
+2026-07-20 13:54:57 - INFO - ✅ 成功獲取: “As Espantosas e Curiosas Viagens: As Bonecas Viajantes”, a partir de amanhã na FRC。
+2026-07-20 13:54:58 - INFO - 正在爬取2/0則新聞。
+2026-07-20 13:54:59 - INFO - ✅ 成功獲取: Festival Juvenil de Dança | Mais de 800 bailarinos de 33 grupos dão ritmo à cidade。
+2026-07-20 13:55:00 - INFO - 正在爬取3/0則新聞。
+2026-07-20 13:55:01 - INFO - ✅ 成功獲取: Jogo VIP | Mercado com queda trimestral de 18,8%。
+2026-07-20 13:55:02 - INFO - 正在爬取4/0則新聞。
+2026-07-20 13:55:03 - INFO - ✅ 成功獲取: Turismo | Subida de 9% para 20,9 milhões no primeiro semestre。
+2026-07-20 13:55:04 - INFO - 正在爬取5/0則新聞。
+2026-07-20 13:55:05 - INFO - ✅ 成功獲取: Hotelaria | Prevista taxa de ocupação de 90% no Verão。
+2026-07-20 13:55:06 - INFO - 正在爬取6/0則新聞。
+2026-07-20 13:55:07 - INFO - ✅ 成功獲取: Guterres agradece a Xi Jinping “apoio consistente” da China ao multilateralismo e à ONU。
+2026-07-20 13:55:08 - INFO - 正在爬取7/0則新聞。
+2026-07-20 13:55:09 - INFO - ✅ 成功獲取: Hong Kong | China saúda EUA por restaurarem privilégios comerciais。
+2026-07-20 13:55:10 - INFO - 正在爬取8/0則新聞。
+2026-07-20 13:55:11 - INFO - ✅ 成功獲取: Activista indiano levado para hospital após 20 dias de greve de fome。
+2026-07-20 13:55:12 - INFO - 正在爬取9/0則新聞。
+2026-07-20 13:55:13 - INFO - ✅ 成功獲取: PJ | Mulher detida por extorsão após relação sexual。
+2026-07-20 13:55:14 - INFO - 正在爬取10/0則新聞。
+2026-07-20 13:55:15 - INFO - ✅ 成功獲取: No melhor pano cai a nódoa。
+2026-07-20 13:55:16 - INFO - 正在爬取11/0則新聞。
+2026-07-20 13:55:17 - INFO - ✅ 成功獲取: Habitação | Junho com mais transacções e preços mais altos。
+2026-07-20 13:55:18 - INFO - 正在爬取12/0則新聞。
+2026-07-20 13:55:19 - INFO - ✅ 成功獲取: Banguecoque | Numéro de mortos em incêndio de bar sobe para 34。
+2026-07-20 13:55:20 - INFO - 正在爬取13/0則新聞。
+2026-07-20 13:55:21 - INFO - ✅ 成功獲取: Nova Iorque | Mamdani reafirma hipótese de deter Netanyahu。
+2026-07-20 13:55:22 - INFO - 正在爬取14/0則新聞。
+2026-07-20 13:55:23 - INFO - ✅ 成功獲取: DSAL | Feira de emprego com 1.600 vagas para recém-licenciados。
+2026-07-20 13:55:24 - INFO - 正在爬取15/0則新聞。
+2026-07-20 13:55:25 - INFO - ✅ 成功獲取: CPLP | Ji Xianzheng defende papel de Fórum de Macau。
+2026-07-20 13:55:26 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-07-20 13:55:26 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/07/20。
+2026-07-20 13:55:27 - ERROR - ❌ 2026/07/20 連線失敗: 403
+2026-07-20 13:55:27 - INFO - 成功獲取 2026/07/20 數據，當日有0條新聞。
+2026-07-20 13:55:27 - WARNING - ⚠️ 當日沒有新聞。
+2026-07-20 13:55:27 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/07/20。
+2026-07-20 13:55:29 - ERROR - ❌ 2026/07/20 連線失敗: 403
+2026-07-20 13:55:29 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/07/19。
+2026-07-20 13:55:31 - ERROR - ❌ 2026/07/19 連線失敗: 403
+2026-07-20 13:55:31 - INFO - ⚠️ 當日沒有新聞。
+2026-07-20 13:55:33 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/07/20。
+2026-07-20 13:55:35 - INFO - ✅ 成功獲取 2026/07/20 數據，當日有2條新聞。
+2026-07-20 13:55:37 - ERROR - ❌ 2026/07/19 連線失敗: 404
+2026-07-20 13:55:37 - INFO - 正在爬取1/2則新聞。
+2026-07-20 13:55:39 - INFO - ✅ 成功獲取: 銀娛世界盃期間推負責任博彩計劃 向團隊及社區推廣理性娛樂。
+2026-07-20 13:55:39 - INFO - 正在爬取2/2則新聞。
+2026-07-20 13:55:40 - INFO - ✅ 成功獲取: 2026年Q2貴賓廳百家樂收入大跌18.8% 成總體博彩收入緩主因。
