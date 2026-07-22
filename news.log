@@ -14677,3 +14677,44 @@
 2026-07-22 02:08:04 - INFO - ✅ 成功獲取 2026/07/21 數據，當日有1條新聞。
 2026-07-22 02:08:04 - INFO - 正在爬取1/1則新聞。
 2026-07-22 02:08:06 - INFO - ✅ 成功獲取: 南韓全羅北道新任知事倡建允許本地人進入賭場  遭當地團體反對。
+2026-07-22 08:19:08 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/07/22。
+2026-07-22 08:19:10 - INFO - 成功獲取 2026/07/22 數據，當日有11條新聞。
+2026-07-22 08:19:10 - INFO - 正在爬取1/0則新聞。
+2026-07-22 08:19:11 - INFO - ✅ 成功獲取: SMG | Alerta para possível tufão no fim-de-semana。
+2026-07-22 08:19:12 - INFO - 正在爬取2/0則新聞。
+2026-07-22 08:19:13 - INFO - ✅ 成功獲取: Taipa | Pedidas explicações para aumento de zonas com cheias。
+2026-07-22 08:19:14 - INFO - 正在爬取3/0則新聞。
+2026-07-22 08:19:15 - INFO - ✅ 成功獲取: Concerto | The Beths levam hoje o indie rock neozelandês a Kowloon。
+2026-07-22 08:19:16 - INFO - 正在爬取4/0則新聞。
+2026-07-22 08:19:17 - INFO - ✅ 成功獲取: AliExpress vai recorrer da “desproporcionada” multa europeia de 550 milhões de euros。
+2026-07-22 08:19:19 - INFO - 正在爬取5/0則新聞。
+2026-07-22 08:19:19 - INFO - ✅ 成功獲取: Projecto da Cidade Universitária já custou 8 mil milhões de patacas。
+2026-07-22 08:19:21 - INFO - 正在爬取6/0則新聞。
+2026-07-22 08:19:21 - INFO - ✅ 成功獲取: Comércio | China rejeita críticas da Alemanha e de França sobre desequilíbrio comercial。
+2026-07-22 08:19:23 - INFO - 正在爬取7/0則新聞。
+2026-07-22 08:19:24 - INFO - ✅ 成功獲取: Patriotismo | O Lam quer jovens com o espírito da Longa Marcha。
+2026-07-22 08:19:25 - INFO - 正在爬取8/0則新聞。
+2026-07-22 08:19:26 - INFO - ✅ 成功獲取: Importações | China reforça compras de soja ao Brasil。
+2026-07-22 08:19:27 - INFO - 正在爬取9/0則新聞。
+2026-07-22 08:19:28 - INFO - ✅ 成功獲取: Direitos Laborais | Aumentam licença de maternidade e férias anuais。
+2026-07-22 08:19:29 - INFO - 正在爬取10/0則新聞。
+2026-07-22 08:19:30 - INFO - ✅ 成功獲取: O filet mignon de Luiz Pacheco。
+2026-07-22 08:19:32 - INFO - 正在爬取11/0則新聞。
+2026-07-22 08:19:32 - INFO - ✅ 成功獲取: Diplomacia | Panamá e China negoceiam renovar acordo marítimo。
+2026-07-22 08:19:34 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-07-22 08:19:34 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/07/22。
+2026-07-22 08:19:34 - ERROR - ❌ 2026/07/22 連線失敗: 403
+2026-07-22 08:19:34 - INFO - 成功獲取 2026/07/22 數據，當日有0條新聞。
+2026-07-22 08:19:34 - WARNING - ⚠️ 當日沒有新聞。
+2026-07-22 08:19:34 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/07/22。
+2026-07-22 08:19:37 - ERROR - ❌ 2026/07/22 連線失敗: 403
+2026-07-22 08:19:37 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/07/21。
+2026-07-22 08:19:39 - ERROR - ❌ 2026/07/21 連線失敗: 403
+2026-07-22 08:19:39 - INFO - ⚠️ 當日沒有新聞。
+2026-07-22 08:19:40 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/07/22。
+2026-07-22 08:19:42 - INFO - ✅ 成功獲取 2026/07/22 數據，當日有1條新聞。
+2026-07-22 08:19:43 - INFO - ✅ 成功獲取 2026/07/21 數據，當日有2條新聞。
+2026-07-22 08:19:43 - INFO - 正在爬取1/2則新聞。
+2026-07-22 08:19:45 - INFO - ✅ 成功獲取: NA。
+2026-07-22 08:19:45 - INFO - 正在爬取2/2則新聞。
+2026-07-22 08:19:46 - INFO - ✅ 成功獲取: 南韓全羅北道新任知事倡建允許本地人進入賭場  遭當地團體反對。
