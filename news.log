@@ -15320,3 +15320,54 @@
 2026-07-26 19:03:03 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/07/26。
 2026-07-26 19:03:05 - ERROR - ❌ 2026/07/26 連線失敗: 404
 2026-07-26 19:03:07 - ERROR - ❌ 2026/07/25 連線失敗: 404
+2026-07-27 02:28:10 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/07/27。
+2026-07-27 02:28:13 - INFO - 成功獲取 2026/07/27 數據，當日有18條新聞。
+2026-07-27 02:28:13 - INFO - 正在爬取1/0則新聞。
+2026-07-27 02:28:14 - INFO - ✅ 成功獲取: Treinador de futebol português em Taiwan tenta levar campeão a inédito heptacampeonato。
+2026-07-27 02:28:16 - INFO - 正在爬取2/0則新聞。
+2026-07-27 02:28:16 - INFO - ✅ 成功獲取: Índia | Ministro da Educação demite-se após semanas de protestos。
+2026-07-27 02:28:18 - INFO - 正在爬取3/0則新聞。
+2026-07-27 02:28:18 - INFO - ✅ 成功獲取: Não vou de férias。
+2026-07-27 02:28:20 - INFO - 正在爬取4/0則新聞。
+2026-07-27 02:28:20 - INFO - ✅ 成功獲取: Cotai | Sneaker Con, maior convenção de ténis do mundo, vem a Macau。
+2026-07-27 02:28:22 - INFO - 正在爬取5/0則新聞。
+2026-07-27 02:28:23 - INFO - ✅ 成功獲取: MICAF | Inaugurada mostra “Echo, o Caminhante do Vento”。
+2026-07-27 02:28:24 - INFO - 正在爬取6/0則新聞。
+2026-07-27 02:28:25 - INFO - ✅ 成功獲取: Pequim diz que guerras comerciais não beneficiam ninguém。
+2026-07-27 02:28:26 - INFO - 正在爬取7/0則新聞。
+2026-07-27 02:28:27 - INFO - ✅ 成功獲取: China / EUA | Cooperação no repatriamento de fugitivos e luta contra o narcotráfico。
+2026-07-27 02:28:28 - INFO - 正在爬取8/0則新聞。
+2026-07-27 02:28:29 - INFO - ✅ 成功獲取: Sonhos de Luxo Nas Montanhas Azuladas de Yang Sheng。
+2026-07-27 02:28:31 - INFO - 正在爬取9/0則新聞。
+2026-07-27 02:28:31 - INFO - ✅ 成功獲取: Agressão sexual | Detido por assediar enfermeira e médica。
+2026-07-27 02:28:33 - INFO - 正在爬取10/0則新聞。
+2026-07-27 02:28:33 - INFO - ✅ 成功獲取: Tufão | Voo para Macau obrigado a aterrar em Nanning。
+2026-07-27 02:28:35 - INFO - 正在爬取11/0則新聞。
+2026-07-27 02:28:35 - INFO - ✅ 成功獲取: Miniso abre loja em Macau com colaborações com Disney e Harry Potter。
+2026-07-27 02:28:37 - INFO - 正在爬取12/0則新聞。
+2026-07-27 02:28:38 - INFO - ✅ 成功獲取: Imobiliário | Associação opõe-se a novos apoios do Governo。
+2026-07-27 02:28:39 - INFO - 正在爬取13/0則新聞。
+2026-07-27 02:28:40 - INFO - ✅ 成功獲取: MPay | Permitidas transferências para bancos a partir de hoje。
+2026-07-27 02:28:41 - INFO - 正在爬取14/0則新聞。
+2026-07-27 02:28:42 - INFO - ✅ 成功獲取: Óbito | Morreu Eduardo de Arantes e Oliveira。
+2026-07-27 02:28:43 - INFO - 正在爬取15/0則新聞。
+2026-07-27 02:28:44 - INFO - ✅ 成功獲取: IPIM | Assinados 24 memorandos para projectos de investimento em Maputo。
+2026-07-27 02:28:45 - INFO - 正在爬取16/0則新聞。
+2026-07-27 02:28:46 - INFO - ✅ 成功獲取: Piscina Estoril | Reabertura deverá ocorrer em 2028。
+2026-07-27 02:28:48 - INFO - 正在爬取17/0則新聞。
+2026-07-27 02:28:48 - INFO - ✅ 成功獲取: Combustíveis | Deputados preocupados com subida de preços。
+2026-07-27 02:28:50 - INFO - 正在爬取18/0則新聞。
+2026-07-27 02:28:50 - INFO - ✅ 成功獲取: Ana Mendes Godinho, directora de estratégia da Universidade Nova de Lisboa: “Macau vai ser mercado de formação”。
+2026-07-27 02:28:52 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-07-27 02:28:52 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/07/27。
+2026-07-27 02:28:53 - ERROR - ❌ 2026/07/27 連線失敗: 403
+2026-07-27 02:28:53 - INFO - 成功獲取 2026/07/27 數據，當日有0條新聞。
+2026-07-27 02:28:53 - WARNING - ⚠️ 當日沒有新聞。
+2026-07-27 02:28:53 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/07/27。
+2026-07-27 02:28:55 - ERROR - ❌ 2026/07/27 連線失敗: 403
+2026-07-27 02:28:55 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/07/26。
+2026-07-27 02:28:57 - ERROR - ❌ 2026/07/26 連線失敗: 403
+2026-07-27 02:28:57 - INFO - ⚠️ 當日沒有新聞。
+2026-07-27 02:28:59 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/07/27。
+2026-07-27 02:29:01 - ERROR - ❌ 2026/07/27 連線失敗: 404
+2026-07-27 02:29:03 - ERROR - ❌ 2026/07/26 連線失敗: 404
