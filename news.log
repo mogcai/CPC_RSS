@@ -16876,3 +16876,50 @@
 2026-08-03 19:24:43 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/08/03。
 2026-08-03 19:24:44 - ERROR - ❌ 2026/08/03 連線失敗: 202
 2026-08-03 19:24:45 - ERROR - ❌ 2026/08/02 連線失敗: 202
+2026-08-04 02:01:43 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/08/04。
+2026-08-04 02:01:44 - INFO - 成功獲取 2026/08/04 數據，當日有16條新聞。
+2026-08-04 02:01:44 - INFO - 正在爬取1/0則新聞。
+2026-08-04 02:01:45 - INFO - ✅ 成功獲取: Angola / China | Trocas comerciais de 9.300 ME no primeiro semestre。
+2026-08-04 02:01:46 - INFO - 正在爬取2/0則新聞。
+2026-08-04 02:01:47 - INFO - ✅ 成功獲取: Casamentos tardios: alegrias e tristezas (III)。
+2026-08-04 02:01:48 - INFO - 正在爬取3/0則新聞。
+2026-08-04 02:01:48 - INFO - ✅ 成功獲取: Mandopop | René Liu faz a sua “Final Call” em Macau em Outubro。
+2026-08-04 02:01:50 - INFO - 正在爬取4/0則新聞。
+2026-08-04 02:01:50 - INFO - ✅ 成功獲取: Shaanxi  | Chuvas obrigam retirada preventiva de quase 88 mil pessoas。
+2026-08-04 02:01:52 - INFO - 正在爬取5/0則新聞。
+2026-08-04 02:01:52 - INFO - ✅ 成功獲取: Hong Kong | Lançados futuros sobre obrigações soberanas chinesas para atrair investidores。
+2026-08-04 02:01:54 - INFO - 正在爬取6/0則新聞。
+2026-08-04 02:01:54 - INFO - ✅ 成功獲取: Alibaba apresenta o modelo de IA mais avançado desenvolvido pela empresa。
+2026-08-04 02:01:56 - INFO - 正在爬取7/0則新聞。
+2026-08-04 02:01:56 - INFO - ✅ 成功獲取: Energia | Aprovados oito novos reactores em investimento de 20,6 mil ME。
+2026-08-04 02:01:58 - INFO - 正在爬取8/0則新聞。
+2026-08-04 02:01:58 - INFO - ✅ 成功獲取: Concerto | Organização queixa-se de vestidos desaparecidos em Macau。
+2026-08-04 02:01:59 - INFO - 正在爬取9/0則新聞。
+2026-08-04 02:02:00 - INFO - ✅ 成功獲取: Seaport Research Partners prevê jogo a expandir-se em Agosto e Setembro。
+2026-08-04 02:02:01 - INFO - 正在爬取10/0則新聞。
+2026-08-04 02:02:02 - INFO - ✅ 成功獲取: FAOM / Inquérito | Cerca de 34% querem ir para a Grande Baía ou Hengqin。
+2026-08-04 02:02:03 - INFO - 正在爬取11/0則新聞。
+2026-08-04 02:02:04 - INFO - ✅ 成功獲取: AMCM | Depósitos de não residentes crescem quase 12 por cento。
+2026-08-04 02:02:05 - INFO - 正在爬取12/0則新聞。
+2026-08-04 02:02:06 - INFO - ✅ 成功獲取: Zona A | Metro quadrado de habitação económica a partir de 31 mil patacas。
+2026-08-04 02:02:07 - INFO - 正在爬取13/0則新聞。
+2026-08-04 02:02:07 - INFO - ✅ 成功獲取: Cooperação | Sam Hou Fai visita Singapura, Indonésia e Malásia。
+2026-08-04 02:02:09 - INFO - 正在爬取14/0則新聞。
+2026-08-04 02:02:09 - INFO - ✅ 成功獲取: Hengqin | PIB com crescimento de 7,5% no primeiro semestre。
+2026-08-04 02:02:11 - INFO - 正在爬取15/0則新聞。
+2026-08-04 02:02:11 - INFO - ✅ 成功獲取: Aeroporto | Tai Kin Ip nomeado presidente de empresa do universo da CAM。
+2026-08-04 02:02:13 - INFO - 正在爬取16/0則新聞。
+2026-08-04 02:02:13 - INFO - ✅ 成功獲取: Função pública | Sugerida adopção de modelo próprio de administração。
+2026-08-04 02:02:15 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-08-04 02:02:15 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/08/04。
+2026-08-04 02:02:15 - ERROR - ❌ 2026/08/04 連線失敗: 403
+2026-08-04 02:02:15 - INFO - 成功獲取 2026/08/04 數據，當日有0條新聞。
+2026-08-04 02:02:15 - WARNING - ⚠️ 當日沒有新聞。
+2026-08-04 02:02:15 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/08/04。
+2026-08-04 02:02:17 - ERROR - ❌ 2026/08/04 連線失敗: 403
+2026-08-04 02:02:17 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/08/03。
+2026-08-04 02:02:19 - ERROR - ❌ 2026/08/03 連線失敗: 403
+2026-08-04 02:02:19 - INFO - ⚠️ 當日沒有新聞。
+2026-08-04 02:02:22 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/08/04。
+2026-08-04 02:02:23 - ERROR - ❌ 2026/08/04 連線失敗: 202
+2026-08-04 02:02:24 - ERROR - ❌ 2026/08/03 連線失敗: 202
