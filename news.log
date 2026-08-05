@@ -17131,3 +17131,66 @@
 2026-08-05 02:01:14 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/08/05。
 2026-08-05 02:01:15 - ERROR - ❌ 2026/08/05 連線失敗: 202
 2026-08-05 02:01:16 - ERROR - ❌ 2026/08/04 連線失敗: 202
+2026-08-05 08:27:29 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/08/05。
+2026-08-05 08:27:31 - INFO - 成功獲取 2026/08/05 數據，當日有19條新聞。
+2026-08-05 08:27:31 - INFO - 正在爬取1/0則新聞。
+2026-08-05 08:27:31 - INFO - ✅ 成功獲取: HSBC | Lucro sobe 27,1 por cento no primeiro semestre。
+2026-08-05 08:27:33 - INFO - 正在爬取2/0則新聞。
+2026-08-05 08:27:34 - INFO - ✅ 成功獲取: RDCongo | Epidemia de Ébola já matou mais de 1.700 pessoas。
+2026-08-05 08:27:35 - INFO - 正在爬取3/0則新聞。
+2026-08-05 08:27:36 - INFO - ✅ 成功獲取: Japão | Morte de três leões devido ao calor gera críticas。
+2026-08-05 08:27:37 - INFO - 正在爬取4/0則新聞。
+2026-08-05 08:27:38 - INFO - ✅ 成功獲取: Coreia do Sul | Onda de calor causa 16 mortos。
+2026-08-05 08:27:39 - INFO - 正在爬取5/0則新聞。
+2026-08-05 08:27:40 - INFO - ✅ 成功獲取: Ministro da Defesa afirma que Japão deve reforçar exército com urgência。
+2026-08-05 08:27:42 - INFO - 正在爬取6/0則新聞。
+2026-08-05 08:27:42 - INFO - ✅ 成功獲取: China | Quase 400 mil pessoas retiradas da zona centro devido à chuva。
+2026-08-05 08:27:44 - INFO - 正在爬取7/0則新聞。
+2026-08-05 08:27:44 - INFO - ✅ 成功獲取: IA na China cresceu 40% em 2025 atingindo 153,9 mil milhões de euros。
+2026-08-05 08:27:46 - INFO - 正在爬取8/0則新聞。
+2026-08-05 08:27:47 - INFO - ✅ 成功獲取: Plano quinquenal domina retiro de Verão da liderança chinesa。
+2026-08-05 08:27:48 - INFO - 正在爬取9/0則新聞。
+2026-08-05 08:27:49 - INFO - ✅ 成功獲取: IIM acolhe projecto linguístico de Cheong Kin Man e Marta Sala。
+2026-08-05 08:27:50 - INFO - 正在爬取10/0則新聞。
+2026-08-05 08:27:51 - INFO - ✅ 成功獲取: Amagao | Fotografias de Vong Sek Kuan em nova exposição。
+2026-08-05 08:27:52 - INFO - 正在爬取11/0則新聞。
+2026-08-05 08:27:53 - INFO - ✅ 成功獲取: SMG | El Niño poderá provocar anomalias climáticas。
+2026-08-05 08:27:54 - INFO - 正在爬取12/0則新聞。
+2026-08-05 08:27:55 - INFO - ✅ 成功獲取: Trânsito | Instaladas 37 plataformas de cimento nas passadeiras。
+2026-08-05 08:27:57 - INFO - 正在爬取13/0則新聞。
+2026-08-05 08:27:57 - INFO - ✅ 成功獲取: Publicidade | Suspensas mensagens a pedir fim de abusos contra animais。
+2026-08-05 08:27:59 - INFO - 正在爬取14/0則新聞。
+2026-08-05 08:27:59 - INFO - ✅ 成功獲取: Coloane | Autocarros circulares lotados no primeiro fim-de-semana。
+2026-08-05 08:28:01 - INFO - 正在爬取15/0則新聞。
+2026-08-05 08:28:02 - INFO - ✅ 成功獲取: Aviação | Instituto sino-lusófono aposta em inovação tecnológica。
+2026-08-05 08:28:03 - INFO - 正在爬取16/0則新聞。
+2026-08-05 08:28:04 - INFO - ✅ 成功獲取: Circulação em Guangdong | Governo admite atrasos na política。
+2026-08-05 08:28:05 - INFO - 正在爬取17/0則新聞。
+2026-08-05 08:28:06 - INFO - ✅ 成功獲取: Fujian | Sam Hou Fai visita local de turismo vermelho em Longyan。
+2026-08-05 08:28:07 - INFO - 正在爬取18/0則新聞。
+2026-08-05 08:28:08 - INFO - ✅ 成功獲取: Habitação Económica | Pedido sistema para troca de apartamentos。
+2026-08-05 08:28:10 - INFO - 正在爬取19/0則新聞。
+2026-08-05 08:28:10 - INFO - ✅ 成功獲取: Coronel Mesquita | Estátua saiu da Barra para Portugal em “discreta” operação nocturna。
+2026-08-05 08:28:12 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-08-05 08:28:12 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/08/05。
+2026-08-05 08:28:12 - ERROR - ❌ 2026/08/05 連線失敗: 403
+2026-08-05 08:28:12 - INFO - 成功獲取 2026/08/05 數據，當日有0條新聞。
+2026-08-05 08:28:12 - WARNING - ⚠️ 當日沒有新聞。
+2026-08-05 08:28:13 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/08/05。
+2026-08-05 08:28:15 - ERROR - ❌ 2026/08/05 連線失敗: 403
+2026-08-05 08:28:15 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/08/04。
+2026-08-05 08:28:17 - ERROR - ❌ 2026/08/04 連線失敗: 403
+2026-08-05 08:28:17 - INFO - ⚠️ 當日沒有新聞。
+2026-08-05 08:28:19 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/08/05。
+2026-08-05 08:28:21 - INFO - ✅ 成功獲取 2026/08/05 數據，當日有3條新聞。
+2026-08-05 08:28:23 - INFO - ✅ 成功獲取 2026/08/04 數據，當日有5條新聞。
+2026-08-05 08:28:23 - INFO - 正在爬取1/5則新聞。
+2026-08-05 08:28:24 - INFO - ✅ 成功獲取: 永利澳門第二季經調整物業EBITDAR按年升逾17% 經營收入升近27%。
+2026-08-05 08:28:24 - INFO - 正在爬取2/5則新聞。
+2026-08-05 08:28:26 - INFO - ✅ 成功獲取: 金沙中國榮獲Great Place To Work認證 成為大中華區首家獲認證的綜合旅遊休閒企業。
+2026-08-05 08:28:26 - INFO - 正在爬取3/5則新聞。
+2026-08-05 08:28:27 - INFO - ✅ 成功獲取: 南韓就調高賭場旅遊振興基金辦座談會 多間營運商出席表達憂慮。
+2026-08-05 08:28:27 - INFO - 正在爬取4/5則新聞。
+2026-08-05 08:28:29 - INFO - ✅ 成功獲取: 斯里蘭卡新濠天地轉虧為盈  次季經調整EBITDA錄116萬美元。
+2026-08-05 08:28:29 - INFO - 正在爬取5/5則新聞。
+2026-08-05 08:28:31 - INFO - ✅ 成功獲取: 港澳聯手破咖啡投資騙局拘8人  暫錄234宗案件涉款近億元。
