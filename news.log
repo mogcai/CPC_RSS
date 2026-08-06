@@ -17349,3 +17349,62 @@
 2026-08-06 02:05:28 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/08/06。
 2026-08-06 02:05:30 - ERROR - ❌ 2026/08/06 連線失敗: 404
 2026-08-06 02:05:31 - ERROR - ❌ 2026/08/05 連線失敗: 202
+2026-08-06 08:25:53 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/08/06。
+2026-08-06 08:25:55 - INFO - 成功獲取 2026/08/06 數據，當日有17條新聞。
+2026-08-06 08:25:55 - INFO - 正在爬取1/0則新聞。
+2026-08-06 08:25:56 - INFO - ✅ 成功獲取: China lança ofensiva no mercado automóvel e gigantes alemães tentam resistir。
+2026-08-06 08:25:57 - INFO - 正在爬取2/0則新聞。
+2026-08-06 08:25:58 - INFO - ✅ 成功獲取: O canto da Europa desencantada (II)。
+2026-08-06 08:25:59 - INFO - 正在爬取3/0則新聞。
+2026-08-06 08:26:00 - INFO - ✅ 成功獲取: Honda | Lucros mais que duplicam entre Abril a Junho para 2.500 ME。
+2026-08-06 08:26:01 - INFO - 正在爬取4/0則新聞。
+2026-08-06 08:26:02 - INFO - ✅ 成功獲取: Coreia do Sul | Buscas na sede da Starbucks após campanha polémica。
+2026-08-06 08:26:04 - INFO - 正在爬取5/0則新聞。
+2026-08-06 08:26:04 - INFO - ✅ 成功獲取: Coreia do Norte | Japão acusado de se transformar num “Estado bélico”。
+2026-08-06 08:26:06 - INFO - 正在爬取6/0則新聞。
+2026-08-06 08:26:06 - INFO - ✅ 成功獲取: Chuva | Emitidos alertas máximos no centro e sul do país。
+2026-08-06 08:26:08 - INFO - 正在爬取7/0則新聞。
+2026-08-06 08:26:09 - INFO - ✅ 成功獲取: Regiões chinesas reforçam incentivos para atrair turistas estrangeiros。
+2026-08-06 08:26:10 - INFO - 正在爬取8/0則新聞。
+2026-08-06 08:26:11 - INFO - ✅ 成功獲取: Japão | Pequim critica uso de “ameaça chinesa” para justificar rearmamento。
+2026-08-06 08:26:12 - INFO - 正在爬取9/0則新聞。
+2026-08-06 08:26:13 - INFO - ✅ 成功獲取: IAM | Criado concurso de fotografia focado na protecção animal。
+2026-08-06 08:26:14 - INFO - 正在爬取10/0則新聞。
+2026-08-06 08:26:15 - INFO - ✅ 成功獲取: Hong Kong | Concerto apresenta nova composição de Carlos Brito Dias。
+2026-08-06 08:26:16 - INFO - 正在爬取11/0則新聞。
+2026-08-06 08:26:17 - INFO - ✅ 成功獲取: Drogas | Augusto Nogueira concorda com aditamentos à lei。
+2026-08-06 08:26:19 - INFO - 正在爬取12/0則新聞。
+2026-08-06 08:26:19 - INFO - ✅ 成功獲取: Amamentação | Mulheres pedem ambiente mais favorável。
+2026-08-06 08:26:21 - INFO - 正在爬取13/0則新聞。
+2026-08-06 08:26:21 - INFO - ✅ 成功獲取: Wynn Macau | Lucros operacionais crescem 26,9 por cento。
+2026-08-06 08:26:23 - INFO - 正在爬取14/0則新聞。
+2026-08-06 08:26:24 - INFO - ✅ 成功獲取: Nick Lei sugere o uso de drones para inspeccionar edifícios。
+2026-08-06 08:26:25 - INFO - 正在爬取15/0則新聞。
+2026-08-06 08:26:26 - INFO - ✅ 成功獲取: Património Cultural | Tradições de luso-descendentes escolhidas。
+2026-08-06 08:26:27 - INFO - 正在爬取16/0則新聞。
+2026-08-06 08:26:28 - INFO - ✅ 成功獲取: AMCM | Renovado mandato de Vong Sin Man。
+2026-08-06 08:26:29 - INFO - 正在爬取17/0則新聞。
+2026-08-06 08:26:30 - INFO - ✅ 成功獲取: Fujian | Sam Hou Fai quer desenvolver turismo conjunto focado em A-Má。
+2026-08-06 08:26:32 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-08-06 08:26:32 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/08/06。
+2026-08-06 08:26:32 - ERROR - ❌ 2026/08/06 連線失敗: 403
+2026-08-06 08:26:32 - INFO - 成功獲取 2026/08/06 數據，當日有0條新聞。
+2026-08-06 08:26:32 - WARNING - ⚠️ 當日沒有新聞。
+2026-08-06 08:26:32 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/08/06。
+2026-08-06 08:26:34 - ERROR - ❌ 2026/08/06 連線失敗: 403
+2026-08-06 08:26:34 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/08/05。
+2026-08-06 08:26:36 - ERROR - ❌ 2026/08/05 連線失敗: 403
+2026-08-06 08:26:36 - INFO - ⚠️ 當日沒有新聞。
+2026-08-06 08:26:38 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/08/06。
+2026-08-06 08:26:39 - INFO - ✅ 成功獲取 2026/08/06 數據，當日有2條新聞。
+2026-08-06 08:26:41 - INFO - ✅ 成功獲取 2026/08/05 數據，當日有5條新聞。
+2026-08-06 08:26:41 - INFO - 正在爬取1/5則新聞。
+2026-08-06 08:26:42 - INFO - ✅ 成功獲取: 南韓賭場江原樂園次季營收3455億韓圜 按季按年均呈跌勢。
+2026-08-06 08:26:42 - INFO - 正在爬取2/5則新聞。
+2026-08-06 08:26:44 - INFO - ✅ 成功獲取: 南韓三家外國人專用賭場7月賭收均有增長 百樂達斯升幅近二成六。
+2026-08-06 08:26:44 - INFO - 正在爬取3/5則新聞。
+2026-08-06 08:26:46 - INFO - ✅ 成功獲取: 南韓擬調高賭場繳納旅遊基金比例惹反彈  業界列席座談會表憂慮。
+2026-08-06 08:26:46 - INFO - 正在爬取4/5則新聞。
+2026-08-06 08:26:47 - INFO - ✅ 成功獲取: 金沙中國榮獲Great Place To Work認證 成大中華區休閒企業先驅。
+2026-08-06 08:26:47 - INFO - 正在爬取5/5則新聞。
+2026-08-06 08:26:49 - INFO - ✅ 成功獲取: 永利澳門次季經調整物業EBITDAR升17%  經營收入增兩成六。
