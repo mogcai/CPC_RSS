@@ -18387,3 +18387,70 @@
 2026-08-12 07:17:31 - INFO - 正在爬取4/4則新聞。
 2026-08-12 07:17:32 - ERROR - ❌ 文章連線失敗: 202, https://www.allinmedia.com.hk/2026/08/12/%e6%9a%91%e6%9c%9f%e6%97%ba%e5%ad%a37%e6%9c%88%e4%b8%ad%e5%a0%b4%e6%ae%ba%e6%95%b8%e5%85%a8%e9%9d%a2%e5%be%a9%e7%94%a6-%e9%8a%80%e6%b2%b3%e5%8b%a2%e9%a0%ad%e5%bc%b7%e5%86%a7%e8%8e%8a%e6%a6%9c/
 2026-08-12 07:17:32 - INFO - ✅ 成功獲取: NA。
+2026-08-12 18:55:03 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/08/12。
+2026-08-12 18:55:04 - INFO - 成功獲取 2026/08/12 數據，當日有18條新聞。
+2026-08-12 18:55:04 - INFO - 正在爬取1/0則新聞。
+2026-08-12 18:55:05 - INFO - ✅ 成功獲取: Despesas públicas sobem 4,9% até Julho após reforço dos apoios sociais。
+2026-08-12 18:55:06 - INFO - 正在爬取2/0則新聞。
+2026-08-12 18:55:06 - INFO - ✅ 成功獲取: Pacífico | China protesta contra participação de Taiwan em Fórum。
+2026-08-12 18:55:08 - INFO - 正在爬取3/0則新聞。
+2026-08-12 18:55:09 - INFO - ✅ 成功獲取: IC | Descoberto caso de conluio com duas empresas de limpeza。
+2026-08-12 18:55:10 - INFO - 正在爬取4/0則新聞。
+2026-08-12 18:55:11 - INFO - ✅ 成功獲取: Zhuhai | Segundo circuito será uma mais valia para Macau。
+2026-08-12 18:55:12 - INFO - 正在爬取5/0則新聞。
+2026-08-12 18:55:13 - INFO - ✅ 成功獲取: Hong Kong | Revisão de alerta de stress térmico após recorde de temperatura。
+2026-08-12 18:55:14 - INFO - 正在爬取6/0則新聞。
+2026-08-12 18:55:15 - INFO - ✅ 成功獲取: China pede para participar nas consultas pedidas pelo Brasil contra EUA na OMC。
+2026-08-12 18:55:16 - INFO - 正在爬取7/0則新聞。
+2026-08-12 18:55:17 - INFO - ✅ 成功獲取: Tufão Dolphin | China mantém alerta de chuva。
+2026-08-12 18:55:18 - INFO - 正在爬取8/0則新聞。
+2026-08-12 18:55:19 - INFO - ✅ 成功獲取: Mandopop | Grand Lisboa Palace recebe actuação de Kelly Yu。
+2026-08-12 18:55:20 - INFO - 正在爬取9/0則新聞。
+2026-08-12 18:55:21 - INFO - ✅ 成功獲取: Filipinas | Influencer chinesa assassinada。
+2026-08-12 18:55:22 - INFO - 正在爬取10/0則新聞。
+2026-08-12 18:55:23 - INFO - ✅ 成功獲取: NAPE | Homens vestidos de mulher roubam cliente。
+2026-08-12 18:55:24 - INFO - 正在爬取11/0則新聞。
+2026-08-12 18:55:25 - INFO - ✅ 成功獲取: Jogo | Primeiros dias de Agosto mostram recuperação。
+2026-08-12 18:55:26 - INFO - 正在爬取12/0則新聞。
+2026-08-12 18:55:27 - INFO - ✅ 成功獲取: Rua do Patane | Governo recupera terreno。
+2026-08-12 18:55:28 - INFO - 正在爬取13/0則新聞。
+2026-08-12 18:55:29 - INFO - ✅ 成功獲取: Zona norte | Secretário exige inspecção a edifícios degradados。
+2026-08-12 18:55:30 - INFO - 正在爬取14/0則新聞。
+2026-08-12 18:55:31 - INFO - ✅ 成功獲取: Talentos | Deputado exige melhores condições de permanência。
+2026-08-12 18:55:32 - INFO - 正在爬取15/0則新聞。
+2026-08-12 18:55:33 - INFO - ✅ 成功獲取: Hengqin | Bombeiros começam actividade para diversificar economia。
+2026-08-12 18:55:34 - INFO - 正在爬取16/0則新聞。
+2026-08-12 18:55:35 - INFO - ✅ 成功獲取: Conselho de Estado | Xia troça de mandarim de deputados de HK。
+2026-08-12 18:55:36 - INFO - 正在爬取17/0則新聞。
+2026-08-12 18:55:37 - INFO - ✅ 成功獲取: Associações | Dirigente pede melhorias no Governo electrónico。
+2026-08-12 18:55:38 - INFO - 正在爬取18/0則新聞。
+2026-08-12 18:55:39 - INFO - ✅ 成功獲取: Diversificação | Sam realça Hengqin como chave para quebrar impasse。
+2026-08-12 18:55:40 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-08-12 18:55:40 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/08/12。
+2026-08-12 18:55:41 - ERROR - ❌ 2026/08/12 連線失敗: 403
+2026-08-12 18:55:41 - INFO - 成功獲取 2026/08/12 數據，當日有0條新聞。
+2026-08-12 18:55:41 - WARNING - ⚠️ 當日沒有新聞。
+2026-08-12 18:55:41 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/08/12。
+2026-08-12 18:55:44 - ERROR - ❌ 2026/08/12 連線失敗: 403
+2026-08-12 18:55:44 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/08/11。
+2026-08-12 18:55:46 - ERROR - ❌ 2026/08/11 連線失敗: 403
+2026-08-12 18:55:46 - INFO - ⚠️ 當日沒有新聞。
+2026-08-12 18:55:47 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/08/12。
+2026-08-12 18:55:49 - INFO - ✅ 成功獲取 2026/08/12 數據，當日有4條新聞。
+2026-08-12 18:55:51 - INFO - ✅ 成功獲取 2026/08/11 數據，當日有8條新聞。
+2026-08-12 18:55:51 - INFO - 正在爬取1/8則新聞。
+2026-08-12 18:55:53 - INFO - ✅ 成功獲取: 南韓券商料上調賭場基金率對百樂達斯影響有限  僅涉營業利益7%。
+2026-08-12 18:55:53 - INFO - 正在爬取2/8則新聞。
+2026-08-12 18:55:54 - INFO - ✅ 成功獲取: 意大利博彩監管新規出台 收緊宣傳規範強化負責任博彩管控。
+2026-08-12 18:55:54 - INFO - 正在爬取3/8則新聞。
+2026-08-12 18:55:56 - INFO - ✅ 成功獲取: 暑期旺季7月中場殺數復甦  銀河強勢冧莊美獅反壓永利皇宮奪亞。
+2026-08-12 18:55:56 - INFO - 正在爬取4/8則新聞。
+2026-08-12 18:55:58 - INFO - ✅ 成功獲取: 銀娛上半年多賺1%至53億  派息增近三成。
+2026-08-12 18:55:58 - INFO - 正在爬取5/8則新聞。
+2026-08-12 18:56:00 - INFO - ✅ 成功獲取: 南韓擬革新博彩業監管制度  賭場工會憂影響就業前景。
+2026-08-12 18:56:00 - INFO - 正在爬取6/8則新聞。
+2026-08-12 18:56:02 - INFO - ✅ 成功獲取: 澳娛綜合舉辦獎學金頒獎禮 嘉許品學兼優員工子女。
+2026-08-12 18:56:02 - INFO - 正在爬取7/8則新聞。
+2026-08-12 18:56:04 - INFO - ✅ 成功獲取: 存款人追討博企4300萬敗訴  終院指不對賭廳非博彩用途存款負責。
+2026-08-12 18:56:04 - INFO - 正在爬取8/8則新聞。
+2026-08-12 18:56:05 - INFO - ✅ 成功獲取: 印尼凍結近150萬戶貧困家庭社會援助  揭涉參與網上賭博。
