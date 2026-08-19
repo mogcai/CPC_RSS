@@ -19328,3 +19328,76 @@
 2026-08-19 06:35:23 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/08/19。
 2026-08-19 06:35:24 - ERROR - ❌ 2026/08/19 連線失敗: 202
 2026-08-19 06:35:24 - ERROR - ❌ 2026/08/18 連線失敗: 202
+2026-08-19 12:35:24 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/08/19。
+2026-08-19 12:35:25 - INFO - 成功獲取 2026/08/19 數據，當日有17條新聞。
+2026-08-19 12:35:25 - INFO - 正在爬取1/0則新聞。
+2026-08-19 12:35:27 - INFO - ✅ 成功獲取: Medicina chinesa | Macau quer apoio de Portugal na expansão para a Europa。
+2026-08-19 12:35:29 - INFO - 正在爬取2/0則新聞。
+2026-08-19 12:35:30 - INFO - ✅ 成功獲取: China | Casamento podem ser registados em bancos e estações de metro。
+2026-08-19 12:35:31 - INFO - 正在爬取3/0則新聞。
+2026-08-19 12:35:32 - INFO - ✅ 成功獲取: Quadros qualificados | RAEM revê programa para atrair mais lusófonos。
+2026-08-19 12:35:34 - INFO - 正在爬取4/0則新聞。
+2026-08-19 12:35:34 - INFO - ✅ 成功獲取: Uma Janela Associativa para o Mundo。
+2026-08-19 12:35:36 - INFO - 正在爬取5/0則新聞。
+2026-08-19 12:35:36 - INFO - ✅ 成功獲取: Seul espera avanços no diálogo Trump-Kim após redução de exercícios militares。
+2026-08-19 12:35:38 - INFO - 正在爬取6/0則新聞。
+2026-08-19 12:35:39 - INFO - ✅ 成功獲取: Testado projecto de avião de fuselagem integrada para mais de 800 passageiros。
+2026-08-19 12:35:40 - INFO - 正在爬取7/0則新聞。
+2026-08-19 12:35:41 - INFO - ✅ 成功獲取: Visita | Líderes do Equador, Chile e El Salvador em Pequim。
+2026-08-19 12:35:42 - INFO - 正在爬取8/0則新聞。
+2026-08-19 12:35:43 - INFO - ✅ 成功獲取: Música Sacra | Concerto na Sé com o Instituto Gregoriano de Lisboa。
+2026-08-19 12:35:44 - INFO - 正在爬取9/0則新聞。
+2026-08-19 12:35:45 - INFO - ✅ 成功獲取: Trânsito | Kaifong pedem suspensão de cartas e penas pesadas。
+2026-08-19 12:35:46 - INFO - 正在爬取10/0則新聞。
+2026-08-19 12:35:47 - INFO - ✅ 成功獲取: Saúde | Gripe lidera lista de doenças de declaração obrigatória。
+2026-08-19 12:35:49 - INFO - 正在爬取11/0則新聞。
+2026-08-19 12:35:49 - INFO - ✅ 成功獲取: Renovação urbana | Wu Chou Kit quer dar prioridade à manutenção e beleza。
+2026-08-19 12:35:51 - INFO - 正在爬取12/0則新聞。
+2026-08-19 12:35:51 - INFO - ✅ 成功獲取: Cotai | Suspeito de furtar fichas de jogo acaba detido。
+2026-08-19 12:35:53 - INFO - 正在爬取13/0則新聞。
+2026-08-19 12:35:54 - INFO - ✅ 成功獲取: Takeaway | Motoristas ameaçam fazer greve。
+2026-08-19 12:35:55 - INFO - 正在爬取14/0則新聞。
+2026-08-19 12:35:56 - INFO - ✅ 成功獲取: Serviços Correccionais | Duas chefes tomam posse。
+2026-08-19 12:35:57 - INFO - 正在爬取15/0則新聞。
+2026-08-19 12:35:58 - INFO - ✅ 成功獲取: Fronteiras | Travessia de carro simplificada para residentes não chineses。
+2026-08-19 12:35:59 - INFO - 正在爬取16/0則新聞。
+2026-08-19 12:36:00 - INFO - ✅ 成功獲取: Catar | Passaportes da RAEM isentos de taxas à chegada。
+2026-08-19 12:36:01 - INFO - 正在爬取17/0則新聞。
+2026-08-19 12:36:02 - INFO - ✅ 成功獲取: Plano Quinquenal | Governo quer renovar zona das Ruínas de S. Paulo。
+2026-08-19 12:36:04 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-08-19 12:36:04 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/08/19。
+2026-08-19 12:36:04 - ERROR - ❌ 2026/08/19 連線失敗: 403
+2026-08-19 12:36:04 - INFO - 成功獲取 2026/08/19 數據，當日有0條新聞。
+2026-08-19 12:36:04 - WARNING - ⚠️ 當日沒有新聞。
+2026-08-19 12:36:04 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/08/19。
+2026-08-19 12:36:07 - ERROR - ❌ 2026/08/19 連線失敗: 403
+2026-08-19 12:36:07 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/08/18。
+2026-08-19 12:36:09 - ERROR - ❌ 2026/08/18 連線失敗: 403
+2026-08-19 12:36:09 - INFO - ⚠️ 當日沒有新聞。
+2026-08-19 12:36:10 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/08/19。
+2026-08-19 12:36:12 - INFO - ✅ 成功獲取 2026/08/19 數據，當日有6條新聞。
+2026-08-19 12:36:13 - INFO - ✅ 成功獲取 2026/08/18 數據，當日有12條新聞。
+2026-08-19 12:36:13 - INFO - 正在爬取1/12則新聞。
+2026-08-19 12:36:15 - INFO - ✅ 成功獲取: 澳門政府明年將全面檢討人才引進制度。
+2026-08-19 12:36:15 - INFO - 正在爬取2/12則新聞。
+2026-08-19 12:36:17 - INFO - ✅ 成功獲取: 涉賭博風險引監管整治  韓國封禁預測市場交易平台Polymarket。
+2026-08-19 12:36:17 - INFO - 正在爬取3/12則新聞。
+2026-08-19 12:36:18 - INFO - ✅ 成功獲取: 澳門負責任博彩推廣富有成效。
+2026-08-19 12:36:18 - INFO - 正在爬取4/12則新聞。
+2026-08-19 12:36:20 - INFO - ✅ 成功獲取: 港澳辦：三五規劃推動澳門高質量發展開新局譜新篇。
+2026-08-19 12:36:20 - INFO - 正在爬取5/12則新聞。
+2026-08-19 12:36:23 - INFO - ✅ 成功獲取: 換錢黨疑遭黑吃黑詐騙損失五萬港元。
+2026-08-19 12:36:23 - INFO - 正在爬取6/12則新聞。
+2026-08-19 12:36:25 - INFO - ✅ 成功獲取: 司警破兩宗直播代客投注案。
+2026-08-19 12:36:25 - INFO - 正在爬取7/12則新聞。
+2026-08-19 12:36:27 - INFO - ✅ 成功獲取: 澳門三五規劃正式公佈  力爭2030年實現非博彩業佔GDP六成。
+2026-08-19 12:36:27 - INFO - 正在爬取8/12則新聞。
+2026-08-19 12:36:29 - INFO - ✅ 成功獲取: 勞工局夥金沙推餐飲部長培訓  設25名額通過考核可獲證書津貼。
+2026-08-19 12:36:29 - INFO - 正在爬取9/12則新聞。
+2026-08-19 12:36:30 - INFO - ✅ 成功獲取: 新濠天地全新奢華酒店REM幻宇啟幕接待邀約賓客  10月正式開業。
+2026-08-19 12:36:30 - INFO - 正在爬取10/12則新聞。
+2026-08-19 12:36:32 - INFO - ✅ 成功獲取: 韓警破非法賭網偽冒江原樂園拘58人  3年吸客4萬涉款780億韓圜。
+2026-08-19 12:36:32 - INFO - 正在爬取11/12則新聞。
+2026-08-19 12:36:34 - INFO - ✅ 成功獲取: 7月大西洋城博彩業績創2012年以來新高  賭場營收按年增7.1%。
+2026-08-19 12:36:34 - INFO - 正在爬取12/12則新聞。
+2026-08-19 12:36:35 - INFO - ✅ 成功獲取: 橫琴深合區提速第二階段建設  吳惠嫻出席工作會議提六點意見。
