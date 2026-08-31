@@ -21165,3 +21165,56 @@
 2026-08-31 03:06:44 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/08/31。
 2026-08-31 03:06:45 - ERROR - ❌ 2026/08/31 連線失敗: 202
 2026-08-31 03:06:46 - ERROR - ❌ 2026/08/30 連線失敗: 202
+2026-08-31 12:29:12 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/08/31。
+2026-08-31 12:29:13 - INFO - 成功獲取 2026/08/31 數據，當日有19條新聞。
+2026-08-31 12:29:13 - INFO - 正在爬取1/0則新聞。
+2026-08-31 12:29:13 - INFO - ✅ 成功獲取: Direito | Advogados portugueses vão poder exercer na Grande Baía。
+2026-08-31 12:29:15 - INFO - 正在爬取2/0則新聞。
+2026-08-31 12:29:15 - INFO - ✅ 成功獲取: ONU | Cimeira na Mongólia termina sem acordo para o combate à seca。
+2026-08-31 12:29:17 - INFO - 正在爬取3/0則新聞。
+2026-08-31 12:29:17 - INFO - ✅ 成功獲取: Tailândia | Aprovadas novas leis contra turistas problemáticos。
+2026-08-31 12:29:19 - INFO - 正在爬取4/0則新聞。
+2026-08-31 12:29:19 - INFO - ✅ 成功獲取: Depois da Reforma, um Melhor Associativismo para Macau。
+2026-08-31 12:29:21 - INFO - 正在爬取5/0則新聞。
+2026-08-31 12:29:21 - INFO - ✅ 成功獲取: Nepal | Governo alerta para subida do nível da água da enxurrada。
+2026-08-31 12:29:23 - INFO - 正在爬取6/0則新聞。
+2026-08-31 12:29:23 - INFO - ✅ 成功獲取: Diplomacia | Xi Jinping a caminho do Quirguistão para cimeira regional e reunião com Putin。
+2026-08-31 12:29:25 - INFO - 正在爬取7/0則新聞。
+2026-08-31 12:29:25 - INFO - ✅ 成功獲取: Ex-chefe do PCC condenado a pena de morte suspensa por corrupção。
+2026-08-31 12:29:26 - INFO - 正在爬取8/0則新聞。
+2026-08-31 12:29:27 - INFO - ✅ 成功獲取: Triatlo | João Nuno Batista quarto na etapa chinesa do Campeonato do Mundo。
+2026-08-31 12:29:28 - INFO - 正在爬取9/0則新聞。
+2026-08-31 12:29:29 - INFO - ✅ 成功獲取: A Intrigante Beleza da Deusa do Rio Luo。
+2026-08-31 12:29:30 - INFO - 正在爬取10/0則新聞。
+2026-08-31 12:29:31 - INFO - ✅ 成功獲取: IC | Porto acolhe mostra “Um Vislumbre da Cultura Chinesa”。
+2026-08-31 12:29:32 - INFO - 正在爬取11/0則新聞。
+2026-08-31 12:29:33 - INFO - ✅ 成功獲取: Pensões ilegais | CPSP desmantela dois espaços。
+2026-08-31 12:29:34 - INFO - 正在爬取12/0則新聞。
+2026-08-31 12:29:35 - INFO - ✅ 成功獲取: Hotelaria | Registada maior ocupação até Julho desde a pandemia。
+2026-08-31 12:29:36 - INFO - 正在爬取13/0則新聞。
+2026-08-31 12:29:36 - INFO - ✅ 成功獲取: Taipa | Leong Hong Sai quer mais centros e postos de saúde。
+2026-08-31 12:29:38 - INFO - 正在爬取14/0則新聞。
+2026-08-31 12:29:38 - INFO - ✅ 成功獲取: Desemprego | Taxa entre Maio e Julho manteve-se em 1,9%。
+2026-08-31 12:29:40 - INFO - 正在爬取15/0則新聞。
+2026-08-31 12:29:40 - INFO - ✅ 成功獲取: Balança de pagamentos | Excedente aumentou 23,7% em 2025。
+2026-08-31 12:29:42 - INFO - 正在爬取16/0則新聞。
+2026-08-31 12:29:42 - INFO - ✅ 成功獲取: Escola patriótica Hou Kong quer atrair alunos de Macau para Hengqin。
+2026-08-31 12:29:44 - INFO - 正在爬取17/0則新聞。
+2026-08-31 12:29:44 - INFO - ✅ 成功獲取: Hengqin | “Cidade Alemã” falhada acolhe alunos de nova cidade universitária。
+2026-08-31 12:29:46 - INFO - 正在爬取18/0則新聞。
+2026-08-31 12:29:46 - INFO - ✅ 成功獲取: Tibete | Governo vai doar 30 milhões para apoiar operações de resgate。
+2026-08-31 12:29:48 - INFO - 正在爬取19/0則新聞。
+2026-08-31 12:29:48 - INFO - ✅ 成功獲取: Associações | Antecipado peso administrativo em nova reforma。
+2026-08-31 12:29:49 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-08-31 12:29:50 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/08/31。
+2026-08-31 12:29:50 - ERROR - ❌ 2026/08/31 連線失敗: 403
+2026-08-31 12:29:50 - INFO - 成功獲取 2026/08/31 數據，當日有0條新聞。
+2026-08-31 12:29:50 - WARNING - ⚠️ 當日沒有新聞。
+2026-08-31 12:29:50 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/08/31。
+2026-08-31 12:29:52 - ERROR - ❌ 2026/08/31 連線失敗: 403
+2026-08-31 12:29:52 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/08/30。
+2026-08-31 12:29:54 - ERROR - ❌ 2026/08/30 連線失敗: 403
+2026-08-31 12:29:54 - INFO - ⚠️ 當日沒有新聞。
+2026-08-31 12:29:57 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/08/31。
+2026-08-31 12:29:58 - ERROR - ❌ 2026/08/31 連線失敗: 202
+2026-08-31 12:29:59 - ERROR - ❌ 2026/08/30 連線失敗: 202
