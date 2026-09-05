@@ -22396,3 +22396,38 @@
 2026-09-05 09:51:57 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/09/05。
 2026-09-05 09:51:58 - ERROR - ❌ 2026/09/05 連線失敗: 202
 2026-09-05 09:51:59 - ERROR - ❌ 2026/09/04 連線失敗: 202
+2026-09-05 14:25:55 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/09/05。
+2026-09-05 14:25:56 - ERROR - ❌ 2026/09/05 連線失敗: 404
+2026-09-05 14:25:56 - WARNING - ⚠️ 沒有新聞。
+2026-09-05 14:25:56 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/09/05。
+2026-09-05 14:25:56 - ERROR - ❌ 2026/09/05 連線失敗: 403
+2026-09-05 14:25:56 - INFO - 成功獲取 2026/09/05 數據，當日有0條新聞。
+2026-09-05 14:25:56 - WARNING - ⚠️ 當日沒有新聞。
+2026-09-05 14:25:57 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/09/05。
+2026-09-05 14:25:59 - ERROR - ❌ 2026/09/05 連線失敗: 403
+2026-09-05 14:25:59 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/09/04。
+2026-09-05 14:26:01 - ERROR - ❌ 2026/09/04 連線失敗: 403
+2026-09-05 14:26:01 - INFO - ⚠️ 當日沒有新聞。
+2026-09-05 14:26:03 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/09/05。
+2026-09-05 14:26:05 - ERROR - ❌ 2026/09/05 連線失敗: 404
+2026-09-05 14:26:06 - INFO - ✅ 成功獲取 2026/09/04 數據，當日有10條新聞。
+2026-09-05 14:26:06 - INFO - 正在爬取1/10則新聞。
+2026-09-05 14:26:08 - INFO - ✅ 成功獲取: Wynn Donates MOP 5 Million to Aid Disaster Relief in Xizang。
+2026-09-05 14:26:08 - INFO - 正在爬取2/10則新聞。
+2026-09-05 14:26:10 - INFO - ✅ 成功獲取: SJM Resorts Donates MOP 5 Million to Support Disaster Relief and Reconstruction in Gyirong County。
+2026-09-05 14:26:10 - INFO - 正在爬取3/10則新聞。
+2026-09-05 14:26:12 - INFO - ✅ 成功獲取: 美高梅中國捐500萬  支援西藏吉隆救災善後。
+2026-09-05 14:26:12 - INFO - 正在爬取4/10則新聞。
+2026-09-05 14:26:14 - INFO - ✅ 成功獲取: Melco Donates MOP 5 Million to Support Disaster Relief and Reconstruction Efforts in Gyirong County, Xizang。
+2026-09-05 14:26:14 - INFO - 正在爬取5/10則新聞。
+2026-09-05 14:26:16 - INFO - ✅ 成功獲取: Modified Clothing Used to Hide Phones for Baccarat Live Stream Betting: Judiciary Police Arrested Three Men and Seizes 220,000 in Cash and Chips。
+2026-09-05 14:26:16 - INFO - 正在爬取6/10則新聞。
+2026-09-05 14:26:18 - INFO - ✅ 成功獲取: 金沙中國捐出1000萬  支援西藏吉隆救災工作。
+2026-09-05 14:26:18 - INFO - 正在爬取7/10則新聞。
+2026-09-05 14:26:19 - INFO - ✅ 成功獲取: GEG and Lui Che Woo Family Charitable Foundation Donate MOP10 Million to Support Relief and Recovery Efforts in Xizang。
+2026-09-05 14:26:19 - INFO - 正在爬取8/10則新聞。
+2026-09-05 14:26:21 - INFO - ✅ 成功獲取: Wynn Launches 20th Anniversary Share Award to Express Gratitude to Team Members and Share Success。
+2026-09-05 14:26:21 - INFO - 正在爬取9/10則新聞。
+2026-09-05 14:26:23 - INFO - ✅ 成功獲取: 澳娛綜合捐款500萬  支援西藏災區救援重建。
+2026-09-05 14:26:23 - INFO - 正在爬取10/10則新聞。
+2026-09-05 14:26:25 - INFO - ✅ 成功獲取: 永利澳門捐款500萬  助西藏吉隆應急救援災後重建。
