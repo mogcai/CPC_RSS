@@ -23085,3 +23085,72 @@
 2026-09-09 10:39:19 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/09/09。
 2026-09-09 10:39:20 - ERROR - ❌ 2026/09/09 連線失敗: 202
 2026-09-09 10:39:21 - ERROR - ❌ 2026/09/08 連線失敗: 202
+2026-09-09 15:47:32 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/09/09。
+2026-09-09 15:47:35 - INFO - 成功獲取 2026/09/09 數據，當日有21條新聞。
+2026-09-09 15:47:35 - INFO - 正在爬取1/0則新聞。
+2026-09-09 15:47:35 - INFO - ✅ 成功獲取: Ruínas de S. Paulo | Demolições em dois edifícios。
+2026-09-09 15:47:37 - INFO - 正在爬取2/0則新聞。
+2026-09-09 15:47:37 - INFO - ✅ 成功獲取: PISA 2025 | Macau lidera na resolução de problemas com recurso à tecnologia。
+2026-09-09 15:47:39 - INFO - 正在爬取3/0則新聞。
+2026-09-09 15:47:40 - INFO - ✅ 成功獲取: As guerras mundiais não se planeiam。
+2026-09-09 15:47:41 - INFO - 正在爬取4/0則新聞。
+2026-09-09 15:47:42 - INFO - ✅ 成功獲取: Editorial – Mudança de direcção。
+2026-09-09 15:47:43 - INFO - 正在爬取5/0則新聞。
+2026-09-09 15:47:44 - INFO - ✅ 成功獲取: Japão | Revisão em alta de crescimento do PIB do segundo trimestre。
+2026-09-09 15:47:45 - INFO - 正在爬取6/0則新聞。
+2026-09-09 15:47:46 - INFO - ✅ 成功獲取: Pyongyang | Destacada “aliança invencível” com a Rússia。
+2026-09-09 15:47:47 - INFO - 正在爬取7/0則新聞。
+2026-09-09 15:47:48 - INFO - ✅ 成功獲取: Qatar | China reforça laços e apoia papel no Médio Oriente。
+2026-09-09 15:47:49 - INFO - 正在爬取8/0則新聞。
+2026-09-09 15:47:50 - INFO - ✅ 成功獲取: China | Exportações crescem 25% em Agosto。
+2026-09-09 15:47:52 - INFO - 正在爬取9/0則新聞。
+2026-09-09 15:47:52 - INFO - ✅ 成功獲取: Museu de Arte de Macau recebe oficinas artísticas para crianças。
+2026-09-09 15:47:54 - INFO - 正在爬取10/0則新聞。
+2026-09-09 15:47:54 - INFO - ✅ 成功獲取: Fotografia | Ochre Space, em Lisboa, apresenta “-40ºC”, de A Yin。
+2026-09-09 15:47:56 - INFO - 正在爬取11/0則新聞。
+2026-09-09 15:47:56 - INFO - ✅ 成功獲取: Uber | Mais de mil motoristas activos。
+2026-09-09 15:47:58 - INFO - 正在爬取12/0則新聞。
+2026-09-09 15:47:59 - INFO - ✅ 成功獲取: João Geraldo eliminado do Torneio de Campeões de Macau em ténis de mesa。
+2026-09-09 15:48:00 - INFO - 正在爬取13/0則新聞。
+2026-09-09 15:48:01 - INFO - ✅ 成功獲取: ANIMA | Admitidas dificuldades com dívida de 1,4 milhões。
+2026-09-09 15:48:02 - INFO - 正在爬取14/0則新聞。
+2026-09-09 15:48:03 - INFO - ✅ 成功獲取: Hengqin | Criado “Cartão de Talentos de Macau-Hengqin”。
+2026-09-09 15:48:04 - INFO - 正在爬取15/0則新聞。
+2026-09-09 15:48:05 - INFO - ✅ 成功獲取: Ferries | Associação pede a empresas que coordenem horários。
+2026-09-09 15:48:06 - INFO - 正在爬取16/0則新聞。
+2026-09-09 15:48:07 - INFO - ✅ 成功獲取: Moeda | Suspeito de falsificação em prisão preventiva。
+2026-09-09 15:48:08 - INFO - 正在爬取17/0則新聞。
+2026-09-09 15:48:09 - INFO - ✅ 成功獲取: Burlas | Vong Hou Pio pede alertas direccionados a idosos。
+2026-09-09 15:48:11 - INFO - 正在爬取18/0則新聞。
+2026-09-09 15:48:11 - INFO - ✅ 成功獲取: Hengqin | Universidades da RAEM vão trabalhar em rede no novo campus。
+2026-09-09 15:48:13 - INFO - 正在爬取19/0則新聞。
+2026-09-09 15:48:13 - INFO - ✅ 成功獲取: DSAT | Lançada plataforma de aprovação de marcas de modelos de veículos。
+2026-09-09 15:48:15 - INFO - 正在爬取20/0則新聞。
+2026-09-09 15:48:15 - INFO - ✅ 成功獲取: Aviação | Criado grupo de trabalho para promover abertura do mercado。
+2026-09-09 15:48:17 - INFO - 正在爬取21/0則新聞。
+2026-09-09 15:48:17 - INFO - ✅ 成功獲取: Parques infantis | Estudo alerta para desigualdade na oferta。
+2026-09-09 15:48:19 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-09-09 15:48:19 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/09/09。
+2026-09-09 15:48:19 - ERROR - ❌ 2026/09/09 連線失敗: 403
+2026-09-09 15:48:19 - INFO - 成功獲取 2026/09/09 數據，當日有0條新聞。
+2026-09-09 15:48:19 - WARNING - ⚠️ 當日沒有新聞。
+2026-09-09 15:48:19 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/09/09。
+2026-09-09 15:48:22 - ERROR - ❌ 2026/09/09 連線失敗: 403
+2026-09-09 15:48:22 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/09/08。
+2026-09-09 15:48:24 - ERROR - ❌ 2026/09/08 連線失敗: 403
+2026-09-09 15:48:24 - INFO - ⚠️ 當日沒有新聞。
+2026-09-09 15:48:26 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/09/09。
+2026-09-09 15:48:27 - INFO - ✅ 成功獲取 2026/09/09 數據，當日有3條新聞。
+2026-09-09 15:48:29 - INFO - ✅ 成功獲取 2026/09/08 數據，當日有6條新聞。
+2026-09-09 15:48:29 - INFO - 正在爬取1/6則新聞。
+2026-09-09 15:48:31 - INFO - ✅ 成功獲取: 粵港澳大灣區職業技能大賽  新濠團隊奪兩項西餐甜點冠軍。
+2026-09-09 15:48:31 - INFO - 正在爬取2/6則新聞。
+2026-09-09 15:48:33 - INFO - ✅ 成功獲取: 廣州從化賽馬突延期  香港賽馬會大灣區布局受挫。
+2026-09-09 15:48:33 - INFO - 正在爬取3/6則新聞。
+2026-09-09 15:48:34 - INFO - ✅ 成功獲取: 柬埔寨10月起暫停賭場網上博彩  全面切斷詐騙與洗錢鏈。
+2026-09-09 15:48:34 - INFO - 正在爬取4/6則新聞。
+2026-09-09 15:48:36 - INFO - ✅ 成功獲取: 周焯華Mandy Lieu昔日愛巢珒然銀主盤8120萬沽 12年間貶值11%。
+2026-09-09 15:48:36 - INFO - 正在爬取5/6則新聞。
+2026-09-09 15:48:37 - INFO - ✅ 成功獲取: Uber的士登澳半年行程量升5倍 推微信小程序促進灣區無縫出行。
+2026-09-09 15:48:37 - INFO - 正在爬取6/6則新聞。
+2026-09-09 15:48:39 - INFO - ✅ 成功獲取: Uber Taxi’s Macau Trips Surge Over 5‑Fold in Six‑Months; New WeChat Mini‑Program Boosts Greater Bay Area Seamless Travel。
