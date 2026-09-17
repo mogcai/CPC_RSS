@@ -25,7 +25,8 @@ if data.get('list'):
         date=post['dateAt']
         # date=datetime.strptime(date, '%Y-%m-%dT%H:%M:%S%z').strftime('%Y-%m-%d %H:%M:%S')
         if post.get('content'):
-            content=BeautifulSoup(BeautifulSoup(post['content'], 'html.parser').decode('utf-8')).text
+            # content=BeautifulSoup(BeautifulSoup(post['content'], 'html.parser').decode('utf-8')).text
+            content = BeautifulSoup(post['content'], 'html.parser').get_text(separator=' ', strip=True)
         else:
             content=''
         dict_post={
