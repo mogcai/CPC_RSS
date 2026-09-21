@@ -23796,3 +23796,58 @@
 2026-09-20 20:11:40 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/09/20。
 2026-09-20 20:11:42 - ERROR - ❌ 2026/09/20 連線失敗: 202
 2026-09-20 20:11:42 - ERROR - ❌ 2026/09/19 連線失敗: 202
+2026-09-21 02:57:40 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/09/21。
+2026-09-21 02:57:44 - INFO - 成功獲取 2026/09/21 數據，當日有20條新聞。
+2026-09-21 02:57:44 - INFO - 正在爬取1/0則新聞。
+2026-09-21 02:57:45 - INFO - ✅ 成功獲取: MICE | DOC DMC e smallWORLD celebraram 18 anos de actividade。
+2026-09-21 02:57:46 - INFO - 正在爬取2/0則新聞。
+2026-09-21 02:57:47 - INFO - ✅ 成功獲取: Casa Branca | Líderes da OpenAI e Nvidia presentes em jantar com Xi Jinping。
+2026-09-21 02:57:48 - INFO - 正在爬取3/0則新聞。
+2026-09-21 02:57:49 - INFO - ✅ 成功獲取: Seul acusa Pyongyang de lançar novo míssil balístico e outro projéctil em direcção ao mar。
+2026-09-21 02:57:50 - INFO - 正在爬取4/0則新聞。
+2026-09-21 02:57:51 - INFO - ✅ 成功獲取: Escândalo generalizado na arbitragem portuguesa。
+2026-09-21 02:57:52 - INFO - 正在爬取5/0則新聞。
+2026-09-21 02:57:53 - INFO - ✅ 成功獲取: Sérgio Raimundo destaca importância da escritora moçambicana。
+2026-09-21 02:57:54 - INFO - 正在爬取6/0則新聞。
+2026-09-21 02:57:55 - INFO - ✅ 成功獲取: “MasterChef Asia” | Programa filmado no território estreia esta semana。
+2026-09-21 02:57:56 - INFO - 正在爬取7/0則新聞。
+2026-09-21 02:57:57 - INFO - ✅ 成功獲取: Banco central | Mantida taxa de juro a 3% pelo 17.º mês consecutivo。
+2026-09-21 02:57:58 - INFO - 正在爬取8/0則新聞。
+2026-09-21 02:57:59 - INFO - ✅ 成功獲取: Alerta errado de IA quase levou Estados Unidos a interceptar navio chinês。
+2026-09-21 02:58:00 - INFO - 正在爬取9/0則新聞。
+2026-09-21 02:58:01 - INFO - ✅ 成功獲取: UE pediu à China que limite exportações de automóveis híbridos。
+2026-09-21 02:58:02 - INFO - 正在爬取10/0則新聞。
+2026-09-21 02:58:03 - INFO - ✅ 成功獲取: Espaço | China avança preparativos para missão tripulada à Lua até 2030。
+2026-09-21 02:58:05 - INFO - 正在爬取11/0則新聞。
+2026-09-21 02:58:05 - INFO - ✅ 成功獲取: Crime | Detido por tentativa de homicídio relacionada com dívida。
+2026-09-21 02:58:07 - INFO - 正在爬取12/0則新聞。
+2026-09-21 02:58:07 - INFO - ✅ 成功獲取: Zona A | Residentes querem mais autocarros。
+2026-09-21 02:58:09 - INFO - 正在爬取13/0則新聞。
+2026-09-21 02:58:09 - INFO - ✅ 成功獲取: Macau Pass | Empresa rejeita falhas de segurança。
+2026-09-21 02:58:11 - INFO - 正在爬取14/0則新聞。
+2026-09-21 02:58:11 - INFO - ✅ 成功獲取: Turismo | Número de visitantes subiu 6% para 4,5 milhões em Agosto。
+2026-09-21 02:58:13 - INFO - 正在爬取15/0則新聞。
+2026-09-21 02:58:13 - INFO - ✅ 成功獲取: Cooperação | Chefe do Executivo reuniu com dirigente de Hebei。
+2026-09-21 02:58:15 - INFO - 正在爬取16/0則新聞。
+2026-09-21 02:58:15 - INFO - ✅ 成功獲取: IA | PJ preocupada com possível ameaça à segurança nacional。
+2026-09-21 02:58:17 - INFO - 正在爬取17/0則新聞。
+2026-09-21 02:58:18 - INFO - ✅ 成功獲取: Patriotismo | 300 alunos e docentes em Pequim。
+2026-09-21 02:58:19 - INFO - 正在爬取18/0則新聞。
+2026-09-21 02:58:20 - INFO - ✅ 成功獲取: Jogos Asiáticos | Sam Hou Fai felicita atletas de Macau medalhados。
+2026-09-21 02:58:21 - INFO - 正在爬取19/0則新聞。
+2026-09-21 02:58:22 - INFO - ✅ 成功獲取: TJB | Concluída audiência do processo em que Au Kam San é arguido。
+2026-09-21 02:58:23 - INFO - 正在爬取20/0則新聞。
+2026-09-21 02:58:24 - INFO - ✅ 成功獲取: Poesia | Editora portuguesa lança “China – Poemas do Erotismo Suave”。
+2026-09-21 02:58:25 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-09-21 02:58:26 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/09/21。
+2026-09-21 02:58:26 - ERROR - ❌ 2026/09/21 連線失敗: 403
+2026-09-21 02:58:26 - INFO - 成功獲取 2026/09/21 數據，當日有0條新聞。
+2026-09-21 02:58:26 - WARNING - ⚠️ 當日沒有新聞。
+2026-09-21 02:58:26 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/09/21。
+2026-09-21 02:58:28 - ERROR - ❌ 2026/09/21 連線失敗: 403
+2026-09-21 02:58:28 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/09/20。
+2026-09-21 02:58:30 - ERROR - ❌ 2026/09/20 連線失敗: 403
+2026-09-21 02:58:30 - INFO - ⚠️ 當日沒有新聞。
+2026-09-21 02:58:32 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/09/21。
+2026-09-21 02:58:34 - ERROR - ❌ 2026/09/21 連線失敗: 404
+2026-09-21 02:58:36 - ERROR - ❌ 2026/09/20 連線失敗: 404
