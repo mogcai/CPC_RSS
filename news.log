@@ -26046,3 +26046,30 @@
 2026-10-03 15:36:12 - INFO - ✅ 成功獲取: Pansy Ho Wins Permanent Injunction from Hong Kong High Court Following Prolonged Harassment and Intimidation by Stranger。
 2026-10-03 15:36:12 - INFO - 正在爬取6/6則新聞。
 2026-10-03 15:36:14 - INFO - ✅ 成功獲取: Macau Off to Flying Start for National Day Golden Week with Day 1 Visitor Arrivals Reaching 169,000, Up 22.3% Year-on-Year。
+2026-10-03 20:30:26 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/10/03。
+2026-10-03 20:30:27 - ERROR - ❌ 2026/10/03 連線失敗: 404
+2026-10-03 20:30:27 - WARNING - ⚠️ 沒有新聞。
+2026-10-03 20:30:27 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/10/03。
+2026-10-03 20:30:28 - ERROR - ❌ 2026/10/03 連線失敗: 403
+2026-10-03 20:30:28 - INFO - 成功獲取 2026/10/03 數據，當日有0條新聞。
+2026-10-03 20:30:28 - WARNING - ⚠️ 當日沒有新聞。
+2026-10-03 20:30:28 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/10/03。
+2026-10-03 20:30:30 - ERROR - ❌ 2026/10/03 連線失敗: 403
+2026-10-03 20:30:30 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/10/02。
+2026-10-03 20:30:32 - ERROR - ❌ 2026/10/02 連線失敗: 403
+2026-10-03 20:30:32 - INFO - ⚠️ 當日沒有新聞。
+2026-10-03 20:30:34 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/10/03。
+2026-10-03 20:30:35 - ERROR - ❌ 2026/10/03 連線失敗: 404
+2026-10-03 20:30:37 - INFO - ✅ 成功獲取 2026/10/02 數據，當日有6條新聞。
+2026-10-03 20:30:37 - INFO - 正在爬取1/6則新聞。
+2026-10-03 20:30:39 - INFO - ✅ 成功獲取: Macau Off to Flying Start for National Day Golden Week with Day 1 Visitor Arrivals Reaching 169,000, Up 22.3% Year-on-Year。
+2026-10-03 20:30:39 - INFO - 正在爬取2/6則新聞。
+2026-10-03 20:30:41 - INFO - ✅ 成功獲取: Pansy Ho Wins Permanent Injunction from Hong Kong High Court Following Prolonged Harassment and Intimidation by Stranger。
+2026-10-03 20:30:41 - INFO - 正在爬取3/6則新聞。
+2026-10-03 20:30:42 - INFO - ✅ 成功獲取: Fukuoka’s Oto Town Plans to Bid for Casino Resort; Multiple Operators Conduct Site Visits。
+2026-10-03 20:30:42 - INFO - 正在爬取4/6則新聞。
+2026-10-03 20:30:44 - INFO - ✅ 成功獲取: 衞星場退場重創新口岸商圈租金挫逾八成  專家籲順應市場調節。
+2026-10-03 20:30:44 - INFO - 正在爬取5/6則新聞。
+2026-10-03 20:30:46 - INFO - ✅ 成功獲取: 澳門國慶黃金周開門紅 首日入境旅客16.9萬人次同比增22.3%。
+2026-10-03 20:30:46 - INFO - 正在爬取6/6則新聞。
+2026-10-03 20:30:48 - INFO - ✅ 成功獲取: 何超瓊遭女子騷擾恐嚇逾年  入稟高院獲批永久禁制令。
