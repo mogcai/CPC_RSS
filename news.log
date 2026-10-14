@@ -27680,3 +27680,74 @@
 2026-10-14 03:14:12 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/10/14。
 2026-10-14 03:14:14 - ERROR - ❌ 2026/10/14 連線失敗: 404
 2026-10-14 03:14:15 - ERROR - ❌ 2026/10/13 連線失敗: 202
+2026-10-14 11:01:32 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/10/14。
+2026-10-14 11:01:33 - INFO - 成功獲取 2026/10/14 數據，當日有17條新聞。
+2026-10-14 11:01:33 - INFO - 正在爬取1/0則新聞。
+2026-10-14 11:01:33 - INFO - ✅ 成功獲取: FMI | Resiliência financeira global está a “chegar ao limite”。
+2026-10-14 11:01:35 - INFO - 正在爬取2/0則新聞。
+2026-10-14 11:01:35 - INFO - ✅ 成功獲取: Não precisas de sair do armário se não quiseres。
+2026-10-14 11:01:37 - INFO - 正在爬取3/0則新聞。
+2026-10-14 11:01:37 - INFO - ✅ 成功獲取: Lamborghini | André Couto vai estar nas Finais em Itália。
+2026-10-14 11:01:39 - INFO - 正在爬取4/0則新聞。
+2026-10-14 11:01:39 - INFO - ✅ 成功獲取: Pequim aprova preparativos da VISA para entrar no mercado de cartões bancários。
+2026-10-14 11:01:41 - INFO - 正在爬取5/0則新聞。
+2026-10-14 11:01:41 - INFO - ✅ 成功獲取: Guerras de preços na China reforçam domínio mundial das tecnologias verdes。
+2026-10-14 11:01:43 - INFO - 正在爬取6/0則新聞。
+2026-10-14 11:01:43 - INFO - ✅ 成功獲取: Cooperação | China trabalha com Rússia para proteger rotas marítimas e abastecimento energético。
+2026-10-14 11:01:45 - INFO - 正在爬取7/0則新聞。
+2026-10-14 11:01:45 - INFO - ✅ 成功獲取: FMI | Apontado crescimento da China para 4,5% em 2026。
+2026-10-14 11:01:47 - INFO - 正在爬取8/0則新聞。
+2026-10-14 11:01:47 - INFO - ✅ 成功獲取: Hengqin | Festival da Cultura Lusófona este fim-de-semana。
+2026-10-14 11:01:49 - INFO - 正在爬取9/0則新聞。
+2026-10-14 11:01:49 - INFO - ✅ 成功獲取: Música | Achun lança dois novos singles em plataformas digitais。
+2026-10-14 11:01:51 - INFO - 正在爬取10/0則新聞。
+2026-10-14 11:01:51 - INFO - ✅ 成功獲取: Saúde | Macau reforça rastreio devido a “pneumonia desconhecida”。
+2026-10-14 11:01:53 - INFO - 正在爬取11/0則新聞。
+2026-10-14 11:01:53 - INFO - ✅ 成功獲取: Casinos | Joey Lao admite resultados inesperados。
+2026-10-14 11:01:55 - INFO - 正在爬取12/0則新聞。
+2026-10-14 11:01:55 - INFO - ✅ 成功獲取: Jogo | CLSA avisa que mais visitantes não se traduzem em receitas。
+2026-10-14 11:01:57 - INFO - 正在爬取13/0則新聞。
+2026-10-14 11:01:57 - INFO - ✅ 成功獲取: Fundo de Pensões | Sugerido investimento para garantir sustentabilidade。
+2026-10-14 11:01:59 - INFO - 正在爬取14/0則新聞。
+2026-10-14 11:01:59 - INFO - ✅ 成功獲取: FMI | Previsão para RAEM mantida, crescimento de HK revisto em alta。
+2026-10-14 11:02:01 - INFO - 正在爬取15/0則新聞。
+2026-10-14 11:02:01 - INFO - ✅ 成功獲取: Chineses Ultramarinos | Associação promete “contar a história bem”。
+2026-10-14 11:02:02 - INFO - 正在爬取16/0則新聞。
+2026-10-14 11:02:03 - INFO - ✅ 成功獲取: A-Má | O Lam quer investimento de países de língua portuguesa。
+2026-10-14 11:02:04 - INFO - 正在爬取17/0則新聞。
+2026-10-14 11:02:05 - INFO - ✅ 成功獲取: Mariana Pereira, investigadora: “Uma Macau que vai muito além da terra”。
+2026-10-14 11:02:07 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-10-14 11:02:07 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/10/14。
+2026-10-14 11:02:07 - ERROR - ❌ 2026/10/14 連線失敗: 403
+2026-10-14 11:02:07 - INFO - 成功獲取 2026/10/14 數據，當日有0條新聞。
+2026-10-14 11:02:07 - WARNING - ⚠️ 當日沒有新聞。
+2026-10-14 11:02:07 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/10/14。
+2026-10-14 11:02:09 - ERROR - ❌ 2026/10/14 連線失敗: 403
+2026-10-14 11:02:09 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/10/13。
+2026-10-14 11:02:11 - ERROR - ❌ 2026/10/13 連線失敗: 403
+2026-10-14 11:02:11 - INFO - ⚠️ 當日沒有新聞。
+2026-10-14 11:02:14 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/10/14。
+2026-10-14 11:02:16 - INFO - ✅ 成功獲取 2026/10/14 數據，當日有2條新聞。
+2026-10-14 11:02:17 - INFO - ✅ 成功獲取 2026/10/13 數據，當日有11條新聞。
+2026-10-14 11:02:17 - INFO - 正在爬取1/11則新聞。
+2026-10-14 11:02:19 - INFO - ✅ 成功獲取: Industry Experts Propose Strategies to Optimize Macao’s Visitor Base and Tackle Carrying Capacity。
+2026-10-14 11:02:19 - INFO - 正在爬取2/11則新聞。
+2026-10-14 11:02:21 - INFO - ✅ 成功獲取: Genting Shares drop 23% in Worst Loss Since 1998。
+2026-10-14 11:02:21 - INFO - 正在爬取3/11則新聞。
+2026-10-14 11:02:23 - INFO - ✅ 成功獲取: 換錢黨賭場非法匯兌出蠱惑  佯稱錢未過帳拒交籌碼穿崩被捕。
+2026-10-14 11:02:23 - INFO - 正在爬取4/11則新聞。
+2026-10-14 11:02:25 - INFO - ✅ 成功獲取: 澳門首家啤牌製造廠Bee Macau開業  創比利時在澳投資新里程。
+2026-10-14 11:02:25 - INFO - 正在爬取5/11則新聞。
+2026-10-14 11:02:27 - INFO - ✅ 成功獲取: BEE Macau Celebrates Grand Opening, Marking Major Belgian Investment Milestone。
+2026-10-14 11:02:27 - INFO - 正在爬取6/11則新聞。
+2026-10-14 11:02:29 - INFO - ✅ 成功獲取: 業界專家獻策優化澳門客源  應對承載力與特種兵挑戰。
+2026-10-14 11:02:29 - INFO - 正在爬取7/11則新聞。
+2026-10-14 11:02:30 - INFO - ✅ 成功獲取: 社區消費連環賞帶動客流  市民冀優化宣傳商戶倡多辦優惠活動。
+2026-10-14 11:02:30 - INFO - 正在爬取8/11則新聞。
+2026-10-14 11:02:32 - INFO - ✅ 成功獲取: 司警雷霆行動巡查路氹賭場及周邊區域  截獲一人涉逾期逗留。
+2026-10-14 11:02:32 - INFO - 正在爬取9/11則新聞。
+2026-10-14 11:02:34 - INFO - ✅ 成功獲取: 永利5餐廳榮登LA LISTE全球最佳餐廳甄選。
+2026-10-14 11:02:34 - INFO - 正在爬取10/11則新聞。
+2026-10-14 11:02:36 - INFO - ✅ 成功獲取: 新濠動員逾260義工佳節送暖  向社區傳遞小善大愛。
+2026-10-14 11:02:36 - INFO - 正在爬取11/11則新聞。
+2026-10-14 11:02:37 - INFO - ✅ 成功獲取: 大阪IR料推高外勞需求  2030年關西酒店餐飲業恐缺33萬人。
