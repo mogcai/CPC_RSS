@@ -28974,3 +28974,76 @@
 2026-10-21 11:02:11 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/10/21。
 2026-10-21 11:02:12 - ERROR - ❌ 2026/10/21 連線失敗: 202
 2026-10-21 11:02:13 - ERROR - ❌ 2026/10/20 連線失敗: 202
+2026-10-21 16:28:39 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/10/21。
+2026-10-21 16:28:40 - INFO - 成功獲取 2026/10/21 數據，當日有18條新聞。
+2026-10-21 16:28:40 - INFO - 正在爬取1/0則新聞。
+2026-10-21 16:28:41 - INFO - ✅ 成功獲取: IAM | Esplanadas abertas até às 22h。
+2026-10-21 16:28:42 - INFO - 正在爬取2/0則新聞。
+2026-10-21 16:28:43 - INFO - ✅ 成功獲取: Ucrânia | Trump disponível para reunião com Putin e Xi。
+2026-10-21 16:28:44 - INFO - 正在爬取3/0則新聞。
+2026-10-21 16:28:45 - INFO - ✅ 成功獲取: Heroísmo, amor e redenção (II)。
+2026-10-21 16:28:46 - INFO - 正在爬取4/0則新聞。
+2026-10-21 16:28:46 - INFO - ✅ 成功獲取: Economia | Banco central mantém taxa de juro inalterada pelo 18.º mês consecutivo。
+2026-10-21 16:28:48 - INFO - 正在爬取5/0則新聞。
+2026-10-21 16:28:48 - INFO - ✅ 成功獲取: Viagens | Isenção de vistos tem reforçado voos com Europa。
+2026-10-21 16:28:50 - INFO - 正在爬取6/0則新聞。
+2026-10-21 16:28:50 - INFO - ✅ 成功獲取: FRC | Livro de crónicas de Nelson Moura lançado hoje。
+2026-10-21 16:28:52 - INFO - 正在爬取7/0則新聞。
+2026-10-21 16:28:52 - INFO - ✅ 成功獲取: Marcas de Macau presentes no festival “City’Super” em Hong Kong。
+2026-10-21 16:28:54 - INFO - 正在爬取8/0則新聞。
+2026-10-21 16:28:54 - INFO - ✅ 成功獲取: Orquestra de Macau | “Obras-primas do Século XX” em novo concerto。
+2026-10-21 16:28:56 - INFO - 正在爬取9/0則新聞。
+2026-10-21 16:28:56 - INFO - ✅ 成功獲取: Bilhetes | Burlas causam prejuízos de 18.954 patacas。
+2026-10-21 16:28:58 - INFO - 正在爬取10/0則新聞。
+2026-10-21 16:28:58 - INFO - ✅ 成功獲取: Trânsito | DSAT não vai instalar semáforos com contagem。
+2026-10-21 16:28:59 - INFO - 正在爬取11/0則新聞。
+2026-10-21 16:29:00 - INFO - ✅ 成功獲取: Grande Baía | Dias mais quentes e mais chuvosos em 2025。
+2026-10-21 16:29:01 - INFO - 正在爬取12/0則新聞。
+2026-10-21 16:29:02 - INFO - ✅ 成功獲取: Seaport antecipa que concessionárias viram lucro diminuir no terceiro trimestre。
+2026-10-21 16:29:03 - INFO - 正在爬取13/0則新聞。
+2026-10-21 16:29:04 - INFO - ✅ 成功獲取: Imobiliário | Preços com nova redução anual em Setembro。
+2026-10-21 16:29:05 - INFO - 正在爬取14/0則新聞。
+2026-10-21 16:29:06 - INFO - ✅ 成功獲取: DSAL | Feira de emprego disponibiliza 1.600 vagas em Novembro。
+2026-10-21 16:29:07 - INFO - 正在爬取15/0則新聞。
+2026-10-21 16:29:08 - INFO - ✅ 成功獲取: Médicos | Governo descarta queixas e garante contratações。
+2026-10-21 16:29:09 - INFO - 正在爬取16/0則新聞。
+2026-10-21 16:29:09 - INFO - ✅ 成功獲取: Habitação | Reduzido preço de venda a funcionários públicos。
+2026-10-21 16:29:11 - INFO - 正在爬取17/0則新聞。
+2026-10-21 16:29:11 - INFO - ✅ 成功獲取: Concertação Social | Comissão passa a custar 874 mil patacas por ano。
+2026-10-21 16:29:13 - INFO - 正在爬取18/0則新聞。
+2026-10-21 16:29:13 - INFO - ✅ 成功獲取: Maria Célia Lima-Hernandes, autora de “Macau – Lótus do Oriente”: “Em Macau quase tudo é híbrido”。
+2026-10-21 16:29:15 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-10-21 16:29:15 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/10/21。
+2026-10-21 16:29:15 - ERROR - ❌ 2026/10/21 連線失敗: 403
+2026-10-21 16:29:15 - INFO - 成功獲取 2026/10/21 數據，當日有0條新聞。
+2026-10-21 16:29:15 - WARNING - ⚠️ 當日沒有新聞。
+2026-10-21 16:29:16 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/10/21。
+2026-10-21 16:29:18 - ERROR - ❌ 2026/10/21 連線失敗: 403
+2026-10-21 16:29:18 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/10/20。
+2026-10-21 16:29:20 - ERROR - ❌ 2026/10/20 連線失敗: 403
+2026-10-21 16:29:20 - INFO - ⚠️ 當日沒有新聞。
+2026-10-21 16:29:22 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/10/21。
+2026-10-21 16:29:24 - INFO - ✅ 成功獲取 2026/10/21 數據，當日有7條新聞。
+2026-10-21 16:29:26 - INFO - ✅ 成功獲取 2026/10/20 數據，當日有11條新聞。
+2026-10-21 16:29:26 - INFO - 正在爬取1/11則新聞。
+2026-10-21 16:29:27 - INFO - ✅ 成功獲取: MGM Osaka Expected to Need Up to 3,000 Dealers; “Japan Casino School” to Launch MGM-Certified Course Next Year。
+2026-10-21 16:29:27 - INFO - 正在爬取2/11則新聞。
+2026-10-21 16:29:29 - INFO - ✅ 成功獲取: 疑食葡京人到會出事  澳大書院聚餐28人食物中毒。
+2026-10-21 16:29:29 - INFO - 正在爬取3/11則新聞。
+2026-10-21 16:29:31 - INFO - ✅ 成功獲取: 司警雷霆行動夜巡路氹娛樂場 截查167人未發現違規。
+2026-10-21 16:29:31 - INFO - 正在爬取4/11則新聞。
+2026-10-21 16:29:33 - INFO - ✅ 成功獲取: Macau Q3 Gaming Revenue Drops 3.7% to MOP 60.41 Billion。
+2026-10-21 16:29:33 - INFO - 正在爬取5/11則新聞。
+2026-10-21 16:29:35 - INFO - ✅ 成功獲取: 資本監管加劇高端需求受壓  大行削澳門博企盈利預測。
+2026-10-21 16:29:35 - INFO - 正在爬取6/11則新聞。
+2026-10-21 16:29:37 - INFO - ✅ 成功獲取: 54 Arrested in South Korea for Casino Money Laundering。
+2026-10-21 16:29:37 - INFO - 正在爬取7/11則新聞。
+2026-10-21 16:29:39 - INFO - ✅ 成功獲取: Chinese Mainland Internet Users Get Redirected to Gambling Websites Due to Overseas Cyberattacks。
+2026-10-21 16:29:39 - INFO - 正在爬取8/11則新聞。
+2026-10-21 16:29:41 - INFO - ✅ 成功獲取: 新濠天地全新酒店REM幻宇開幕  標誌對新一代奢華客群充滿信心。
+2026-10-21 16:29:41 - INFO - 正在爬取9/11則新聞。
+2026-10-21 16:29:43 - INFO - ✅ 成功獲取: 美高梅大阪料聘最多3000荷官  日本賭場學校辦培訓課程應付需求。
+2026-10-21 16:29:43 - INFO - 正在爬取10/11則新聞。
+2026-10-21 16:29:45 - INFO - ✅ 成功獲取: 內地多省用戶上網異常跳轉至博彩網站  官方證涉境外攻擊籲防範。
+2026-10-21 16:29:45 - INFO - 正在爬取11/11則新聞。
+2026-10-21 16:29:47 - INFO - ✅ 成功獲取: 澳門第三季賭收604億按年跌3.7%  足球博彩單季收入創8年新高。
