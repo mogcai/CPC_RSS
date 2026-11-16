@@ -30758,3 +30758,56 @@
 2026-11-15 22:24:39 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/11/15。
 2026-11-15 22:24:40 - ERROR - ❌ 2026/11/15 連線失敗: 202
 2026-11-15 22:24:40 - ERROR - ❌ 2026/11/14 連線失敗: 202
+2026-11-16 04:25:21 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/11/16。
+2026-11-16 04:25:22 - INFO - 成功獲取 2026/11/16 數據，當日有17條新聞。
+2026-11-16 04:25:22 - INFO - 正在爬取1/0則新聞。
+2026-11-16 04:25:23 - INFO - ✅ 成功獲取: Cimeiras | Ásia acolhe ASEAN e APEC com comércio e IA na agenda。
+2026-11-16 04:25:24 - INFO - 正在爬取2/0則新聞。
+2026-11-16 04:25:25 - INFO - ✅ 成功獲取: Macau: da riqueza que chega à prosperidade que fica  。
+2026-11-16 04:25:26 - INFO - 正在爬取3/0則新聞。
+2026-11-16 04:25:26 - INFO - ✅ 成功獲取: GP Macau | Corrida volta a contar com um piloto brasileiro。
+2026-11-16 04:25:28 - INFO - 正在爬取4/0則新聞。
+2026-11-16 04:25:28 - INFO - ✅ 成功獲取: Saúde | Autorizada comercialização do primeiro comprimido tipo GLP-1 para emagrecer na China。
+2026-11-16 04:25:30 - INFO - 正在爬取5/0則新聞。
+2026-11-16 04:25:30 - INFO - ✅ 成功獲取: Segurança pública | Proibida posse de drones em Pequim。
+2026-11-16 04:25:32 - INFO - 正在爬取6/0則新聞。
+2026-11-16 04:25:32 - INFO - ✅ 成功獲取: Património | Professor Zhang Song dá palestra no MAM。
+2026-11-16 04:25:34 - INFO - 正在爬取7/0則新聞。
+2026-11-16 04:25:34 - INFO - ✅ 成功獲取: IPOR acolhe 11.ª conferência sobre português como idioma estrangeiro。
+2026-11-16 04:25:35 - INFO - 正在爬取8/0則新聞。
+2026-11-16 04:25:36 - INFO - ✅ 成功獲取: IIM | A “Alma” do território nas aguarelas de Lio Man Cheong。
+2026-11-16 04:25:37 - INFO - 正在爬取9/0則新聞。
+2026-11-16 04:25:38 - INFO - ✅ 成功獲取: Condutor admoestado depois de quase atropelar um jovem numa passadeira。
+2026-11-16 04:25:39 - INFO - 正在爬取10/0則新聞。
+2026-11-16 04:25:40 - INFO - ✅ 成功獲取: Acidente | Camião derruba sinalização suspensa que atinge veículo。
+2026-11-16 04:25:41 - INFO - 正在爬取11/0則新聞。
+2026-11-16 04:25:41 - INFO - ✅ 成功獲取: Crédito | Incumprimento ligado a cartões caiu em Setembro。
+2026-11-16 04:25:43 - INFO - 正在爬取12/0則新聞。
+2026-11-16 04:25:43 - INFO - ✅ 成功獲取: TUI | Ex-procurador-adjunto Kong Chi condenado a 26 anos de prisão。
+2026-11-16 04:25:45 - INFO - 正在爬取13/0則新聞。
+2026-11-16 04:25:45 - INFO - ✅ 成功獲取: Jogo | Empregos de residentes caem para níveis inéditos。
+2026-11-16 04:25:47 - INFO - 正在爬取14/0則新聞。
+2026-11-16 04:25:47 - INFO - ✅ 成功獲取: Saldos de empréstimos para habitação caem 4,2% em Setembro。
+2026-11-16 04:25:49 - INFO - 正在爬取15/0則新聞。
+2026-11-16 04:25:49 - INFO - ✅ 成功獲取: Economia | Secretária destaca crescimento de 2,9 por cento。
+2026-11-16 04:25:50 - INFO - 正在爬取16/0則新聞。
+2026-11-16 04:25:51 - INFO - ✅ 成功獲取: Economia | PIB cresceu 2,9% nos primeiros nove meses do ano。
+2026-11-16 04:25:52 - INFO - 正在爬取17/0則新聞。
+2026-11-16 04:25:53 - INFO - ✅ 成功獲取: Artes marciais | Mestre de Shaolin tenta captar alunos na era dos ecrãs。
+2026-11-16 04:25:54 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-11-16 04:25:55 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/11/16。
+2026-11-16 04:25:55 - ERROR - ❌ 2026/11/16 連線失敗: 403
+2026-11-16 04:25:55 - INFO - 成功獲取 2026/11/16 數據，當日有0條新聞。
+2026-11-16 04:25:55 - WARNING - ⚠️ 當日沒有新聞。
+2026-11-16 04:25:55 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/11/16。
+2026-11-16 04:25:57 - ERROR - ❌ 2026/11/16 連線失敗: 403
+2026-11-16 04:25:57 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/11/15。
+2026-11-16 04:25:59 - ERROR - ❌ 2026/11/15 連線失敗: 403
+2026-11-16 04:25:59 - INFO - ⚠️ 當日沒有新聞。
+2026-11-16 04:26:01 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/11/16。
+2026-11-16 04:26:03 - INFO - ✅ 成功獲取 2026/11/16 數據，當日有2條新聞。
+2026-11-16 04:26:05 - ERROR - ❌ 2026/11/15 連線失敗: 404
+2026-11-16 04:26:05 - INFO - 正在爬取1/2則新聞。
+2026-11-16 04:26:08 - INFO - ✅ 成功獲取: 南韓四大賭場營運商第三季業績分化　百樂達斯營業利益升62.3%。
+2026-11-16 04:26:08 - INFO - 正在爬取2/2則新聞。
+2026-11-16 04:26:11 - INFO - ✅ 成功獲取: 年輕旅客訪澳重情緒價值  賭場淪為打卡景點促使博企轉型。
