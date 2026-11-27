@@ -32157,3 +32157,62 @@
 2026-11-26 16:15:12 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/11/26。
 2026-11-26 16:15:14 - ERROR - ❌ 2026/11/26 連線失敗: 202
 2026-11-26 16:15:14 - ERROR - ❌ 2026/11/25 連線失敗: 202
+2026-11-27 01:24:42 - INFO - 🚀 爬取《Hoje Macau》程式啟動。目前設定日期: 2026/11/27。
+2026-11-27 01:24:43 - INFO - 成功獲取 2026/11/27 數據，當日有17條新聞。
+2026-11-27 01:24:43 - INFO - 正在爬取1/0則新聞。
+2026-11-27 01:24:44 - INFO - ✅ 成功獲取: Hong Kong | Homenagem às 168 vítimas mortais do incêndio。
+2026-11-27 01:24:46 - INFO - 正在爬取2/0則新聞。
+2026-11-27 01:24:46 - INFO - ✅ 成功獲取: IA | China e EUA podem criar “abismo colossal” a nível mundial。
+2026-11-27 01:24:48 - INFO - 正在爬取3/0則新聞。
+2026-11-27 01:24:48 - INFO - ✅ 成功獲取: Sexónia: quando o corpo é sexual enquanto a consciência dorme。
+2026-11-27 01:24:50 - INFO - 正在爬取4/0則新聞。
+2026-11-27 01:24:50 - INFO - ✅ 成功獲取: Tarifas | Japão considera “lamentável” novas medidas dos EUA。
+2026-11-27 01:24:52 - INFO - 正在爬取5/0則新聞。
+2026-11-27 01:24:53 - INFO - ✅ 成功獲取: Rússia | Família de jornalista japonês detido “mergulhada na dor”。
+2026-11-27 01:24:54 - INFO - 正在爬取6/0則新聞。
+2026-11-27 01:24:55 - INFO - ✅ 成功獲取: Segurança Nacional | Responsável defende uso de IA para conter riscos。
+2026-11-27 01:24:56 - INFO - 正在爬取7/0則新聞。
+2026-11-27 01:24:57 - INFO - ✅ 成功獲取: Ferrovia | China e Rússia retomam ligação através da Mongólia。
+2026-11-27 01:24:58 - INFO - 正在爬取8/0則新聞。
+2026-11-27 01:24:59 - INFO - ✅ 成功獲取: Arte de rua | “Let’s Go”, de Joana Borges, para ver na galeria Vick’s。
+2026-11-27 01:25:01 - INFO - 正在爬取9/0則新聞。
+2026-11-27 01:25:01 - INFO - ✅ 成功獲取: Bairros antigos | Governo recupera três terrenos。
+2026-11-27 01:25:03 - INFO - 正在爬取10/0則新聞。
+2026-11-27 01:25:03 - INFO - ✅ 成功獲取: Takeaway | Governo reúne com plataformas depois de ameaça de greve。
+2026-11-27 01:25:05 - INFO - 正在爬取11/0則新聞。
+2026-11-27 01:25:05 - INFO - ✅ 成功獲取: Festival de Gastronomia | Alvis Lo elogia oferta de pratos saudáveis。
+2026-11-27 01:25:07 - INFO - 正在爬取12/0則新聞。
+2026-11-27 01:25:08 - INFO - ✅ 成功獲取: Burla | Mulher com perdas de 48 mil dólares de Hong Kong。
+2026-11-27 01:25:09 - INFO - 正在爬取13/0則新聞。
+2026-11-27 01:25:10 - INFO - ✅ 成功獲取: Sangue | Volume total de dádivas aumentou 6,9% em 2025。
+2026-11-27 01:25:11 - INFO - 正在爬取14/0則新聞。
+2026-11-27 01:25:12 - INFO - ✅ 成功獲取: Emprego | Mais de 1.000 vagas técnicas e de gestão no próximo ano。
+2026-11-27 01:25:13 - INFO - 正在爬取15/0則新聞。
+2026-11-27 01:25:14 - INFO - ✅ 成功獲取: Saúde | Hospitais de dia obrigados a contratar seguro de 15 milhões。
+2026-11-27 01:25:15 - INFO - 正在爬取16/0則新聞。
+2026-11-27 01:25:16 - INFO - ✅ 成功獲取: Publicidade | Novo regulamento entra em vigor em 2027。
+2026-11-27 01:25:18 - INFO - 正在爬取17/0則新聞。
+2026-11-27 01:25:18 - INFO - ✅ 成功獲取: Tecnologia | Empresa de Macau Digit Force focada no mercado europeu。
+2026-11-27 01:25:20 - INFO - ✅ 成功保存: Hoje_Macau.xml。
+2026-11-27 01:25:20 - INFO - 🚀 爬取《Jornal Tribunal de Macau》程式啟動。目前設定日期: 2026/11/27。
+2026-11-27 01:25:20 - ERROR - ❌ 2026/11/27 連線失敗: 403
+2026-11-27 01:25:20 - INFO - 成功獲取 2026/11/27 數據，當日有0條新聞。
+2026-11-27 01:25:20 - WARNING - ⚠️ 當日沒有新聞。
+2026-11-27 01:25:20 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/11/27。
+2026-11-27 01:25:22 - ERROR - ❌ 2026/11/27 連線失敗: 403
+2026-11-27 01:25:22 - INFO - 🚀 爬取《Ponto Final》程式啟動。目前設定日期: 2026/11/26。
+2026-11-27 01:25:25 - ERROR - ❌ 2026/11/26 連線失敗: 403
+2026-11-27 01:25:25 - INFO - ⚠️ 當日沒有新聞。
+2026-11-27 01:25:26 - INFO - 🚀 爬取《All In Media》程式啟動。目前設定日期: 2026/11/27。
+2026-11-27 01:25:28 - ERROR - ❌ 2026/11/27 連線失敗: 404
+2026-11-27 01:25:30 - INFO - ✅ 成功獲取 2026/11/26 數據，當日有5條新聞。
+2026-11-27 01:25:30 - INFO - 正在爬取1/5則新聞。
+2026-11-27 01:25:32 - INFO - ✅ 成功獲取: 澳門估算明年賭收2400億 花旗指當局預算保守中信里昂削目標價。
+2026-11-27 01:25:32 - INFO - 正在爬取2/5則新聞。
+2026-11-27 01:25:34 - INFO - ✅ 成功獲取: 司警首三季偵破379宗換錢黨案件  扣查逾2800萬涉案款項。
+2026-11-27 01:25:34 - INFO - 正在爬取3/5則新聞。
+2026-11-27 01:25:35 - INFO - ✅ 成功獲取: Major Banks Split on Macau’s 2027 Gaming Revenue Outlook: Citi Expects Conservative Budget, CLSA Turns Bearish and Cuts Target Prices。
+2026-11-27 01:25:35 - INFO - 正在爬取4/5則新聞。
+2026-11-27 01:25:37 - INFO - ✅ 成功獲取: National Gymnasts to Perform in Macao Next Month。
+2026-11-27 01:25:37 - INFO - 正在爬取5/5則新聞。
+2026-11-27 01:25:39 - INFO - ✅ 成功獲取: 國家體操金牌運動員下月訪澳獻技  大匯演門票周六免費派發。
